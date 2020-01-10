@@ -2,7 +2,7 @@
 title: Dokumentation zu Adobe Experience Cloud
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Adobe Experience Cloud-Dokumentationen sowie Benutzerhandbücher und Tutorials zur Aktivierung.
 translation-type: tm+mt
-source-git-commit: e3e9c587efc6228bc1465fca4141ce246a5cb310
+source-git-commit: 9a25d2e82e33e979d74b270e54f099a55cc6fd8f
 
 ---
 
@@ -207,7 +207,7 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/experience-cloud.png) Adobe Experience Platform
+## ![Symbol](/help/assets/platform.png) Adobe Experience Platform
 
 <table>
 <thead>
