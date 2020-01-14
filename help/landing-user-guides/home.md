@@ -2,7 +2,7 @@
 title: Dokumentation zu Adobe Experience Cloud
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Adobe Experience Cloud-Dokumentationen sowie Benutzerhandbücher und Tutorials zur Aktivierung.
 translation-type: tm+mt
-source-git-commit: 9a25d2e82e33e979d74b270e54f099a55cc6fd8f
+source-git-commit: 4375979361d0040943d6bae968c3319040b16ee3
 
 ---
 
@@ -158,22 +158,13 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
 <tbody>
 <tr>
   <td>
-    <p><strong>AEM 6.5</strong></p>
+    <p><strong>AEM als Cloud-Dienst</strong></p>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> Experience Manager als Cloud-Dienst-Benutzerhandbücher</a></li>
+    </ul>
+    <p><strong>AEM-Versionen</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html"> AEM 6.5 Benutzerhandbuch-Hub</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/authoring/home.html"> Sites-Authoring (AEM 6.5)</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/developing/home.html"> Site-Entwicklung (AEM 6.5)</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/administering/home.html"> Siteverwaltung (AEM 6.5)</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/deploying/home.html"> Bereitstellen von Sites (AEM 6.5)</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/home.html"> Assets (AEM 6.5)</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/communities/home.html"> Communities (AEM 6.5)</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/mobile/home.html"> Mobil (AEM 6.5)</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/home.html"> Versionshinweise (AEM 6.5)</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/forms/home.html"> Forms (AEM 6.5)</a></li><li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/managing/home.html"> Verwalten (AEM 6.5)</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/classic-ui/home.html"> Classic UI Authoring (AEM 6.5)</a></li>
-    </ul>
-    <p><strong>Vorherige AEM-Versionen</strong></p>
-    <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> AEM 6.4 Benutzerhandbuch-Hub</a></li>
       <li><a href="https://helpx.adobe.com/support/experience-manager/6-3.html"> Benutzerhandbücher für frühere AEM-Versionen</a></li>
     </ul>
@@ -194,6 +185,7 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
   </td>
   <td>
     <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html"> AEM als Cloud-Service-Lehrgänge</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> Übungen zu AEM Assets</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html"> AEM Forms-Lernprogramme</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/sites/overview.html"> Tutorials zu AEM-Sites</a></li>
@@ -207,38 +199,7 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/platform.png) Adobe Experience Platform
-
-<table>
-<thead>
-  <tr>
-    <th>Benutzerhandbücher</th>
-    <th>Übungen und Entwicklung</th>
-  </tr>
-</thead>
-<tbody>
-<tr>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> Handbuch zur Echtzeit-Kundendatenplattform</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Übungen zur Erlebnisplattform</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html"> Implementierungshandbuch starten</a></li>
-      <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform Developer APIs</a></li>
-      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html"> Experience Platform Web SDK</a></li>
-    </ul>
-  </td>
-</tr>
-</tbody>
-</table>
-
-## ![Symbolverwaltung](/help/assets/experience-cloud.png) , -implementierung und Hauptdienste
+## ![Symbol](/help/assets/experience-cloud.png) -Hauptdienste, Verwaltung und Implementierung
 
 <table>
 <thead>
@@ -251,8 +212,8 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
 <tr>
   <td>
     <ul>
-      <li><a href="https://helpx.adobe.com/enterprise/using/admin-console.html"> Admin Console</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html"> Hauptdienstschnittstelle</a></li>
+      <li><a href="https://helpx.adobe.com/enterprise/using/admin-console.html"> Admin Console</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/id-service/using/home.html"> ECID-Dienst-Handbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Mobile Services v4 SDKs</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Handbuch zur Gerätekooperation</a></li>
@@ -274,34 +235,52 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
 </tbody>
 </table>
 
-## ![Symbolstandortdienst](/help/assets/experience-cloud.png)
-
-<table>
-<thead>
-  <tr>
-    <th>Benutzerhandbuch</th>
-    <th></th>
-  </tr>
-</thead>
-<tbody>
-<tr>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Hilfe zum Standortdienst</a></li>
-    </ul>
-  </td>
-  <td>
-  </td>
-</tr>
-</tbody>
-</table>
-
-## ![Icon](/help/assets/experience-cloud.png) Journey Orchestrierung
+## ![Symbol](/help/assets/platform.png) -Erlebnisplattform
 
 <table>
 <thead>
   <tr>
     <th>Benutzerhandbücher</th>
+    <th>Übungen und Entwicklung</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+  <td>
+    <p><strong>Experience Platform</strong></p>
+    <ul>
+      <li><a href="https://www.adobe.io/apis/experienceplatform/home/overview.html"> Dokumentation zur Experience Platform</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
+    </ul>
+    <p><strong>Anwendungsdienste mit Unterstützung der Experience Platform</strong></p>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> Handbuch zur Echtzeit-Kundendatenplattform</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> Benutzerhandbuch für die Reiseorganisation</a></li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Übungen zur Erlebnisplattform</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html"> Implementierungshandbuch starten</a></li>
+      <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform Developer APIs</a></li>
+      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html"> Experience Platform Web SDK</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Übungen zur Reisebegleitung</a></li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
+
+<!-- Trying out as subsection of Platform above
+## ![Icon](/help/assets/experience-cloud.png) Application Services Powered by Experience Platform
+
+<table>
+<thead>
+  <tr>
+    <th>User Guides</th>
     <th>Tutorials</th>
   </tr>
 </thead>
@@ -309,17 +288,43 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> Benutzerhandbuch für die Reiseorganisation</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> Real-time Customer Data Platform Guide</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> Journey Orchestration User Guide</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Übungen zur Reisebegleitung</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Journey Orchestration Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Experience Platform Tutorials</a></li>
     </ul>
   </td>
 </tr>
 </tbody>
 </table>
+
+## ![Icon](/help/assets/experience-cloud.png) Location Service
+
+<table>
+<thead>
+  <tr>
+    <th>User Guide</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+  <td>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Location Service Help</a></li>
+    </ul>
+  </td>
+  <td>
+  </td>
+</tr>
+</tbody>
+</table>
+-->
 
 ## ![Symbol](/help/assets/primetime.png) -Primetime
 
