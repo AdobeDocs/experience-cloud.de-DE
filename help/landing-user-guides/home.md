@@ -2,7 +2,7 @@
 title: Dokumentation zu Adobe Experience Cloud
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Adobe Experience Cloud-Dokumentationen sowie Benutzerhandbücher und Tutorials zur Aktivierung.
 translation-type: tm+mt
-source-git-commit: c5870d5c3bd3409b2553d52cb29f53e103275cc2
+source-git-commit: bea2fb5fe61711dcb8902569f4dc15dfb5546542
 
 ---
 
@@ -225,10 +225,10 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html"> Übungen zu Hauptdiensten</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html"> Implementierungshandbuch starten</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> Implementieren der Experience Cloud in mobilen iOS-Swift-Anwendungen</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> Implementieren der Experience Cloud in Mobile iOS Objective-C-Anwendungen</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html"> Implementieren der Experience Cloud in mobilen Android-Apps</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Implementierungshandbuch starten</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> Implementieren der Experience Cloud in mobilen iOS-Swift-Anwendungen</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> Implementieren der Experience Cloud in Mobile iOS Objective-C-Anwendungen</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> Implementieren der Experience Cloud in mobilen Android-Apps</a></li>
     </ul>
   </td>
 </tr>
@@ -264,7 +264,7 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Übungen zur Erlebnisplattform</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html"> Implementierungshandbuch starten</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Implementierungshandbuch starten</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform Developer APIs</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html"> Experience Platform Web SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Übungen zur Reisebegleitung</a></li>
@@ -273,58 +273,6 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
 </tr>
 </tbody>
 </table>
-
-<!-- Trying out as subsection of Platform above
-## ![Icon](/help/assets/experience-cloud.png) Application Services Powered by Experience Platform
-
-<table>
-<thead>
-  <tr>
-    <th>User Guides</th>
-    <th>Tutorials</th>
-  </tr>
-</thead>
-<tbody>
-<tr>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> Real-time Customer Data Platform Guide</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> Journey Orchestration User Guide</a></li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Journey Orchestration Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Experience Platform Tutorials</a></li>
-    </ul>
-  </td>
-</tr>
-</tbody>
-</table>
-
-## ![Icon](/help/assets/experience-cloud.png) Location Service
-
-<table>
-<thead>
-  <tr>
-    <th>User Guide</th>
-    <th></th>
-  </tr>
-</thead>
-<tbody>
-<tr>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Location Service Help</a></li>
-    </ul>
-  </td>
-  <td>
-  </td>
-</tr>
-</tbody>
-</table>
--->
 
 ## ![Symbol](/help/assets/primetime.png) -Primetime
 
