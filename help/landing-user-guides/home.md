@@ -2,7 +2,7 @@
 title: Dokumentation zu Adobe Experience Cloud
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Adobe Experience Cloud-Dokumentationen sowie Benutzerhandbücher und Tutorials zur Aktivierung.
 translation-type: tm+mt
-source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
+source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
 
 ---
 
@@ -225,7 +225,7 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Handbuch zur Gerätekooperation</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> DTM-Handbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Standortdienst</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Orte-Dienst (zuvor Standort-Dienst)</a></li>
     </ul>
   </td>
   <td>
@@ -265,6 +265,7 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> Handbuch zur Echtzeit-Kundendatenplattform</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> Benutzerhandbuch für die Reiseorganisation</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Orte-Dienst</a></li>
     </ul>
   </td>
   <td>
