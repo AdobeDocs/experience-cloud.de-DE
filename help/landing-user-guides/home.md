@@ -2,7 +2,7 @@
 title: Dokumentation zu Adobe Experience Cloud
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Adobe Experience Cloud-Dokumentationen sowie Benutzerhandbücher und Tutorials zur Aktivierung.
 translation-type: tm+mt
-source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
+source-git-commit: 86b60471cb3fc660eb6c36469fedb77e9034dd78
 
 ---
 
@@ -41,7 +41,7 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
 <thead>
   <tr>
     <th>Benutzerhandbücher</th>
-    <th>Übungen und Entwicklung</th>
+    <th>Übungen und Ressourcen</th>
   </tr>
 </thead>
 <tbody>
@@ -56,12 +56,15 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
       <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> Implementierungshandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html"> Handbuch importieren</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html"> Integrationshandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html"> Handbuch zu Medienanalysen</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> Data Workbench-Handbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
     </ul>
   </td>
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html"> Analytics-Übungen</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/technotes/home.html"> Technische Hinweise zu Analytics</a></li>
       <li><a href="https://www.adobe.io/apis/experiencecloud/analytics/docs.html"> Analytics-APIs</a></li>
     </ul>
   </td>
