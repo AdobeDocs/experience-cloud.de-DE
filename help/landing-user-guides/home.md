@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud-Dokumentation
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: 4fd6ab9c97bc830c5d11c8fc8694d3d9a1316f1c
+source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 
 ---
 
@@ -185,7 +185,7 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html"> AEM Cloud Manager</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html"> AEM-Kernkomponenten</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/exc/using/overview.html"> Adobe Experience Cloud-Bibliothek</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> AEM Desktop App</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> AEM-Desktopanwendung</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM Forms-Dienst zur automatischen Formularumwandlung</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html"> Dynamische Medien Classic</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Entwicklerhandbuch für dynamische Medien</a></li>
