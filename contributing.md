@@ -1,6 +1,6 @@
 ---
 source-git-commit: ec724d95b7d0f0a72119c745fb124192863a9aee
-translation-type: tm+mt
+translation-type: ht
 
 ---
 # Beitragen
@@ -19,5 +19,5 @@ Allen Drittanbieter-Beiträgen zu diesem Projekt muss eine unterzeichnete Anbiet
 
 ## Codeüberprüfungen
 
-Alle Übermittlungen sollten in Form von Pull-Anfragen eingehen und müssen von den Projektverantwortlichen geprüft werden. In der [GitHub-Dokumentation zu Pull-Anfragen](https://help.github.com/articles/about-pull-requests/)
-finden Sie weitere Informationen zum Senden von Pull-Anfragen.
+Alle Übermittlungen sollten in Form von Pull-Anforderungen eingehen und müssen von den Projektverantwortlichen geprüft werden. In der [GitHub-Dokumentation zu Pull-Anforderungen](https://help.github.com/de/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+finden Sie weitere Informationen zum Senden von Pull-Anforderungen.
