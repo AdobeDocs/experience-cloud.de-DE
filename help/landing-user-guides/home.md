@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud-Dokumentation
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
+source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 
 ---
 
@@ -116,13 +116,13 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html"> Campaign Standard</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html"> Campaign Classic</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html"> Campaign Classic</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html"> Kampagnen-Classic-Übungen</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html"> Kampagnenstandard-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Kampagnen-Classic-Übungen</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Kampagnenstandard-Tutorials</a></li>
     </ul>
   </td>
 </tr>
