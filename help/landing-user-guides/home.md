@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud-Dokumentation
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
+source-git-commit: 77f00aaf2984d22e69e262432a66b526e8129a84
 
 ---
 
@@ -11,7 +11,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 
 ![Banner](/help/assets/experience-cloud-banner-3.png)
 
-Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen für Adobe Experience Cloud.
+Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tutorials zu Adobe Experience Cloud.
 
 ## ![Symbol](/help/assets/experience-cloud.png) Versionshinweise
 
@@ -72,7 +72,7 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
 </tbody>
 </table>
 
-## ![Symbolziel](/help/assets/target.png)
+## ![Symbol](/help/assets/target.png) -Zielgruppe
 
 <table>
 <thead>
@@ -90,19 +90,19 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Target-Übungen</a></li>
-      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> Target Server-Side APIs</a></li>
-      <li><a href="https://github.com/adobe/target-nodejs-sdk"> Target NodeJS SDK</a></li>
-      <li><a href="https://github.com/adobe/target-java-sdk"> Target Java SDK</a></li>
-      <li><a href="https://developers.adobetarget.com/api/recommendations/"> Target Recommendations-API</a></li>
-      <li><a href="http://developers.adobetarget.com/api/#introduction"> Dokumentation zu Target Adobe.IO</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Zielgruppen-Tutorials</a></li>
+      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> Serverseitige APIs der Zielgruppe</a></li>
+      <li><a href="https://github.com/adobe/target-nodejs-sdk"> Zielgruppe NodeJS SDK</a></li>
+      <li><a href="https://github.com/adobe/target-java-sdk"> Zielgruppe Java SDK</a></li>
+      <li><a href="https://developers.adobetarget.com/api/recommendations/"> Zielgruppe Recommendations-API</a></li>
+      <li><a href="http://developers.adobetarget.com/api/#introduction"> Dokumentation zu Zielgruppe Adobe.IO</a></li>
     </ul>
   </td>
 </tr>
 </tbody>
 </table>
 
-## ![Symbolkampagne](/help/assets/campaign.png)
+## ![Symbol](/help/assets/campaign.png) -Campaign
 
 <table>
 <thead>
@@ -121,15 +121,15 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Kampagnen-Classic-Übungen</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Kampagnenstandard-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Kampagnen-Classic-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Campaign Standard</a></li>
     </ul>
   </td>
 </tr>
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/audience-manager.png) Audience Manager
+## ![Symbol](/help/assets/audience-manager.png) Audience Manager
 
 <table>
 <thead>
@@ -147,7 +147,7 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html">  Audience Manager-Übungen</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html"> Tutorials zu Audience Manager</a></li>
     </ul>
   </td>
 </tr>
@@ -195,7 +195,7 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html"> AEM als Cloud-Service-Lehrgänge</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> Übungen zu AEM Assets</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html"> AEM Forms-Lernprogramme</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html"> AEM Forms-Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/sites/overview.html"> Tutorials zu AEM-Sites</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html"> AEM Sites WKND-Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Foundation-Lehrgänge</a></li>
@@ -244,7 +244,7 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/platform.png) -Erlebnisplattform
+## ![Symbol](/help/assets/platform.png) Experience Platform
 
 <table>
 <thead>
@@ -277,7 +277,7 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Übungen zur Erlebnisplattform</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch-Implementierungshandbuch</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform-Entwickler-APIs</a></li>
-      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html"> Experience Platform-Web-SDK</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/edge/home.html"> Experience Platform-Web-SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Übungen zur Reisebegleitung</a></li>
     </ul>
   </td>
@@ -312,7 +312,7 @@ Diese Seite enthält eine umfassende Liste der Benutzerhandbücher und Übungen 
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/advertising-cloud.png) Advertising Cloud
+## ![Symbol](/help/assets/advertising-cloud.png) Advertising Cloud
 
 Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe-Symbol (?) am oberen Rand einer jeden Seite klicken.
 
