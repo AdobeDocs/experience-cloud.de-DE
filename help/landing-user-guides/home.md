@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud-Dokumentation
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: eede3f444c3bba202cb3a743a6c8f9513f5c0ecc
+source-git-commit: 2c27fc142ae16c5dc985b6790d7de2393c7cd863
 
 ---
 
@@ -49,15 +49,15 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Analytics-Haupthandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Handbuch zu Analytics-Tools</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Leitfaden für Analytics-Tools</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> Administratorhandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html"> Komponentenhandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html"> Export-Handbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> Implementierungshandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html"> Importhandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html"> Integrationshandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html"> Handbuch zu Medienanalysen</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> Data Workbench-Handbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html"> Medienanalyseleitfaden</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> Data Workbench-Leitfaden</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
     </ul>
   </td>
@@ -102,7 +102,7 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/campaign.png) -Campaign
+## ![Symbol](/help/assets/campaign.png) -Kampagne
 
 <table>
 <thead>
@@ -122,7 +122,7 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Kampagnen-Classic-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Campaign Standard</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Campaign Standard-Lernprogramme</a></li>
     </ul>
   </td>
 </tr>
@@ -184,8 +184,8 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-dispatcher/using/dispatcher.html"> AEM Dispatcher</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html"> AEM Cloud Manager</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html"> AEM-Kernkomponenten</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/exc/using/overview.html"> Adobe Experience Cloud-Bibliothek</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> AEM-Desktopanwendung</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html"> AEM Brand Portal</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM Forms-Dienst zur automatischen Formularumwandlung</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html"> Dynamische Medien Classic</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Entwicklerhandbuch für dynamische Medien</a></li>
