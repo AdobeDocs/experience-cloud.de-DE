@@ -1,14 +1,14 @@
 ---
-title: Adobe Experience Cloud-Softwareverteilung
-description: Verwendung der Adobe Experience Cloud-Softwareverteilung
-translation-type: tm+mt
+title: Softwareverteilung von Adobe Experience Cloud
+description: Verwendung der Softwareverteilung von Adobe Experience Cloud
+translation-type: ht
 source-git-commit: 683ec9df481b5bdb5f6bcdfd514134a69610fdd9
 
 ---
 
 
-# Adobe Experience Cloud-Softwareverteilung
+# Softwareverteilung von Adobe Experience Cloud
 
 ## Erste Überschrift
 
-Text zu folgen
+Text zum Folgen
