@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Cloud-Tutorials
 description: Links zu allen Experience Cloud-Tutorials und Lernhandbüchern
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
 
 ---
@@ -16,8 +16,8 @@ source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
 ## Target
 
 * [Target-Tutorials](https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html)
-* [Verwenden von Recommendations in einer Website](https://docs.adobe.com/content/help/en/target-learn/recommendations-in-a-website/overview.html)
-* [Adobe-Zielgruppe mit Adobe Mobile Services SDK v4 für Android](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html)
+* [Verwenden von Recommendations auf einer Website](https://docs.adobe.com/content/help/en/target-learn/recommendations-in-a-website/overview.html)
+* [Adobe Target mit Adobe Mobile Services SDK v4 für Android](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html)
 
 ## Audience Manager
 
@@ -51,15 +51,15 @@ source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
 
 Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe-Symbol (?) am oberen Rand einer jeden Seite klicken.
 
-* [Advertising Cloud – Versionshinweise](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#adcloud)
+* [Advertising Cloud – Versionshinweise](https://docs.adobe.com/content/help/de-DE/release-notes/experience-cloud/current.html#adcloud)
 
 ## Zusätzliche Ressourcen
 
 > [!MORELIKETHIS]
 >
->* [Experience Cloud -Dokumentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)
->* [Experience Cloud-Schulungen und -Support](https://helpx.adobe.com/support/experience-cloud.html)
+>* [Experience Cloud -Dokumentation](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.html)
+>* [Experience Cloud-Schulungen und -Support](https://helpx.adobe.com/de/support/experience-cloud.html)
 >* [Experience League](https://experienceleague.adobe.com/)
 >* [Community-Foren](https://forums.adobe.com/community/experience-cloud/)
->* [Adobe-Schulungen und -Tutorials](https://helpx.adobe.com/learning.html?promoid=KAUDK)
+>* [Adobe-Schulungen und -Tutorials](https://helpx.adobe.com/de/learning.html?promoid=KAUDK)
 
