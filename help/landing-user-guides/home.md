@@ -2,18 +2,18 @@
 title: Adobe Experience Cloud-Dokumentation
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
+source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
 
 ---
 
 
 # Adobe Experience Cloud-Dokumentation
 
-![Banner](/help/assets/experience-cloud-banner-3.png)
+![Banner](/help/assets/experience-cloud-banner-4.png)
 
 Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutorials zu Adobe Experience Cloud.
 
-## ![Symbol](/help/assets/experience-cloud.png) Versionshinweise
+## Versionshinweise
 
 <table>
 <thead>
@@ -35,7 +35,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/analytics.png) Analytics
+## Analytics
 
 <table>
 <thead>
@@ -72,7 +72,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/target.png) Target
+## Target
 
 <table>
 <thead>
@@ -102,7 +102,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/campaign.png) Campaign
+## Campaign
 
 <table>
 <thead>
@@ -129,7 +129,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/audience-manager.png) Audience Manager
+## Audience Manager
 
 <table>
 <thead>
@@ -154,7 +154,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/aem.png) Adobe Experience Manager
+## Adobe Experience Manager
 
 <table>
 <thead>
@@ -207,7 +207,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/experience-cloud.png) Core Services, Verwaltung und Implementierung
+## Hauptdienste, Verwaltung und Implementierung
 
 <table>
 <thead>
@@ -244,7 +244,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/platform.png) Experience Platform
+## Experience Platform
 
 <table>
 <thead>
@@ -286,7 +286,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/primetime.png) Primetime
+## Primetime
 
 <table>
 <thead>
@@ -313,7 +313,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/advertising-cloud.png) Advertising Cloud
+## Advertising Cloud
 
 Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe-Symbol (?) am oberen Rand einer jeden Seite klicken.
 
@@ -338,7 +338,7 @@ Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/marketo.png) Marketo
+## Marketo
 
 <table>
 <thead>
@@ -362,7 +362,7 @@ Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/magento.png) Magento
+## Magento
 
 <table>
 <thead>
@@ -385,7 +385,7 @@ Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/experience-cloud.png) Zusätzliche Experience Cloud-Handbücher
+## Zusätzliche Experience Cloud-Anleitungen
 
 <table>
 <thead>
