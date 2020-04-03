@@ -2,16 +2,16 @@
 title: Adobe Experience Cloud-Dokumentation
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: 94b17629897a888d3df601dbba632afbd99905af
+source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 
 ---
 
 
 # Adobe Experience Cloud-Dokumentation
 
-![Banner](/help/assets/experience-cloud-banner-3.png)
+![Banner](/help/assets/experience-cloud-banner-4.png)
 
-Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tutorials zu Adobe Experience Cloud.
+Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutorials zu Adobe Experience Cloud.
 
 ## ![Symbol](/help/assets/experience-cloud.png) Versionshinweise
 
@@ -35,13 +35,13 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
 </tbody>
 </table>
 
-## ![Symbolanalyse](/help/assets/analytics.png)
+## Analytics
 
 <table>
 <thead>
   <tr>
     <th>Benutzerhandbücher</th>
-    <th>Übungen und Ressourcen</th>
+    <th>Tutorials und Ressourcen</th>
   </tr>
 </thead>
 <tbody>
@@ -63,7 +63,7 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html"> Analytics-Übungen</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html"> Analytics-Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/technotes/home.html"> Technische Hinweise zu Analytics</a></li>
       <li><a href="https://www.adobe.io/apis/experiencecloud/analytics/docs.html"> Analytics-APIs</a></li>
     </ul>
@@ -72,7 +72,7 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/target.png) -Zielgruppe
+## Target
 
 <table>
 <thead>
@@ -90,19 +90,19 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Zielgruppen-Tutorials</a></li>
-      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> Serverseitige APIs der Zielgruppe</a></li>
-      <li><a href="https://github.com/adobe/target-nodejs-sdk"> Zielgruppe NodeJS SDK</a></li>
-      <li><a href="https://github.com/adobe/target-java-sdk"> Zielgruppe Java SDK</a></li>
-      <li><a href="https://developers.adobetarget.com/api/recommendations/"> Zielgruppe Recommendations-API</a></li>
-      <li><a href="http://developers.adobetarget.com/api/#introduction"> Dokumentation zu Zielgruppe Adobe.IO</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Target-Tutorials</a></li>
+      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> Serverseitige APIs für Target</a></li>
+      <li><a href="https://github.com/adobe/target-nodejs-sdk"> NodeJS-SDK für Target</a></li>
+      <li><a href="https://github.com/adobe/target-java-sdk"> Java-SDK für Target</a></li>
+      <li><a href="https://developers.adobetarget.com/api/recommendations/"> Recommendations-API für Target</a></li>
+      <li><a href="http://developers.adobetarget.com/api/#introduction"> Dokumentation zu Target Adobe.IO</a></li>
     </ul>
   </td>
 </tr>
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/campaign.png) -Kampagne
+## Campaign
 
 <table>
 <thead>
@@ -121,15 +121,15 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Kampagnen-Classic-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Campaign Standard-Lernprogramme</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Campaign Classic-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Campaign Standard-Tutorials</a></li>
     </ul>
   </td>
 </tr>
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/audience-manager.png) Audience Manager
+## Audience Manager
 
 <table>
 <thead>
@@ -147,14 +147,14 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html"> Tutorials zu Audience Manager</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html"> Audience Manager-Tutorials</a></li>
     </ul>
   </td>
 </tr>
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/aem.png) Adobe Experience Manager
+## Adobe Experience Manager
 
 <table>
 <thead>
@@ -168,12 +168,12 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
   <td>
     <p><strong>AEM als Cloud-Dienst</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> AEM als Cloud-Dienst-Benutzerhandbücher</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> Benutzerhandbücher für AEM als Cloud Service</a></li>
     </ul>
     <p><strong>AEM-Versionen</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html"> AEM 6.5-Benutzerhandbücher</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> AEM 6.4-Benutzerhandbücher</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html"> AEM 6.5-Benutzerhandbücher</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> AEM 6.4-Benutzerhandbücher</a></li>
       <li><a href="https://helpx.adobe.com/support/experience-manager/6-3.html"> Benutzerhandbücher für frühere AEM-Versionen</a></li>
     </ul>
     <p><strong>Zusätzliche AEM-Handbücher</strong></p>
@@ -193,12 +193,12 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html"> AEM als Cloud-Service-Lehrgänge</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> Übungen zu AEM Assets</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html"> Tutorials für AEM als Cloud Service</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Assets-Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html"> AEM Forms-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/sites/overview.html"> Tutorials zu AEM-Sites</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/sites/overview.html"> AEM Sites-Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html"> AEM Sites WKND-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Foundation-Lehrgänge</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Foundation-Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/dispatcher-tutorial/overview.html"> AEM Dispatcher Cache-Tutorial</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-with-aem-headless/overview.html"> AEM Headless-Tutorial</a></li>
     </ul>
@@ -207,7 +207,7 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/experience-cloud.png) -Hauptdienste, Verwaltung und Implementierung
+## Hauptdienste, Verwaltung und Implementierung
 
 <table>
 <thead>
@@ -222,18 +222,18 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html"> Schnittstelle für zentrale Dienste</a></li>
       <li><a href="https://helpx.adobe.com/enterprise/using/admin-console.html"> Admin Console</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/id-service/using/home.html"> Handbuch zum Experience Cloud ID-Dienst</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Handbuch zu Mobile Services</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/id-service/using/home.html"> Handbuch für Experience Cloud-ID-Dienst</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Mobile Services-Handbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> Mobile Services v4-SDKs</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Handbuch zur Gerätekooperation</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> Handbuch zum dynamischen Tag-Management</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Orte-Dienst (zuvor Standort-Dienst)</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places Service (zuvor Location Service)</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html"> Übungen zu Hauptdiensten</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html"> Core Services-Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch-Implementierungshandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> Implementieren von Experience Cloud in mobilen iOS Swift-Anwendungen</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> Implementieren von Experience Cloud in mobilen iOS Objective-C-Anwendungen</a></li>
@@ -244,7 +244,7 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/platform.png) Experience Platform
+## Experience Platform
 
 <table>
 <thead>
@@ -258,34 +258,35 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
   <td>
     <p><strong>Experience Platform</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/landing/home.html"> Dokumentation zur Experience Platform</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/release-notes/latest.html"> Versionshinweise zur Plattform</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/landing/home.html"> Dokumentation zu Experience Platform</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/release-notes/latest.html"> Platform – Versionshinweise</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
     </ul>
-    <p><strong>Anwendungsdienste mit Unterstützung der Experience Platform</strong></p>
+    <p><strong>Anwendungsdienste, die von Experience Platform unterstützt werden</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> Handbuch für Echtzeit-Kundendatenplattform</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> Benutzerhandbuch für die Reiseorganisation</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Orte-Dienst</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> Benutzerhandbuch für Journey Orchestration</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places Service</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Übungen zur Erlebnisplattform</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Videoschulungen zur Experience Platform</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html"> Experience Platform-Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch-Implementierungshandbuch</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform-Entwickler-APIs</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/edge/home.html"> Experience Platform-Web-SDK</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Übungen zur Reisebegleitung</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Journey Orchestration-Tutorials</a></li>
     </ul>
   </td>
 </tr>
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/primetime.png) -Primetime
+## Primetime
 
 <table>
 <thead>
@@ -312,7 +313,7 @@ Auf dieser Seite finden Sie eine umfassende Liste der Benutzerhandbücher und Tu
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/advertising-cloud.png) Advertising Cloud
+## Advertising Cloud
 
 Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe-Symbol (?) am oberen Rand einer jeden Seite klicken.
 
@@ -337,7 +338,7 @@ Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe
 </tbody>
 </table>
 
-## ![Symbolmarkierung](/help/assets/marketo.png)
+## Marketo
 
 <table>
 <thead>
@@ -350,8 +351,8 @@ Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.marketo.com/"> Marketo Product (Classic)</a></li>
-      <li><a href="https://help.marketo.com/hc/en-us"> Marketo Sky</a></li>
+      <li><a href="https://docs.marketo.com/"> Marketo Product (Classic)</a></li>
+      <li><a href="https://help.marketo.com/hc/en-us"> Marketo Sky</a></li>
       <li><a href="https://docs.marketo.com/display/BIZ/Bizible"> Bizible Docs</a></li>
     </ul>
   </td>
@@ -361,7 +362,7 @@ Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/magento.png) Magento
+## Magento
 
 <table>
 <thead>
@@ -375,7 +376,7 @@ Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe
   <td>
     <ul>
       <li><a href="https://magento.com/technical-resources"> Magento-Dokumentation</a></li>
-      <li><a href="https://docs.magento.com/mbi/"> Magento Business Intelligence (MBI) Benutzerhandbuch</a></li>
+      <li><a href="https://docs.magento.com/mbi/"> Benutzerhandbuch für Magento Business Intelligence (MBI)</a></li>
     </ul>
   </td>
   <td>
@@ -384,7 +385,7 @@ Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe
 </tbody>
 </table>
 
-## ![Symbol](/help/assets/experience-cloud.png) Zusätzliche Experience Cloud-Handbücher
+## Zusätzliche Experience Cloud-Anleitungen
 
 <table>
 <thead>
