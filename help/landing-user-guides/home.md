@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Cloud-Dokumentation
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d718636d9c81bc6166bbe72f998b106f4a9efee0
 
 ---
@@ -173,7 +173,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
     <p><strong>AEM-Versionen</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-65/user-guide/home.html"> AEM 6.5-Benutzerhandbücher</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> AEM 6.4-Benutzerhandbücher</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-64/user-guide/home.translate.html"> AEM 6.4-Benutzerhandbücher</a></li>
       <li><a href="https://helpx.adobe.com/de/support/experience-manager/6-3.html"> Benutzerhandbücher für frühere AEM-Versionen</a></li>
     </ul>
     <p><strong>Zusätzliche AEM-Handbücher</strong></p>
@@ -188,7 +188,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-brand-portal/using/home.html"> AEM Brand Portal</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/aem-forms-automated-conversion-service/using/introduction.html"> AEM Forms-Dienst zur automatischen Formularumwandlung</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/dynamic-media-classic/using/home.html"> Dynamische Medien Classic</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Entwicklerhandbuch für dynamische Medien</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/dynamic-media-developer-resources/landing/home.translate.html"> Entwicklerhandbuch für dynamische Medien</a></li>
     </ul>
   </td>
   <td>
@@ -207,7 +207,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
 </tbody>
 </table>
 
-## Hauptdienste, Verwaltung und Implementierung
+## Core Services, Verwaltung und Implementierung
 
 <table>
 <thead>
@@ -299,14 +299,14 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/release-notes/home.html"> Primetime – Versionshinweise</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/programming/home.html"> Primetime-Programmierhandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/migration/home.html"> Handbuch zur Primetime-Migration und -Umrechnung</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/reference-implementation/home.html"> Implementierung der Primetime-Referenz</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/ad-insertion/home.html"> Primetime-Einfügen dynamischer Anzeigen</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/drm/home.html"> Digital Rights Management für Primetime</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/reference/api-references.html"> Primetime-API-Verweise</a></li>
-      <li><a href="https://helpx.adobe.com/primetime/archives.html"> Primetime-Archivierte Dokumentation</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/release-notes/home.translate.html"> Primetime – Versionshinweise</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/programming/home.translate.html"> Primetime-Programmierhandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/migration/home.translate.html"> Migrations- und Konversionshandbuch für Primetime</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/reference-implementation/home.translate.html"> Referenzimplementierung für Primetime</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/ad-insertion/home.translate.html"> Dynamic Ad Insertion für Primetime</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/drm/home.translate.html"> Digital Rights Management für Primetime</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/reference/api-references.translate.html"> Primetime-API-Verweise</a></li>
+      <li><a href="https://helpx.adobe.com/primetime/archives.html"> Archivierte Dokumentationen zu Primetime</a></li>
     </ul>
   </td>
   <td>
@@ -387,7 +387,7 @@ Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe
 </tbody>
 </table>
 
-## Zusätzliche Experience Cloud-Anleitungen
+## Zusätzliche Experience Cloud-Handbücher
 
 <table>
 <thead>
