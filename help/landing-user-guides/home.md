@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Cloud-Dokumentation
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 16d9ff51e0d0a99f6f87981dbd84fe44453962f3
 
 ---
@@ -15,7 +15,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
 
 >[!NOTE]
 >
->Die Verwendung der Suchfunktion auf dieser Seite ist auf einen kleinen Satz von Inhalten beschränkt. Es wird empfohlen, zum Durchsuchen dieses Bereichs zu einem bestimmten Benutzerhandbuch (z. B. Analytics oder Zielgruppe) zu wechseln. Wir werden die Suchfunktion mit dem bevorstehenden Wechsel zu Experience League verbessern.
+>Die Verwendung der Suchfunktion auf dieser Seite ist auf einen kleinen Inhaltsbereich beschränkt. Es wird empfohlen, bei Fragen zu einem Bereich im jeweiligen Benutzerhandbuch zu suchen (z. B. Analytics oder Target). Wir werden die Suchfunktion mit dem Wechsel zu Experience League verbessern.
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
@@ -56,14 +56,19 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/landing/home.html">Analytics-Haupthandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/analyze/home.html"> Leitfaden für Analytics-Tools</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/admin/home.html"> Administratorhandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/components/home.html"> Komponentenhandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/export/home.html"> Export-Handbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/implementation/home.html"> Implementierungshandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/import/home.html"> Importhandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/integration/home.html"> Integrationshandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Analytics-Haupthandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Leitfaden für Analytics-Tools</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> Administratorhandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html
+"> Komponentenhandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html
+"> Export-Handbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html
+"> Implementierungshandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html
+"> Importhandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html
+"> Integrationshandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/media-analytics/using/media-overview.html"> Medienanalyseleitfaden</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/data-workbench/using/home.html"> Data Workbench-Leitfaden</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
@@ -72,7 +77,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html"> Analytics-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/technotes/home.html"> Technische Hinweise zu Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/technotes/home.html"> Technische Hinweise zu Analytics</a></li>
       <li><a href="https://www.adobe.io/apis/experiencecloud/analytics/docs.html"> Analytics-APIs</a></li>
     </ul>
   </td>
@@ -267,7 +272,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <p><strong>Experience Platform</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-platform/landing/home.html"> Dokumentation zu Experience Platform</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/experience-platform/release-notes/latest.html"> Platform – Versionshinweise</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/experience-platform/release-notes/latest.translate.html"> Platform – Versionshinweise</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
@@ -314,7 +319,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/ad-insertion/home.translate.html"> Dynamic Ad Insertion für Primetime</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/drm/home.translate.html"> Digital Rights Management für Primetime</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/reference/api-references.translate.html"> Primetime-API-Verweise</a></li>
-      <li><a href="https://helpx.adobe.com/primetime/archives.html"> Archivierte Dokumentationen zu Primetime</a></li>
+      <li><a href="https://helpx.adobe.com/de/primetime/archives.html"> Archivierte Dokumentationen zu Primetime</a></li>
     </ul>
   </td>
   <td>
