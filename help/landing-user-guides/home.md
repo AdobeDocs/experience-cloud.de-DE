@@ -2,10 +2,10 @@
 title: Adobe Experience Cloud-Dokumentation
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: 16d9ff51e0d0a99f6f87981dbd84fe44453962f3
+source-git-commit: 5efddee70396ff07b918cfc60914701c89bcae41
 workflow-type: tm+mt
-source-wordcount: '1290'
-ht-degree: 100%
+source-wordcount: '1269'
+ht-degree: 97%
 
 ---
 
@@ -18,7 +18,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
 
 >[!NOTE]
 >
->Die Verwendung der Suchfunktion auf dieser Seite ist auf einen kleinen Inhaltsbereich beschränkt. Es wird empfohlen, bei Fragen zu einem Bereich im jeweiligen Benutzerhandbuch zu suchen (z. B. Analytics oder Target). Wir werden die Suchfunktion mit dem Wechsel zu Experience League verbessern.
+>Für eine optimale Sucherfahrung während der Migration von Dokumentationsinhalten empfehlen wir, durch die folgenden Produktabschnitte zu navigieren und eine Suche auf der Führungsebene durchzuführen
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
@@ -62,11 +62,16 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Analytics-Haupthandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Leitfaden für Analytics-Tools</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> Administratorhandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html"> Komponentenhandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html"> Export-Handbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> Implementierungshandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html"> Importhandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html"> Integrationshandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html
+"> Komponentenhandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html
+"> Export-Handbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html
+"> Implementierungshandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html
+"> Importhandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html
+"> Integrationshandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/media-analytics/using/media-overview.html"> Medienanalyseleitfaden</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/data-workbench/using/home.html"> Data Workbench-Leitfaden</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
