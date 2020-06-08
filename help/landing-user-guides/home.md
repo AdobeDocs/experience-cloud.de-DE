@@ -18,7 +18,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
 
 >[!NOTE]
 >
->Für eine optimale Sucherfahrung während der Migration von Dokumentationsinhalten empfehlen wir, durch die folgenden Produktabschnitte zu navigieren und eine Suche auf der Führungsebene durchzuführen
+>Für eine optimale Sucherfahrung während der Migration von Dokumentationsinhalten empfehlen wir, durch die folgenden Produktabschnitte zu navigieren und eine Suche auf Führungsebene durchzuführen.
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
