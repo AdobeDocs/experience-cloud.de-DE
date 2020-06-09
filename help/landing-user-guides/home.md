@@ -2,9 +2,9 @@
 title: Adobe Experience Cloud-Dokumentation
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: 5efddee70396ff07b918cfc60914701c89bcae41
+source-git-commit: e7f6af8b2c52fe1154900c58a9b13d972d087e89
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1279'
 ht-degree: 97%
 
 ---
@@ -62,16 +62,11 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Analytics-Haupthandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Leitfaden für Analytics-Tools</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> Administratorhandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html
-"> Komponentenhandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html
-"> Export-Handbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html
-"> Implementierungshandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html
-"> Importhandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html
-"> Integrationshandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html"> Komponentenhandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html"> Export-Handbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> Implementierungshandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html"> Importhandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html"> Integrationshandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/media-analytics/using/media-overview.html"> Medienanalyseleitfaden</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/data-workbench/using/home.html"> Data Workbench-Leitfaden</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
@@ -416,6 +411,7 @@ Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe
 <tr>
   <td>
     <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html"> Softwareverteilung</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/search-promote/using/sp-home.html"> Search&amp;Promote</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/livefyre/using/home.html"> Livefyre-Benutzerhandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/livefyre/implementation/home.html"> Livefyre-Implementierungshandbuch</a></li>
