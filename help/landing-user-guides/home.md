@@ -5,7 +5,7 @@ translation-type: tm+mt
 source-git-commit: c97f610c2ea231b40bfd59e7998557768070a108
 workflow-type: tm+mt
 source-wordcount: '1280'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ Auf dieser Seite finden Sie eine umfassende Liste von Dokumentationen und Tutori
 
 >[!NOTE]
 >
->Für eine optimale Sucherfahrung während der Migration von Dokumentationsinhalten empfehlen wir, durch die folgenden Produktabschnitte zu navigieren und eine Suche auf Führungsebene durchzuführen.
+>Für eine optimale Sucherfahrung während unserer Migration von Dokumentationsinhalten empfehlen wir, durch die folgenden Produktabschnitte zu navigieren und eine Suche auf Handbuchebene durchzuführen.
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
@@ -59,14 +59,14 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Analytics-Haupthandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Leitfaden für Analytics-Tools</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> Administratorhandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html"> Komponentenhandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html"> Export-Handbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> Implementierungshandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html"> Importhandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html"> Integrationshandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/landing/home.html">Analytics-Haupthandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/analyze/home.html"> Leitfaden für Analytics-Tools</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/admin/home.html"> Administratorhandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/components/home.html"> Komponentenhandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/export/home.html"> Export-Handbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/implementation/home.html"> Implementierungshandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/import/home.html"> Importhandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/integration/home.html"> Integrationshandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/media-analytics/using/media-overview.html"> Medienanalyseleitfaden</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/data-workbench/using/home.html"> Data Workbench-Leitfaden</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
@@ -75,7 +75,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html"> Analytics-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/technotes/home.html"> Technische Hinweise zu Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/technotes/home.html"> Technische Hinweise zu Analytics</a></li>
       <li><a href="https://www.adobe.io/apis/experiencecloud/analytics/docs.html"> Analytics-APIs</a></li>
     </ul>
   </td>
@@ -133,7 +133,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Campaign Classic-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Campaign Standard-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/overview.html"> Campaign Standard-Tutorials</a></li>
     </ul>
   </td>
 </tr>
@@ -411,7 +411,7 @@ Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html"> Softwareverteilung</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/experience-cloud/software-distribution/home.html"> Softwareverteilung</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/search-promote/using/sp-home.html"> Search&amp;Promote</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/livefyre/using/home.html"> Livefyre-Benutzerhandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/livefyre/implementation/home.html"> Livefyre-Implementierungshandbuch</a></li>
