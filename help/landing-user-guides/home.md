@@ -1,11 +1,11 @@
 ---
 title: Adobe Experience Cloud-Dokumentation
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c97f610c2ea231b40bfd59e7998557768070a108
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1280'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -101,7 +101,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Target-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/target-learn/tutorials/overview.html"> Target-Tutorials</a></li>
       <li><a href="https://developers.adobetarget.com/api/delivery-api/"> Serverseitige APIs für Target</a></li>
       <li><a href="https://github.com/adobe/target-nodejs-sdk"> NodeJS-SDK für Target</a></li>
       <li><a href="https://github.com/adobe/target-java-sdk"> Java-SDK für Target</a></li>
@@ -218,7 +218,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 </tbody>
 </table>
 
-## Benutzeroberfläche, Verwaltung und Implementierung von Experience Clouden
+## Benutzeroberfläche, Verwaltung und Implementierung von Experience Cloud
 
 <table>
 <thead>
@@ -231,7 +231,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html"> Experience Cloud-Benutzeroberfläche</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html"> Experience Cloud-Benutzeroberfläche</a></li>
       <li><a href="https://helpx.adobe.com/de/enterprise/using/admin-console.html"> Admin Console</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/id-service/using/home.html"> Handbuch für Experience Cloud-ID-Dienst</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/mobile-services/using/home.html"> Mobile Services-Handbuch</a></li>
