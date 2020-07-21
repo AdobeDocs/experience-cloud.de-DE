@@ -1,11 +1,11 @@
 ---
 title: Adobe Experience Cloud-Dokumentation
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1acfc2c352199022f1bd6c9d043ccc6714c6148b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1291'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -132,7 +132,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Campaign Classic-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/overview.translate.html"> Campaign Classic-Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/overview.html"> Campaign Standard-Tutorials</a></li>
     </ul>
   </td>
@@ -233,7 +233,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html"> Experience Cloud-Benutzeroberfläche</a></li>
       <li><a href="https://helpx.adobe.com/de/enterprise/using/admin-console.html"> Admin Console</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/id-service/using/home.html"> Handbuch für Experience Cloud-ID-Dienst</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/id-service/using/home.html"> Handbuch für Experience Cloud ID-Dienst</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/mobile-services/using/home.html"> Mobile Services-Handbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> Mobile Services v4-SDKs</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/device-co-op/using/home.html"> Handbuch zur Gerätekooperation</a></li>
@@ -245,7 +245,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html"> Core Services-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch-Implementierungshandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.translate.html"> Launch-Implementierungshandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> Implementieren von Experience Cloud in mobilen iOS Swift-Anwendungen</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> Implementieren von Experience Cloud in mobilen iOS Objective-C-Anwendungen</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> Implementieren von Experience Cloud in mobilen Android-Anwendungen</a></li>
@@ -274,7 +274,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/de-DE/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/debugger/using-v2/experience-cloud-debugger.html"> Debugger v2 (Beta)</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/debugger/using-v2/experience-cloud-debugger.html"> Debugger v2 (Beta)</a></li>
     </ul>
     <p><strong>Anwendungsdienste, die von Experience Platform unterstützt werden</strong></p>
     <ul>
@@ -288,7 +288,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Video-Tutorials zu Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-platform/tutorials/home.html"> Experience Platform-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch-Implementierungshandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.translate.html"> Launch-Implementierungshandbuch</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform-Entwickler-APIs</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-platform/edge/home.html"> Experience Platform-Web-SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Journey Orchestration-Tutorials</a></li>
