@@ -1,11 +1,11 @@
 ---
 title: Softwareverteilung
 description: Verwendung von Softwareverteilung von Adobe Experience Cloud
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7a6397fa27deb3bb59372754104bd2a7115acedf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '500'
-ht-degree: 55%
+ht-degree: 100%
 
 ---
 
@@ -14,43 +14,43 @@ ht-degree: 55%
 
 ## Einführung
 
-Seit Juni 2020 ersetzt die Seite &quot; [!UICONTROL Softwareverteilung] &quot;die Seite &quot; [!UICONTROL PackageShare] &quot;der Downloadplattform für AEM und [!DNL Neolane] für [!DNL Campaign]. Es bietet eine effizientere Möglichkeit, Ihre Software zu finden und herunterzuladen. Eine intuitive Benutzeroberfläche, eine vereinfachte Suche und eine deutlich verbesserte Download-Geschwindigkeit vereinfachen das Herunterladen von Softwarepackages für Experience Cloud-Produkte. Für folgende Produkte stehen nun bestätigte Softwarepackages von Adobe und Packages von Partnerfirmen zur Verfügung:
+Von Juni 2020 ab ersetzt die Seite [!UICONTROL Softwareverteilung] der Experience Cloud-Lösung das bislang auf der Download-Plattform verwendete [!UICONTROL Package Share] für AEM sowie [!DNL Neolane], das für [!DNL Campaign] verwendet wurde. Über diese Seite gestaltet sich das Auffinden und Herunterladen von Software effizienter. Eine intuitive Benutzeroberfläche, eine vereinfachte Suche und eine deutlich verbesserte Download-Geschwindigkeit vereinfachen das Herunterladen von Softwarepackages für Experience Cloud-Produkte. Für folgende Produkte stehen nun bestätigte Softwarepackages von Adobe und Packages von Partnerfirmen zur Verfügung:
 
 1. **Adobe Experience Manager** – Alles rund um Service und Wartung, Sicherheit, Tooling und mehr – für alle unterstützten AEM-Versionen.
-1. **Adobe Experience Manager als[!UICONTROL Cloud Service ]**-[!UICONTROL AEM Cloud SDK],[!UICONTROL AEM Cloud]-Migrationswerkzeuge und mehr.
-1. **Adobe**[!DNL Campaign] – Alle aktuellen Campaign-Installationsversionen und zugehörige Tools.
-1. **Allgemein** - Allgemeine Werkzeuge für die Verwendung einschließlich [!DNL Oracle] JDKs für Adobe-Kunden.
+1. **Adobe Experience Manager as a [!UICONTROL Cloud Service ]** – [!UICONTROL AEM Cloud-SDK], [!UICONTROL AEM Cloud]-Migrations-Tools und mehr.
+1. **Adobe Campaign** – [!DNL Campaign]-Installationsprogramme in allen aktuellen Versionen und zugehörige Tools.
+1. **Allgemein** – Tools für allgemeine Aufgaben wie etwa [!DNL Oracle]-JDKs für Adobe-Kunden.
 
 ## Zugriff auf Softwareverteilung
 
-Gehen Sie zu [https://experience.adobe.com/downloads](https://experience.adobe.com/downloads) und melden Sie sich mit Ihrer Adobe ID bei Softwareverteilung an.
+Rufen Sie [https://experience.adobe.com/downloads](https://experience.adobe.com/downloads) auf und melden Sie sich mit Ihrer Adobe ID bei [!UICONTROL Softwareverteilung] an.
 
 >[!IMPORTANT]
 >
->Login credentials from [!UICONTROL Package Share] or [!DNL Neolane] will not work in [!UICONTROL Software Distribution], which provides capabilities to sign in with Adobe-wide security standards. Wenn Sie Ihre Adobe ID nicht kennen, wenden Sie sich an einen Support-Administrator in Ihrem Unternehmen.
+>Die Anmeldedaten von [!UICONTROL Package Share] oder [!DNL Neolane] funktionieren nicht für [!UICONTROL Softwareverteilung], da die Anmeldung auf dieser Seite auf Grundlage aller bei Adobe geltenden Sicherheitsstandards erfolgt. Wenn Sie Ihre Adobe ID nicht kennen, wenden Sie sich an einen Support-Administrator in Ihrem Unternehmen.
 
 ## Navigation
 
 ### Produkt auswählen
 
-Sie können Softwaredownloads in den Produkten auswählen, die Ihr Unternehmen lizenziert hat. The header menu in [!UICONTROL Software Distribution] shows these products including the **General** start page where you can find general-purpose software downloads. Wählen Sie das Produkt aus, für das Sie die Software herunterladen möchten.
+Sie können Softwaredownloads in den Produkten auswählen, die Ihr Unternehmen lizenziert hat. Unter [!UICONTROL Softwareverteilung] finden Sie diese Produkte im Kopfzeilenmenü, wo Sie auch die Seite **Allgemein** finden, unter der Sie Software für allgemeine Aufgaben herunterladen können. Wählen Sie das Produkt aus, für das Sie die Software herunterladen möchten.
 
 ### Download suchen
 
-Wenn Sie sich auf einer von Ihnen gewählten Seite zum Herunterladen des Produkts befinden, werden alle produktbezogenen Downloads auf dieser Seite angezeigt. Die Liste der Downloads kann lang sein, sodass Sie Ihren Download nicht auf den ersten Blick finden. That’s why [!UICONTROL Software Distribution] offers you simple, but powerful ways to find your download. In den meisten Fällen ist es am einfachsten, die Filter auf der linken Seite zu verwenden, um die Liste der Downloads nach für Sie relevanten Elementen zu filtern. Je nach Produkt finden Sie Filter wie Version, Lösung oder Software-Typ.
+Wenn Sie sich auf einer von Ihnen gewählten Seite zum Herunterladen des Produkts befinden, werden alle produktbezogenen Downloads auf dieser Seite angezeigt. Die Liste der Downloads kann lang sein, sodass Sie Ihren Download nicht auf den ersten Blick finden. Daher gibt Ihnen [!UICONTROL Softwareverteilung] ebenso einfache wie effiziente Möglichkeiten zum Auffinden Ihres Downloads an die Hand. In den meisten Fällen ist es am einfachsten, die Filter auf der linken Seite zu verwenden, um die Liste der Downloads nach für Sie relevanten Elementen zu filtern. Je nach Produkt finden Sie Filter wie Version, Lösung oder Software-Typ.
 
 Eine weitere Suchoption ist die Freitextsuche oben rechts.
 
-Being part of the Experience Cloud solutions family, [!UICONTROL Software Distribution] allows you to navigate in your Experience Cloud solutions context and to make use of unified Experience Cloud services, including core services, personalized notifications, and much more.
+Als Teil des Lösungsportfolios rund um Experience Cloud ermöglicht Ihnen [!UICONTROL Softwareverteilung] die Navigation im Kontext Ihrer Experience Cloud-Lösungen sowie die Nutzung von Experience Cloud-Services, darunter Core Services, personalisierte Benachrichtigungen und vieles mehr.
 
 ### Software herunterladen
 
-Wenn Sie auf einen aufgelisteten Softwaredownload doppelklicken, wird ein Dialogfeld geöffnet, in dem Sie weitere Informationen erhalten. Sie können beispielsweise eine Beschreibung, den Namen des Anbieters und die EULA anzeigen, die Sie akzeptieren müssen, bevor Sie mit dem Download fortfahren können.
+Wenn Sie auf einen aufgelisteten Softwaredownload doppelklicken, wird ein Dialogfeld geöffnet, in dem Sie weitere Informationen erhalten. So werden etwa eine Beschreibung, der Name des Anbieters sowie die Endbenutzerlizenzvereinbarung (EULA) angezeigt, die Sie akzeptieren müssen, bevor Sie mit dem Download fortfahren können.
 
 Sie können auch einen Link zu diesem Download freigeben. Klicken Sie auf die Schaltfläche **Freigeben**, um die URL zu kopieren.
 
 >[!NOTE]
 >
->[!UICONTROL Die Softwareverteilung] unterstützt nur Browserdownloads. When using AEM [!UICONTROL Package Manager] for new installations, it is recommended to download the package to a local folder and install the package from there.
+>[!UICONTROL Softwareverteilung] bietet nur Unterstützung für Downloads über einen Browser. Wenn Sie für neue Installationen AEM [!UICONTROL Package Manager] verwenden, wird empfohlen, das Package in einen lokalen Ordner herunterzuladen und von dort aus zu installieren.
 
-[!UICONTROL Die Softwareverteilung] wurde mit AEM-Komponenten erstellt und wird von Adobe Experience Manager als [!UICONTROL Cloud Service]betrieben.
+[!UICONTROL Softwareverteilung] wurde auf Basis von AEM-Komponenten entwickelt und stützt sich auf Adobe Experience Manager as a [!UICONTROL Cloud Service].
