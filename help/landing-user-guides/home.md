@@ -1,9 +1,9 @@
 ---
 title: Adobe Experience Cloud-Dokumentation
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1295'
 ht-degree: 100%
 
@@ -291,7 +291,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/de-DE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.translate.html"> Launch-Implementierungshandbuch</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform-Entwickler-APIs</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-platform/edge/home.html"> Experience Platform-Web-SDK</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/journey-orchestration/introduction.html"> Journey Orchestration-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html"> Journey Orchestration-Tutorials</a></li>
     </ul>
   </td>
 </tr>
