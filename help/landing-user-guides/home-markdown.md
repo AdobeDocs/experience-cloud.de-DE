@@ -1,8 +1,11 @@
 ---
 title: Adobe Experience Cloud-Dokumentation
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
+workflow-type: tm+mt
+source-wordcount: '1148'
+ht-degree: 100%
 
 ---
 
