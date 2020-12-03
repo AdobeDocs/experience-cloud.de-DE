@@ -1,8 +1,11 @@
 ---
 title: Informationen zum Wechsel zu Experience League
 description: Diese Seite beschreibt die Migration zu Experience League und enthält eine Liste von Links zu Benutzerhandbüchern.
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: d5c08d95c032b642d1510a02ed859049fc3149d1
+workflow-type: tm+mt
+source-wordcount: '363'
+ht-degree: 100%
 
 ---
 
