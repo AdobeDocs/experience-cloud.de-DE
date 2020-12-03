@@ -1,9 +1,9 @@
 ---
 title: Softwareverteilung
 description: Verwendung von Softwareverteilung von Adobe Experience Cloud
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 7a6397fa27deb3bb59372754104bd2a7115acedf
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 100%
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 Von Juni 2020 ab ersetzt die Seite [!UICONTROL Softwareverteilung] der Experience Cloud-Lösung das bislang auf der Download-Plattform verwendete [!UICONTROL Package Share] für AEM sowie [!DNL Neolane], das für [!DNL Campaign] verwendet wurde. Über diese Seite gestaltet sich das Auffinden und Herunterladen von Software effizienter. Eine intuitive Benutzeroberfläche, eine vereinfachte Suche und eine deutlich verbesserte Download-Geschwindigkeit vereinfachen das Herunterladen von Softwarepackages für Experience Cloud-Produkte. Für folgende Produkte stehen nun bestätigte Softwarepackages von Adobe und Packages von Partnerfirmen zur Verfügung:
 
 1. **Adobe Experience Manager** – Alles rund um Service und Wartung, Sicherheit, Tooling und mehr – für alle unterstützten AEM-Versionen.
-1. **Adobe Experience Manager as a [!UICONTROL Cloud Service ]** – [!UICONTROL AEM Cloud-SDK], [!UICONTROL AEM Cloud]-Migrations-Tools und mehr.
+1. **Adobe Experience Manager as a [!UICONTROL Cloud Service]** – [!UICONTROL AEM Cloud-SDK], [!UICONTROL AEM Cloud]-Migrations-Tools und mehr.
 1. **Adobe Campaign** – [!DNL Campaign]-Installationsprogramme in allen aktuellen Versionen und zugehörige Tools.
 1. **Allgemein** – Tools für allgemeine Aufgaben wie etwa [!DNL Oracle]-JDKs für Adobe-Kunden.
 
