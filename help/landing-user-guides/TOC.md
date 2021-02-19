@@ -1,7 +1,7 @@
 ---
 user-guide-title: Adobe Experience Cloud-Dokumentation
 solution-title: Lernen und Support
-solution-hub-url: https://helpx.adobe.com/de/support/experience-cloud.html
+solution-hub-url: https://helpx.adobe.com/support/experience-cloud.html
 solution-icon: assets/experience-cloud.png
 getting-started-title: Experience League
 getting-started-url: https://landing.adobe.com/experience-league/
