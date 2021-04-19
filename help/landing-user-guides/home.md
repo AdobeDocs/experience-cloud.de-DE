@@ -1,14 +1,14 @@
 ---
 title: Adobe Experience Cloud-Dokumentation
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
-translation-type: tm+mt
-source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
-workflow-type: tm+mt
+exl-id: fef60cd5-62e1-48cb-9779-af3944951c62
+translation-type: ht
+source-git-commit: e98b6985c8e24e56e021422f8e32cad0d823d440
+workflow-type: ht
 source-wordcount: '1295'
 ht-degree: 100%
 
 ---
-
 
 # Adobe Experience Cloud-Dokumentation
 
@@ -74,7 +74,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html"> Analytics-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics-learn/tutorials/overview.html"> Analytics-Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/analytics/technotes/home.html"> Technische Hinweise zu Analytics</a></li>
       <li><a href="https://www.adobe.io/apis/experiencecloud/analytics/docs.html"> Analytics-APIs</a></li>
     </ul>
@@ -102,7 +102,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/de-DE/target-learn/tutorials/overview.html"> Target-Tutorials</a></li>
-      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> Serverseitige APIs für Target</a></li>
+      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> Server-seitige APIs für Target</a></li>
       <li><a href="https://github.com/adobe/target-nodejs-sdk"> NodeJS-SDK für Target</a></li>
       <li><a href="https://github.com/adobe/target-java-sdk"> Java-SDK für Target</a></li>
       <li><a href="https://developers.adobetarget.com/api/recommendations/"> Recommendations-API für Target</a></li>
@@ -158,7 +158,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html"> Audience Manager-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/audience-manager-learn/tutorials/overview.html"> Audience Manager-Tutorials</a></li>
     </ul>
   </td>
 </tr>
@@ -204,14 +204,14 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html"> Tutorials für AEM as a Cloud Service</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Assets-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html"> AEM Forms-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/sites/overview.html"> AEM Sites-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html"> AEM Sites WKND-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Foundation-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/dispatcher-tutorial/overview.html"> AEM Dispatcher Cache-Tutorial</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-with-aem-headless/overview.html"> AEM Headless-Tutorial</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-learn/cloud-service/overview.html"> Tutorials für AEM as a Cloud Service</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-learn/assets/overview.html"> AEM Assets-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-learn/forms/overview.html"> AEM Forms-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-learn/sites/overview.html"> AEM Sites-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html"> AEM Sites WKND-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-learn/assets/overview.html"> AEM Foundation-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-learn/dispatcher-tutorial/overview.html"> AEM Dispatcher Cache-Tutorial</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-learn/getting-started-with-aem-headless/overview.html"> AEM Headless-Tutorial</a></li>
     </ul>
   </td>
 </tr>
@@ -244,11 +244,11 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html"> Core Services-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.translate.html"> Launch-Implementierungshandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> Implementieren von Experience Cloud in mobilen iOS Swift-Anwendungen</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> Implementieren von Experience Cloud in mobilen iOS Objective-C-Anwendungen</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> Implementieren von Experience Cloud in mobilen Android-Anwendungen</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/core-services-learn/tutorials/overview.html"> Core Services-Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch-Implementierungshandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> Implementieren von Experience Cloud in mobilen iOS Swift-Anwendungen</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> Implementieren von Experience Cloud in mobilen iOS Objective-C-Anwendungen</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> Implementieren von Experience Cloud in mobilen Android-Anwendungen</a></li>
     </ul>
   </td>
 </tr>
@@ -271,24 +271,24 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-platform/landing/home.html"> Dokumentation zu Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-platform/release-notes/latest.translate.html"> Platform – Versionshinweise</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/debugger/using-v2/experience-cloud-debugger.html"> Debugger v2 (Beta)</a></li>
     </ul>
     <p><strong>Anwendungsdienste, die von Experience Platform unterstützt werden</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-platform/rtcdp/overview.html"> Handbuch für Echtzeit-Kundendatenplattform</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html"> Benutzerhandbuch für Journey Orchestration</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places Service</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/places/using/home.html"> Places Service</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Video-Tutorials zu Experience Platform</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/overview.html"> Video-Tutorials zu Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-platform/tutorials/home.html"> Experience Platform-Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch-Implementierungshandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch-Implementierungshandbuch</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform-Entwickler-APIs</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-platform/edge/home.html"> Experience Platform-Web-SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html"> Journey Orchestration-Tutorials</a></li>
@@ -312,9 +312,9 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/release-notes/home.translate.html"> Primetime – Versionshinweise</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/programming/home.translate.html"> Primetime-Programmierhandbuch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/programming/home.translate.html"> Primetime-Programmierungshandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/migration/home.translate.html"> Migrations- und Konversionshandbuch für Primetime</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/reference-implementation/home.translate.html"> Referenzimplementierung für Primetime</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/reference-implementation/home.translate.html"> Primetime-Referenzimplementierung</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/ad-insertion/home.translate.html"> Dynamic Ad Insertion für Primetime</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/drm/home.translate.html"> Digital Rights Management für Primetime</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/reference/api-references.translate.html"> Primetime-API-Verweise</a></li>
@@ -366,7 +366,7 @@ Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe
   <td>
     <ul>
       <li><a href="https://docs.marketo.com/"> Marketo Product (Classic)</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/marketo/sky/home.html"> Marketo Sky</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/marketo/sky/home.html"> Marketo Sky</a></li>
       <li><a href="https://docs.marketo.com/display/BIZ/Bizible"> Bizible Docs</a></li>
     </ul>
   </td>
@@ -428,7 +428,7 @@ Hilfe für Advertising Cloud ist im Produkt verfügbar, indem Sie auf das Hilfe
 >[!MORELIKETHIS]
 >
 >* [Experience Cloud-Schulungen und -Support](https://helpx.adobe.com/de/support/experience-cloud.html)
->* [Experience League](https://experienceleague.adobe.com/)
+>* [Experience League](https://experienceleague.adobe.com/?lang=de)
 >* [Community-Foren](https://forums.adobe.com/community/experience-cloud/)
 >* [Adobe-Schulungen und -Tutorials](https://helpx.adobe.com/de/learning.html?promoid=KAUDK)
 
