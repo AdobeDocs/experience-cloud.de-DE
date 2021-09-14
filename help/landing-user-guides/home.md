@@ -1,5 +1,5 @@
 ---
-title: Adobe Experience Cloud-Dokumentation
+title: Dokumentation zu Adobe Experience Cloud
 description: Auf dieser Seite finden Sie eine umfassende Liste aller Dokumentationen, Handbücher und Tutorials zu Adobe Experience Cloud.
 exl-id: fef60cd5-62e1-48cb-9779-af3944951c62
 source-git-commit: fd3086f279572ccc2b61db1c6902ef7f7ab9591f
@@ -9,7 +9,7 @@ ht-degree: 100%
 
 ---
 
-# Adobe Experience Cloud-Dokumentation
+# Dokumentation zu Adobe Experience Cloud
 
 ![Banner](/help/assets/experience-cloud-banner-4.png)
 
@@ -186,7 +186,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-64/user-guide/home.translate.html"> AEM 6.4-Benutzerhandbücher</a></li>
       <li><a href="https://helpx.adobe.com/de/support/experience-manager/6-3.html"> Benutzerhandbücher für frühere AEM-Versionen</a></li>
     </ul>
-    <p><strong>Zusätzliche AEM-Handbücher</strong></p>
+    <p><strong>Zusätzliche Handbücher zu AEM</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-screens/user-guide/aem-screens-introduction.html"> AEM Screens-Benutzerhandbuch</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-screens/using/about-guide.html"> Best Practices-Handbuch für AEM Screens</a></li>
@@ -194,10 +194,10 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-dispatcher/using/dispatcher.html"> AEM Dispatcher</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html"> AEM Cloud Manager</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-core-components/using/introduction.html"> AEM-Kernkomponenten</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-desktop-app/using/introduction.html"> AEM-Desktopanwendung</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-desktop-app/using/introduction.html"> AEM Desktop App</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-brand-portal/using/home.html"> AEM Brand Portal</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/aem-forms-automated-conversion-service/using/introduction.html"> AEM Forms-Dienst zur automatischen Formularumwandlung</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/dynamic-media-classic/using/home.html"> Dynamische Medien Classic</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/dynamic-media-classic/using/home.html"> Dynamic Media Classic</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/dynamic-media-developer-resources/landing/home.translate.html"> Entwicklerhandbuch für dynamische Medien</a></li>
     </ul>
   </td>
@@ -311,8 +311,8 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/release-notes/home.translate.html"> Versionshinweise zu Primetime</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/programming/home.translate.html"> Primetime-Programmierungshandbuch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/migration/home.translate.html"> Migrations- und Konversionshandbuch für Primetime</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/programming/home.translate.html"> Handbuch zur Primetime-Programmierung</a></li>
+      <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/migration/home.translate.html"> Handbuch zur Primetime-Migration und -Konversion</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/reference-implementation/home.translate.html"> Primetime-Referenzimplementierung</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/ad-insertion/home.translate.html"> Dynamic Ad Insertion für Primetime</a></li>
       <li><a href="https://docs.adobe.com/content/help/de-DE/primetime/drm/home.translate.html"> Digital Rights Management für Primetime</a></li>
