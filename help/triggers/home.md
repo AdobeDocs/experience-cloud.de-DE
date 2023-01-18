@@ -1,11 +1,10 @@
 ---
-title: Unbekannt
-description: Unbekannt
-exl-id: 8a277a28-c1ec-499b-9c57-e1f67ffdf327
-source-git-commit: 9a903c2c485bbe3c16d07c8495674856e8f26972
+title: Erstellen und Verwalten von Experience Cloud-Triggern
+description: Benutzeroberfläche von Adobe Experience Cloud Triggers
+source-git-commit: c5fdad0287d898bf52499f2f6c200e3d5fc6a578
 workflow-type: tm+mt
-source-wordcount: '3'
-ht-degree: 100%
+source-wordcount: '13'
+ht-degree: 7%
 
 ---
 
