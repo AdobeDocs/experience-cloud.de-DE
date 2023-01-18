@@ -1,11 +1,11 @@
 ---
-user-guide-title: Unbekannt
-user-guide-description: Unbekannt
-breadcrumb-title: Unbekannt
+user-guide-title: Adobe Experience Cloud Triggers
+user-guide-description: Adobe Experience Cloud Triggers
+breadcrumb-title: Adobe Experience Cloud Triggers
 solution: Experience Cloud
-source-git-commit: 9a903c2c485bbe3c16d07c8495674856e8f26972
+source-git-commit: c5fdad0287d898bf52499f2f6c200e3d5fc6a578
 workflow-type: tm+mt
-source-wordcount: '5'
+source-wordcount: '14'
 ht-degree: 100%
 
 ---
