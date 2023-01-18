@@ -1,11 +1,12 @@
 ---
 title: Erstellen und Verwalten von Experience Cloud-Triggern
 description: Benutzeroberfläche von Adobe Experience Cloud Triggers
-source-git-commit: c5fdad0287d898bf52499f2f6c200e3d5fc6a578
+source-git-commit: fb41c2e26a4945a9d9f24fec7f4c68a35af2c428
 workflow-type: tm+mt
-source-wordcount: '13'
-ht-degree: 7%
+source-wordcount: '16'
+ht-degree: 25%
 
 ---
 
-# Unbekannt
+
+# Adobe Experience Cloud Triggers{#triggers-home}
