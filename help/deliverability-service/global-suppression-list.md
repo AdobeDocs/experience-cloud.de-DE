@@ -1,20 +1,20 @@
 ---
 title: Globale Unterdrückungsliste
-description: Erfahren Sie mehr über die globale Unterdrückungsliste
+description: Informationen zur globalen Unterdrückungsliste
 hide: true
 exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
 source-git-commit: b66e2525694c771ebb7ac5190b7259ef5658d81a
-workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 55%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
 # Globale Unterdrückungsliste {#global-suppression-list}
 
-Eine Unterdrückungsliste besteht aus E-Mail-Adressen, die Kunden von ihren Sendungen ausschließen möchten, da der Versand an diese Kontakte deren Reputation und Versandraten beeinträchtigen könnte. Zurzeit hält Adobe eine aktualisierte Liste bekannter böser E-Mail-Adressen auf, die nachweislich die Interaktion und Reputation des Mailings beeinträchtigen, und stellt sicher, dass ihnen keine E-Mails zugestellt werden. Diese Liste wird in einer globalen Unterdrückungsliste verwaltet, die für alle Adobe-Kunden gleich ist. Die Adressen und Domain-Namen in der globalen Unterdrückungsliste sind verborgen. In den Versandberichten wird nur die Anzahl der ausgeschlossen Empfänger angegeben.
+Eine Unterdrückungsliste besteht aus E-Mail-Adressen, die Kundinnen und Kunden von ihren Sendungen ausschließen möchten, da das Senden an diese Kontakte ihren Ruf als Versender und ihre Versandraten beeinträchtigen könnte. Derzeit führt Adobe eine aktualisierte Liste bekannter schlechter E-Mail-Adressen, die sich nachweislich negativ auf die Interaktion und die Reputation des Versenders auswirken, und stellt sicher, dass E-Mails an diese Adressen nicht zugestellt werden. Diese Liste wird in einer globalen Unterdrückungsliste verwaltet, die für alle Adobe-Kunden gleich ist. Die Adressen und Domain-Namen in der globalen Unterdrückungsliste sind verborgen. In den Versandberichten wird nur die Anzahl der ausgeschlossen Empfänger angegeben.
 
-Jetzt ist es möglich, die globale Unterdrückungsliste über eine intern verfügbare Benutzeroberfläche zu verwalten. Diese Liste wird nur von Beratern für Zustellbarkeit geführt. Die globale Unterdrückungsliste kann E-Mail- oder Domain-Adressen enthalten.
+Es ist nun möglich, die globale Unterdrückungsliste über eine intern verfügbare Schnittstelle zu verwalten. Diese Liste wird nur von Fachleuten für Zustellbarkeit verwaltet. Die globale Unterdrückungsliste kann E-Mail- oder Domain-Adressen enthalten.
 
 ## Zugriff auf die globale Unterdrückungsliste
 
@@ -22,18 +22,18 @@ Um auf die detaillierte Liste der ausgeschlossenen E-Mail-Adressen und Domains z
 
 >[!CAUTION]
 >
->Die Berechtigungen zum Anzeigen, Exportieren und Verwalten der globalen Unterdrückungsliste hängen von der Verteilungsliste ab, der Sie zugewiesen sind. Weitere Informationen
+>Die Berechtigungen zum Anzeigen, Exportieren und Verwalten der globalen Unterdrückungsliste hängen vom Verteiler ab, dem Sie zugewiesen sind. Weitere Informationen
 
-Es werden zwei Registerkarten angezeigt: **[!UICONTROL Email]** und **[!UICONTROL Domäne]**.
+Es werden zwei Registerkarten angezeigt: **[!UICONTROL E-Mail]** und **[!UICONTROL Domain]**.
 
 Es stehen Filter zur Verfügung, mit denen Sie die Liste durchsuchen können.
 
-## Hinzufügen von Adressen und Domänen
+## Hinzufügen von Adressen und Domains
 
-Derzeit gibt es zwei Möglichkeiten, Adressen zur globalen Unterdrückungsliste hinzuzufügen:
+Derzeit gibt es zwei Möglichkeiten, der globalen Unterdrückungsliste Adressen hinzuzufügen:
 
-* Vom Zustellbarkeitsteam kuratierte Liste.
-* Liste, die vom Drittanbieter Blackbox bereitgestellt wird.
+* Vom Team für Zustellbarkeit kuratierte Liste.
+* Liste, die vom Drittdienstleister Blackbox bereitgestellt wird.
 
 Sie können E-Mail-Adressen oder Domains [einzeln](#add-one-address-or-domain) oder [im Bulk-Modus](#upload-csv-file) über einen CSV-Datei-Upload hinzufügen.
 
@@ -57,7 +57,7 @@ Klicken Sie dazu auf den Button **[!UICONTROL E-Mail oder Domain hinzufügen]** 
    >
    >Alle druckbaren ASCII-Zeichen zwischen 32 und 126 sind in diesem Feld zulässig. Die vollständige Liste finden Sie zum Beispiel auf [dieser Seite](https://en.wikipedia.org/wiki/Wikipedia:ASCII#ASCII_printable_characters){target="_blank"}.
 
-1. Klicken **[!UICONTROL Einsenden]** zur Bestätigung.
+1. Klicken Sie zur Bestätigung auf **[!UICONTROL Senden]**.
 
 ### CSV-Datei hochladen {#upload-csv-file}
 
@@ -83,7 +83,7 @@ Klicken Sie dazu auf den Button **[!UICONTROL E-Mail oder Domain hinzufügen]** 
    >
    >Alle ASCII-Zeichen zwischen 32 und 126 sind in der Spalte **Kommentar** zulässig. Die vollständige Liste finden Sie zum Beispiel auf [dieser Seite](https://en.wikipedia.org/wiki/Wikipedia:ASCII#ASCII_printable_characters){target="_blank"}.
 
-1. Platzieren Sie nach Abschluss die CSV-Datei per Drag-and-Drop und klicken Sie auf **[!UICONTROL Einsenden]** zur Bestätigung.
+1. Ziehen Sie danach die CSV-Datei per Drag-and-Drop in den entsprechenden Bereich und klicken Sie auf **[!UICONTROL Senden]**.
 
 >[!NOTE]
 >
@@ -91,7 +91,7 @@ Klicken Sie dazu auf den Button **[!UICONTROL E-Mail oder Domain hinzufügen]** 
 
 ### Status der letzten Uploads überprüfen {#recent-uploads}
 
-Klicken Sie auf **[!UICONTROL Letzte Uploads]** -Schaltfläche, um den Status der zuletzt hochgeladenen CSV-Dateien zu überprüfen.
+Klicken Sie die Schaltfläche **[!UICONTROL Letzte Uploads]**, um den Status der zuletzt hochgeladenen CSV-Dateien zu überprüfen.
 
 Mögliche Status sind:
 
@@ -99,14 +99,14 @@ Mögliche Status sind:
 * **[!UICONTROL Fehler]**: Der Datei-Upload-Vorgang ist aufgrund eines technischen Problems oder eines Dateiformatfehlers fehlgeschlagen.
 * **[!UICONTROL Fertig]**: Der Datei-Upload-Vorgang wurde erfolgreich abgeschlossen.
 
-Wenn während des Uploads einige Adressen nicht das richtige Format aufweisen, werden sie nicht zur globalen Unterdrückungsliste hinzugefügt.
+Wenn beim Hochladen einige Adressen nicht das richtige Format aufweisen, werden sie nicht der globalen Unterdrückungsliste hinzugefügt.
 
 Wenn der Upload abgeschlossen ist, wird er in diesem Fall mit einem Bericht verknüpft. Sie können ihn herunterladen, um die aufgetretenen Fehler zu überprüfen.
 
 ## Entfernen von Adressen
 
-Um eine Adresse aus der globalen Unterdrückungsliste zu entfernen, verwenden Sie die **[!UICONTROL Löschen]** Schaltfläche.
+Um eine Adresse aus der globalen Unterdrückungsliste zu entfernen, verwenden Sie die Schaltfläche **[!UICONTROL Löschen]**.
 
 >[!CAUTION]
 >
->Adressen oder Domänen, die automatisch vom Drittanbieter Blackbox hinzugefügt werden, können von Beratern nicht über die Benutzeroberfläche entfernt werden. Dies kann nur über ein Backend-Ticket erfolgen.
+>Adressen oder Domains, die automatisch vom Drittdienstleister Blackbox hinzugefügt werden, können von der Beraterin oder dem Berater nicht über die Schnittstelle entfernt werden. Dies ist nur über ein Backend-Ticket möglich.
