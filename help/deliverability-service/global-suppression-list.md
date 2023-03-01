@@ -2,10 +2,11 @@
 title: Globale Unterdrückungsliste
 description: Erfahren Sie mehr über die globale Unterdrückungsliste
 hide: true
-source-git-commit: a946cfb1027896f6e45aaf88d25ad7114d6b5ac6
+exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
+source-git-commit: b66e2525694c771ebb7ac5190b7259ef5658d81a
 workflow-type: tm+mt
 source-wordcount: '628'
-ht-degree: 52%
+ht-degree: 55%
 
 ---
 
@@ -69,6 +70,7 @@ Klicken Sie dazu auf den Button **[!UICONTROL E-Mail oder Domain hinzufügen]** 
    EMAIL,abc@somedomain.com,Comment
    DOMAIN,somedomain.com,Comment
    ```
+
    >[!CAUTION]
    >
    >Ändern Sie nicht die Namen der Spalten in der CSV-Vorlage.
@@ -108,4 +110,3 @@ Um eine Adresse aus der globalen Unterdrückungsliste zu entfernen, verwenden Si
 >[!CAUTION]
 >
 >Adressen oder Domänen, die automatisch vom Drittanbieter Blackbox hinzugefügt werden, können von Beratern nicht über die Benutzeroberfläche entfernt werden. Dies kann nur über ein Backend-Ticket erfolgen.
-
