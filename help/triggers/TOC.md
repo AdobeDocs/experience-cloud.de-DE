@@ -4,13 +4,14 @@ user-guide-description: Adobe Experience Cloud Triggers
 breadcrumb-title: Adobe Experience Cloud Triggers
 solution: Experience Cloud
 hide: true
-source-git-commit: 5243940cc97621257e6ce4f41bfe837d1bc5530c
-workflow-type: ht
-source-wordcount: '14'
-ht-degree: 100%
+source-git-commit: cdbfb2a487ae3399b06f255cad60bd8de59e54b1
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Triggers {#triggers}
 
 * [Startseite](home.md)
+* [Experience Cloud Trigger erstellen](create.md)
