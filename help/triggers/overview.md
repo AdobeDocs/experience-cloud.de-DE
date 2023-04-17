@@ -4,20 +4,20 @@ description: Entdecken Sie die Benutzeroberfläche von Adobe Experience Cloud Tr
 hide: true
 hidefromtoc: true
 source-git-commit: 9f1b3257e49c34d2909d457c098a2081a2fb69a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '271'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
-# Übersicht über Triggers {#overview}
+# Übersicht über Trigger {#overview}
 
-Experience Cloud Trigger bietet eine umfassende Lösung zur Identifizierung, Definition und Überwachung kritischer Verbraucherverhaltensweisen. Mit diesen Triggern können Sie anwendungsübergreifende Kommunikationen generieren, um erneut mit Besuchern zu interagieren, was zu einem personalisierteren und ansprechenderen Benutzererlebnis führt.
-Sie können Trigger in Echtzeit für Entscheidungen und Personalisierungen verwenden, z. B.:
+Experience Cloud Triggers bietet eine umfassende Lösung zur Identifizierung, Definition und Überwachung kritischer Verbraucherverhaltensweisen. Mit diesen Triggern können Sie anwendungsübergreifende Kommunikationen generieren, um erneut mit Besucherinnen und Besuchern zu interagieren, was zu einem stärker personalisierten und ansprechenderen Benutzererlebnis führt.
+Sie können Trigger für Entscheidungen und Personalisierung in Echtzeit verwenden, wie zum Beispiel:
 
 * Konfigurieren Sie schnelle Remarketing-Kampagnen für Warenkorbabbrüche oder Warenkorbabbrüche mit entfernten Produkten, um Konversionen und Umsatz zu steigern.
-* Ermitteln Sie unvollständige Formulare und Anwendungen, damit Sie personalisierte Nachrichten verfolgen können, um die Fertigstellung zu fördern und die Abbruchraten zu verringern.
-* Überwachen Sie alle Aktionen oder Sequenzen von Aktionen auf Ihrer Site, die Sie verfolgen möchten, und bieten Sie wertvolle Einblicke in das Benutzerverhalten und ermöglichen Sie die Optimierung des Benutzererlebnisses basierend auf seinen Aktionen.
+* Identifizieren Sie unvollständige Formulare und Anwendungen, damit Sie Interessierte mit personalisierten Folgenachrichten ansprechen können, um zum Abschluss von Vorgängen zu ermuntern und die Abbruchraten zu verringern.
+* Überwachen Sie alle Aktionen oder Sequenzen von Aktionen, die Sie verfolgen möchten, um wertvolle Einblicke in das Benutzerverhalten zu erhalten und basierend auf den Aktionen von Benutzerinnen und Benutzern ihr Erlebnis optimieren zu können.
 
 ## Triggers-Typen
 
