@@ -4,14 +4,14 @@ user-guide-description: Adobe Experience Cloud Triggers
 breadcrumb-title: Adobe Experience Cloud Triggers
 solution: Experience Cloud
 source-git-commit: 743244e72cfe2dfb44a6c9adba699f90db1fe04d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '25'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# Experience Cloud Triggers {#triggers}
+# Experience Cloud Triggers {#triggers}
 
 * [Startseite](home.md)
-* [Über Experience Cloud Trigger](overview.md)
+* [Über Experience Cloud Triggers](overview.md)
 * [Erstellen eines Experience Cloud-Triggers](create.md)
