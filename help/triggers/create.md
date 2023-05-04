@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
 source-git-commit: 7304dc2d08f78bd287fc0cae6e11021aa6ed1149
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '484'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 97%
 
 Erstellen Sie einen Trigger und konfigurieren Sie die Bedingungen für den Trigger. Sie können beispielsweise die Kriterien für die Regeln eines Triggers während eines Besuchs angeben, z. B. Metriken wie Warenkorbabbruch oder Dimensionen wie den Produktnamen. Wenn die Regeln erfüllt sind, wird der Trigger ausgeführt.
 
-1. Wählen Sie im Experience Cloud das Lösungsmenü aus und dann **[!UICONTROL Trigger]**.
+1. Wählen Sie in Experience Cloud das Lösungswechselmenü und dann **[!UICONTROL Triggers]** aus.
 
    ![](assets/triggers_7.png)
 
@@ -39,7 +39,7 @@ Erstellen Sie einen Trigger und konfigurieren Sie die Bedingungen für den Trigg
 
 1. Wählen Sie die für diesen Trigger verwendete Analytics-**[!UICONTROL Report Suite]** aus. Diese Einstellung identifiziert die zu verwendenden Berichtsdaten.
 
-   [Weitere Informationen zu Report Suite](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html?lang=de){target="_blank"}.
+   [Weitere Informationen zu Report Suites](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html?lang=de){target="_blank"}.
 
 1. Wählen Sie die Gültigkeitsdauer **[!UICONTROL Trigger nach ausbleibender Aktion für]** aus.
 
