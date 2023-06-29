@@ -1,12 +1,10 @@
 ---
 title: Erstellen und Verwalten von Experience Cloud Triggers
 description: Entdecken Sie die Benutzeroberfläche von Adobe Experience Cloud Triggers
-hide: true
-hidefromtoc: true
 exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
-source-git-commit: 7304dc2d08f78bd287fc0cae6e11021aa6ed1149
-workflow-type: tm+mt
-source-wordcount: '131'
+source-git-commit: 3edbf7991e19d524ce5284a0cdd46676b9640062
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -16,7 +14,6 @@ ht-degree: 100%
 Die neue Benutzeroberfläche für Experience Cloud Triggers bietet ein intuitives Erlebnis für die Verwaltung von Verbraucherverhaltensweisen und die Personalisierung von Benutzererlebnissen.
 
 Sie können Experience Cloud Triggers verwenden, um Daten mithilfe der Pipeline zwischen Adobe Campaign und Adobe Analytics zu verbinden. Die Pipeline ruft Aktionen oder Trigger der Anwendenden von der Website ab. Ein Beispiel für einen Trigger ist ein Warenkorbabbruch. Trigger werden in Adobe Campaign verarbeitet, um nahezu in Echtzeit E-Mails zu senden.
-
 
 **Nützliche Links:**
 
