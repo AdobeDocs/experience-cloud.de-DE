@@ -2,20 +2,24 @@
 title: Erstellen und Verwalten von Experience Cloud Triggers
 description: Entdecken Sie die Benutzeroberfläche von Adobe Experience Cloud Triggers
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
-source-git-commit: 3edbf7991e19d524ce5284a0cdd46676b9640062
+source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 100%
+source-wordcount: '505'
+ht-degree: 95%
 
 ---
 
 # Erstellen eines Experience Cloud-Triggers {#create-triggers}
 
+>[!AVAILABILITY]
+>
+>Die neue Adobe Experience Cloud Triggers-Benutzeroberfläche wird schrittweise allen Kunden bereitgestellt. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer für Adobe.
+
+Erstellen Sie einen Trigger und konfigurieren Sie die Bedingungen für den Trigger. Sie können beispielsweise die Kriterien für die Regeln eines Triggers während eines Besuchs angeben, z. B. Metriken wie Warenkorbabbruch oder Dimensionen wie den Produktnamen. Wenn die Regeln erfüllt sind, wird der Trigger ausgeführt.
+
 >[!NOTE]
 >
 > Die neue Benutzeroberfläche für Experience Cloud Triggers bietet ein intuitives Erlebnis für die Verwaltung von Verbraucherverhaltensweisen und die Personalisierung von Benutzererlebnissen. Um zur vorherigen Benutzeroberfläche zurückzukehren, klicken Sie auf die Schaltfläche **[!UICONTROL Zum klassischen Modus wechseln]**.
-
-Erstellen Sie einen Trigger und konfigurieren Sie die Bedingungen für den Trigger. Sie können beispielsweise die Kriterien für die Regeln eines Triggers während eines Besuchs angeben, z. B. Metriken wie Warenkorbabbruch oder Dimensionen wie den Produktnamen. Wenn die Regeln erfüllt sind, wird der Trigger ausgeführt.
 
 1. Wählen Sie in Experience Cloud das Lösungswechselmenü und dann **[!UICONTROL Triggers]** aus.
 
