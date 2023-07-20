@@ -2,10 +2,10 @@
 title: Erstellen und Verwalten von Experience Cloud Triggers
 description: Entdecken Sie die Benutzeroberfläche von Adobe Experience Cloud Triggers
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
-source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
-workflow-type: ht
+source-git-commit: 94ca96baaef706ace2ed131a5c2974371a5e0e57
+workflow-type: tm+mt
 source-wordcount: '505'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -58,7 +58,7 @@ Erstellen Sie einen Trigger und konfigurieren Sie die Bedingungen für den Trigg
 
    Jeder Container wird unabhängig auf der Trefferebene verarbeitet, d. h. wenn zwei Behälter mit dem **[!UICONTROL Und]**-Operator verknüpft sind, finden die Regeln nur Anwendung, wenn zwei Treffer die Anforderungen erfüllen.
 
-1. Klicken Sie im Feld **[!UICONTROL Metadaten]** auf **[!UICONTROL + Dimension]**, um eine bestimmte Kampagnendimension oder Variablen auszuwählen, die für das Verhalten einer Besucherin oder eines Besuchers relevant sind.
+1. Aus dem **[!UICONTROL Metadaten]** Feld, klicken Sie auf **[!UICONTROL + Dimension]** zur Auswahl einer bestimmten Kampagnendimension oder von Variablen, die für das Verhalten eines Besuchers relevant sind.
 
    ![](assets/triggers_3.png)
 
