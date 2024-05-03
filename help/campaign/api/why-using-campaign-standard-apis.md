@@ -7,11 +7,10 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-exl-id: ef045e5d-cd02-44a0-9a1e-d468483a38d9
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
 workflow-type: tm+mt
 source-wordcount: '481'
-ht-degree: 98%
+ht-degree: 80%
 
 ---
 
@@ -28,7 +27,7 @@ Im Folgenden finden Sie einige Beispiele:
 * Auslösung von ereignisbasierter Transaktionskommunikation – Bestellbestätigung, Buchungsverlauf, Kennwortzurücksetzung usw.
 * Auch E-Mail-Kommunikation bei Warenkorbabbruch.
 
-Auf Anmelde-Landingpages können Kunden bzw. potenzielle Kunden ihren Namen und ihre E-Mail-Adresse registrieren. Sobald Campaign Standard die Profildaten und Präferenzen erfasst hat, kann es auf die Interessen der Person abgestimmte Nachrichten versenden.
+Auf Anmelde-Landingpages können Kunden bzw. potenzielle Kunden ihren Namen und ihre E-Mail-Adresse registrieren. Sobald der Campaign Standard die Profilinformationen und -einstellungen erfasst, kann er personalisierte Nachrichten versenden, die auf den Interessen der Person basieren.
 
 Diese werden mit folgenden Elementen erstellt:
 
@@ -36,11 +35,11 @@ Diese werden mit folgenden Elementen erstellt:
 
    ![Alternativtext](assets/apis_uc1.png)
 
-1. Benutzerdefinierte Aktionen, die je nach Kontrollkästchen ausgeführt werden. Ein Kunde, der &quot;Sonderangebote per E-Mail&quot; auswählt, erhält eine andere, personalisierte E-Mail mit Gutschein als im normalen Registrierungsprozess.
+1. Benutzerdefinierte Aktionen, die je nach Kontrollkästchen ausgeführt werden. Ein Kunde, der &quot;E-Mail-Sonderangebote&quot;auswählt, erhält eine andere benutzerdefinierte E-Mail mit einem Gutschein als im normalen Registrierungsprozess.
 
    ![Alternativtext](assets/apis_uc2.png)
 
-1. Ein Profil kann seine Details durch Auswahl des Links &quot;Details aktualisieren&quot; in der E-Mail ändern. Dadurch wird das Profil auf die Seite &quot;Profil- und Präferenzdetails aktualisieren&quot; geleitet. Zur Erledigung des Vorgangs werden die Profildetails (Pkey) an den Campaign-Server weitergeleitet und das Profil abgerufen und dargestellt. Sobald das Profil auf die Schaltfläche &quot;Aktualisieren&quot; klickt, werden die Daten im System aktualisiert (über einen PATCH-Befehl).
+1. Ein Profil kann seine Details ändern, nachdem es in der E-Mail auf den Link &quot;Details aktualisieren&quot; geklickt hat. Dadurch wird das Profil zur Seite &quot;Profil- und Präferenzdetails aktualisieren&quot;geleitet. Zur Erledigung des Vorgangs werden die Profildetails (Pkey) an den Campaign-Server weitergeleitet und das Profil abgerufen und dargestellt. Sobald das Profil auf die Schaltfläche &quot;Aktualisieren&quot; klickt, werden die Informationen im System aktualisiert (über einen PATCH-Befehl).
 
    ![Alternativtext](assets/apis_uc3.png)
 

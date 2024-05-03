@@ -4,8 +4,7 @@ description: Erfahren Sie mehr über häufige Probleme bei Campaign Standard-API
 role: Data Engineer
 level: Experienced
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-exl-id: 404356cd-021f-4739-a88f-b8b1b79e19bc
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 97%
@@ -86,7 +85,7 @@ Entweder ist Ihr Token ungültig (unzulässiger IMS-Aufruf zum Generieren eines 
 
 Je nach Instanzkonfiguration muss das erstellte Profil einer **orgUnit** zugeordnet werden. Informationen zum Hinzufügen dieses Felds zu Ihrer Erstellung finden Sie in [diesem Abschnitt](creating-profiles-api.md).
 
-<!-- * (error duplicate key : quand tu crées un profile qui existe déjà , il faut faire un patch pour updater le profile plutôt qu’un POST)
+<!-- * (error duplicate key : quand tu crées un profile qui existe déjà , il faut faire un patch pour updater le profile plutôt qu'un POST)
 
 With Curl
 List all profiles
