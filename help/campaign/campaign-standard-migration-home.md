@@ -2,15 +2,15 @@
 title: Adobe Campaign Web-Benutzeroberfläche
 description: Webbenutzeroberfläche von Adobe Campaign
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: d63ad47dc2fc7836956234d812001b06172d06a4
+exl-id: eecf4e13-820d-4454-9f11-f50be565bb79
+source-git-commit: ba22719c91d44e537020d17a53ff7f8f6a929111
 workflow-type: tm+mt
 source-wordcount: '276'
-ht-degree: 8%
+ht-degree: 11%
 
 ---
 
-
-# Umstellung der Campaign Standard auf Campaign v8 {#triggers-home}
+# Wechsel von Campaign Standard zu Campaign v8 {#triggers-home}
 
 Als Campaign Standard, der zu Campaign v8 wechselt, können Sie jetzt von der neuen Adobe Campaign-Webbenutzeroberfläche und der leistungsstarken v8-Konsole profitieren. Die Umstellung ist scheinbar und ermöglicht die Verwendung aller intuitiven Funktionen, die die Erstellung personalisierter kanalübergreifender Kampagnen vereinfachen. Die Campaign-Webbenutzeroberfläche bietet außerdem eine verbundene Arbeitsfläche mit Adobe Experience Platform für ein einheitliches Erlebnis.
 
@@ -21,7 +21,7 @@ Darüber hinaus wird dieser Übergang viele Vorteile mit sich bringen:
 * Integration mit Adobe Experience Platform
 * Konsistente Benutzeroberfläche und Erlebnis
 
-Weitere Informationen zu den wichtigsten Funktionen und Konzeptunterschieden finden Sie unter [diese Seite](https://experienceleague.adobe.com/en/docs/campaign-web/v8/rn/acs-migration.html).
+Weitere Informationen zu den wichtigsten Funktionen und Konzeptunterschieden finden Sie unter [diese Seite](https://experienceleague.adobe.com/de/docs/campaign-web/v8/release-notes/acs-migration).
 
 ## Neuerungen
 
