@@ -4,10 +4,10 @@ user-guide-description: Adobe Campaign v8
 breadcrumb-title: Adobe Campaign v8
 solution: Experience Cloud
 role: User
-source-git-commit: dfe80854447b2a49b53908947b7814c7b8e29fa5
+source-git-commit: 0650d42102216c353c5843322d01af5af80d2e5c
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 73%
+source-wordcount: '159'
+ht-degree: 74%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 73%
    + Liste von Berichten {#list-of-reports}
       + [Berichtszeitraum definieren](reporting/defining-the-report-period.md)
       + [Bounces](reporting/bounce-summary.md)
-      + [Verteilung nach Domain](reporting/breakdown-by-domains.md)
+      + [Aufschlüsselung nach Domains](reporting/breakdown-by-domains.md)
       + [Beschwerden](reporting/complaints.md)
-      + [Versandzusammenfassung](reporting/delivery-summary.md)
+      + [Versandübersicht](reporting/delivery-summary.md)
       + [Versanddurchsatz](reporting/delivery-throughput.md)
       + [Fehler und Bounces](reporting/non-deliverables-and-bounces.md)
       + [Öffnungen](reporting/opens.md)
@@ -39,6 +39,7 @@ ht-degree: 73%
       + [Visualisierungen hinzufügen](reporting/adding-visualizations.md)
       + [Komponenten hinzufügen](reporting/adding-components.md)
       + [Benutzerdefinierte Profildimension erstellen](reporting/creating-a-custom-profile-dimension.md)
+      + [Nutzungsvereinbarung zur dynamischen Berichterstattung](reporting/pii-agreement.md)
 + Branding {#branding}
    + [Über Branding](branding/branding-gs.md)
    + [Konfigurieren einer Marke](branding/branding-configure.md)
@@ -54,10 +55,10 @@ ht-degree: 73%
       + [Metadatenmechanismus](api/metadata-mechanism.md)
       + [Verben](api/verbs.md)
       + Zusätzliche Vorgänge {#additional-operations}
-         + [Sortierungs-Funktionen](api/sorting.md)
-         + [Filtern](api/filtering.md)
+         + [Sortieren](api/sorting.md)
+         + [Filter](api/filtering.md)
          + [Zählung](api/counting.md)
-         + [Seitenumbruch](api/pagination.md)
+         + [Paginierung](api/pagination.md)
       + [Benutzerdefinierte Ressourcen](api/custom-resources.md)
    + [Interaktion mit benutzerdefinierten Ressourcen](api/interacting-with-custom-resources.md)
    + Profile verwalten {#managing-profiles}
@@ -65,7 +66,7 @@ ht-degree: 73%
       + [Aktualisieren von Profilen](api/updating-profiles.md)
       + [Profile erstellen](api/creating-profiles-api.md)
    + Verwalten von Diensten und Abonnements {#managing-services-and-subscriptiopns}
-      + [Dienst erstellen](api/creating-a-service.md)
+      + [Erstellen eines Service](api/creating-a-service.md)
       + [Abrufen von Abonnements](api/retrieving-subscriptions.md)
       + [Abonnements ausführen](api/perform-subscriptions.md)
       + [Löschen von Abonnements](api/deleting-subscriptions.md)

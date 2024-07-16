@@ -1,33 +1,34 @@
 ---
-title: Benutzerdefinierte Profildimension erstellen
-description: Hier erfahren Sie, wie Sie eine benutzerdefinierte Profildimension auf der Basis von benutzerdefinierten Profildaten erstellen können.
+title: Profildimension erstellen
+description: Erfahren Sie, wie Sie eine Profildimension basierend auf Profildaten erstellen.
 audience: reporting
 content-type: reference
 level: Intermediate
-source-git-commit: 5a7337c44d6ca5ee4403d9fe0b65246b629afacd
+exl-id: a12dc772-13c7-45ff-9fbf-3dfdd3801eae
+source-git-commit: 5da9b29c424f019f3dafc127a41e974017af494c
 workflow-type: tm+mt
-source-wordcount: '457'
-ht-degree: 22%
+source-wordcount: '478'
+ht-degree: 12%
 
 ---
 
-# Benutzerdefinierte Profildimension erstellen{#creating-a-custom-profile-dimension}
+# Profildimension erstellen{#creating-a-custom-profile-dimension}
 
-Berichte können auch basierend auf benutzerdefinierten Profildaten erstellt und verwaltet werden, die während der Erweiterung des Empfängerschemas erstellt wurden.
+Berichte können auch basierend auf Profildaten erstellt und verwaltet werden, die während der Erweiterung des Empfängerschemas erstellt wurden.
 
 * [Schritt 1: Erweiterung des Empfängerschemas](##extend-schema)
 * [Schritt 2: Verknüpfen Sie Ihr neues benutzerdefiniertes Feld](#link-custom)
-* [Schritt 3: Erstellen Sie einen dynamischen Bericht, um Empfänger mithilfe der benutzerdefinierten Profildimension zu filtern.](#create-report)
+* [Schritt 3: Erstellen Sie einen dynamischen Bericht, um Empfänger mit der Profildimension zu filtern](#create-report)
 
 ## Schritt 1: Erweiterung des Empfängerschemas {#extend-schema}
 
 Gehen Sie wie folgt vor, um ein neues Profilfeld hinzuzufügen:
 
-1. Navigieren Sie zum **[!UICONTROL Administration]** > **[!UICONTROL Konfiguration]** > **[!UICONTROL Datenschemata]** im Explorer angezeigt.
+1. Navigieren Sie im Explorer zum Ordner **[!UICONTROL Administration]** > **[!UICONTROL Konfiguration]** > **[!UICONTROL Datenschemata]** .
 
    ![](assets/custom_field_1.png)
 
-1. Identifizieren Sie das benutzerdefinierte Empfängerschema und wählen Sie es aus. Wenn Sie das integrierte Schema nms:recipient noch nicht erweitert haben, lesen Sie den Abschnitt [dieses Verfahrens](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema).
+1. Identifizieren Sie das benutzerdefinierte Empfängerschema und wählen Sie es aus. Wenn Sie das integrierte Schema nms:recipient noch nicht erweitert haben, lesen Sie [dieses Verfahren](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema).
 
 1. Fügen Sie das benutzerdefinierte Feld zum Schema-Editor hinzu.
 
@@ -41,7 +42,7 @@ Gehen Sie wie folgt vor, um ein neues Profilfeld hinzuzufügen:
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
-1. Identifizieren Sie dann Ihr benutzerdefiniertes broadLogRcp-Schema und wählen Sie es aus. Wenn Sie das integrierte Versandlog-Schema noch nicht erweitert haben, lesen Sie den Abschnitt [dieses Verfahrens](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema).
+1. Identifizieren Sie dann Ihr benutzerdefiniertes broadLogRcp-Schema und wählen Sie es aus. Wenn Sie das integrierte Versandlog-Schema noch nicht erweitert haben, lesen Sie [dieses Verfahren](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema).
 
 1. Fügen Sie dasselbe benutzerdefinierte Feld wie das Empfängerschema zum Schema-Editor hinzu.
 
@@ -49,7 +50,7 @@ Gehen Sie wie folgt vor, um ein neues Profilfeld hinzuzufügen:
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
-1. Starten Sie den Datenbankaktualisierungs-Assistenten über **[!UICONTROL Instrumente]** > **[!UICONTROL Erweitert]** > **[!UICONTROL Datenbankstruktur aktualisieren]** und führen Sie die Option Datenbankstruktur aktualisieren aus. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/update-database-structure)
+1. Um die Änderungen an den Schemas anzuwenden, starten Sie den Datenbankaktualisierungs-Assistenten über **[!UICONTROL Tools]** > **[!UICONTROL Erweitert]** > **[!UICONTROL Datenbankstruktur aktualisieren]** und führen Sie die Option Datenbankstruktur aktualisieren aus. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/update-database-structure)
 
    ![](assets/custom_field_4.png)
 
@@ -63,38 +64,41 @@ Ihr neues Profilfeld kann jetzt verwendet und von Empfängern ausgewählt werden
 
 Nachdem Sie Ihr Profilfeld erstellt haben, müssen wir es mit der entsprechenden Dimension für dynamische Berichte verknüpfen.
 
-1. Navigieren Sie zum **[!UICONTROL Administration]** > **[!UICONTROL Konfiguration]** > **[!UICONTROL Datenschemata]** > **[!UICONTROL Zusätzliches Berichtsfeld]** im Explorer angezeigt.
+Bevor Sie das Protokoll mit unserem Profilfeld erweitern, müssen Sie sicherstellen, dass das PII-Fenster akzeptiert wurde, um personenbezogene Daten an dynamische Berichte senden zu können. Weiterführende Informationen hierzu finden Sie auf [dieser Seite](pii-agreement.md).
+
+1. Navigieren Sie im Explorer zum Ordner **[!UICONTROL Administration]** > **[!UICONTROL Konfiguration]** > **[!UICONTROL Datenschemata]** > **[!UICONTROL Zusätzliches Berichtsfeld]** .
 
    ![](assets/custom_field_5.png)
 
-1. Klicks **[!UICONTROL Neu]** , um Ihre entsprechende dynamische Berichtsdimension zu erstellen.
+1. Klicken Sie auf **[!UICONTROL Neu]** , um die entsprechende dynamische Berichtsdimension zu erstellen.
 
-1. Auswählen **[!UICONTROL Ausdruck bearbeiten]** und durchsuchen Sie das Schema Empfänger , um das zuvor erstellte benutzerdefinierte Profilfeld zu finden.
+1. Wählen Sie **[!UICONTROL Ausdruck bearbeiten]** und durchsuchen Sie das Empfängerschema, um das zuvor erstellte Profilfeld zu finden.
 
    ![](assets/custom_field_6.png)
 
 1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
-1. Eingeben Ihrer Dimension **[!UICONTROL Titel]**, in dynamischen Berichten angezeigt werden, und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie Ihre Dimension **[!UICONTROL Beschriftung]** ein, die in dynamischen Berichten angezeigt wird, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/custom_field_7.png)
 
-Ihr benutzerdefiniertes Profilfeld ist jetzt als benutzerdefinierte Profildimension in Ihren Berichten verfügbar. Um Ihre benutzerdefinierte Profildimension zu löschen, können Sie sie auswählen und auf das **[!UICONTROL Löschen]** Symbol.
+Ihr Profilfeld ist jetzt als Profildimension in Ihren Berichten verfügbar. Um Ihre Profildimension zu löschen, können Sie sie auswählen und auf das Symbol **[!UICONTROL Löschen]** klicken.
 
 Nachdem das Empfängerschema mit diesem Profilfeld erweitert und Ihre benutzerdefinierte Dimension erstellt wurde, können Sie mit der Zielgruppenbestimmung von Empfängern in Sendungen beginnen.
 
-## Schritt 3: Erstellen Sie einen dynamischen Bericht, um Empfänger mithilfe der benutzerdefinierten Profildimension zu filtern. {#create-report}
+## Schritt 3: Erstellen Sie einen dynamischen Bericht, um Empfänger mit der Profildimension zu filtern {#create-report}
 
-Nach dem Versand Ihrer Nachricht können Sie die Berichte mithilfe Ihrer benutzerdefinierten Profildimension aufschlüsseln.
+Nach dem Versand Ihrer Nachricht können Sie die Berichte anhand Ihrer Profildimension aufschlüsseln.
 
 1. Wählen Sie im Tab **[!UICONTROL Berichte]** einen vordefinierten Bericht oder die Schaltfläche **[!UICONTROL Erstellen]**, um einen neuen Bericht zu erstellen.
 
    ![](assets/custom_field_8.png)
 
-1. Im **[!UICONTROL Dimensionen]** category, click **[!UICONTROL Profil]** Ziehen Sie dann Ihre benutzerdefinierte Profildimension in Ihre Freiformtabelle.
+1. Klicken Sie in der Kategorie **[!UICONTROL Dimensionen]** auf **[!UICONTROL Profil]** und ziehen Sie dann Ihre Profildimension in Ihre Freiformtabelle.
 
    ![](assets/custom_field_9.png)
 
 1. Ziehen Sie Metriken per Drag-and-Drop in den Arbeitsbereich, um Ihre Daten zu filtern.
 
 1. Ziehen Sie bei Bedarf ein Visualisierungselement in den Arbeitsbereich.
+
