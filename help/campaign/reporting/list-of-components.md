@@ -4,7 +4,8 @@ description: Hier finden Sie die Liste der in dynamischen Berichten enthaltenen 
 level: Beginner
 audience: end-user
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: b11d696767209145511b38735f22275a38676ade
+exl-id: 5c58db92-7878-4c70-b076-a393f1cda8b7
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '770'
 ht-degree: 94%
@@ -13,7 +14,7 @@ ht-degree: 94%
 
 # Komponentenliste {#list-of-components}
 
-Beachten Sie, dass die Zelle den Wert anzeigt, wenn zwei Komponenten nicht kompatibel sind **Keines**.
+Beachten Sie, dass die Zelle den Wert **Keine** anzeigt, wenn zwei Komponenten nicht kompatibel sind.
 
 ## Dimensionen {#dimensions}
 
@@ -125,7 +126,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Metriken
    <td> Gesamtzahl der kumulierten Fehler bei Versand und automatischer Bounce-Verarbeitung im Verhältnis zur Gesamtzahl der gesendeten Nachrichten.<br/> </td> 
   </tr> 
   <tr> 
-   <td> Bounce + Fehlerrate<br/> </td> 
+   <td> Bounce- + Fehlerrate<br/> </td> 
    <td> Prozentsatz der Bounce-E-Mails in Bezug auf die gesendeten E-Mails<br/> </td> 
   </tr> 
   <tr> 
@@ -133,7 +134,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Metriken
    <td> Die Anzahl der Klicks auf einen Inhalt in einem Versand.<br/> </td> 
   </tr> 
   <tr> 
-   <td> Klickrate<br/> </td> 
+   <td> Durchklickrate<br/> </td> 
    <td> Prozentsatz der Klicks in einem Versand<br/> </td> 
   </tr> 
   <tr> 
@@ -189,7 +190,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Metriken
    <td> Prozentsatz der Quarantänen in Bezug auf die gesendeten Nachrichten<br/> </td> 
   </tr> 
   <tr> 
-   <td> Abgelehnt<br/> </td> 
+   <td> Zurückgewiesen<br/> </td> 
    <td> Anzahl der Sendungen, die von SMTP-Servern als Spam gekennzeichnet wurden<br/> </td> 
   </tr> 
   <tr> 
@@ -205,7 +206,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Metriken
    <td> Prozentsatz der Sendungen, die vorläufig fehlgeschlagen sind<br/> </td> 
   </tr> 
   <tr> 
-   <td> Einmalige Klicks<br/> </td> 
+   <td> Einzelklicks<br/> </td> 
    <td> Anzahl der Empfänger, die einen Inhalt in einem Versand angeklickt haben<br/> </td> 
   </tr> 
   <tr> 

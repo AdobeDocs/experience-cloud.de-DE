@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: ef045e5d-cd02-44a0-9a1e-d468483a38d9
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 80%
@@ -20,7 +21,7 @@ Adobe Campaign Standard bietet APIs, die es ermöglichen, bestehende Systeme mit
 
 Öffentliche Websites wie die Anmelde- oder Abmeldeseite müssen eine Verbindung zu Backend-Systemen herstellen, um Profildaten speichern zu können. Backend-Systeme wie Adobe Campaign erlauben es, Profildaten aufzunehmen und benutzerdefinierte Aktionen dafür auszuführen.
 
-Im Folgenden finden Sie einige Beispiele:
+Hier einige Beispiele:
 
 * Online-Registrierung potenzieller Kunden.
 * Bestehendes Kundenprofil und Verwaltung der Präferenzen bei der Marketing-Kommunikation.

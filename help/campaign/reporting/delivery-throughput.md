@@ -4,7 +4,8 @@ description: Im vordefinierten Bericht über den Versanddurchsatz können Sie si
 level: Intermediate
 audience: end-user
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+exl-id: cf086a57-dd70-41bc-a039-4070cecc3a66
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 90%
@@ -16,7 +17,7 @@ ht-degree: 90%
 Dieser Bericht fasst alle Informationen zusammen, die den Durchsatz eines Versands bzw. mehrerer Sendungen betreffen. Der Bericht zeigt folgende Kennzahlen:
 
 * Anzahl der verarbeiteten Nachrichten pro Stunde,
-* Die Tabelle **[!UICONTROL 5 häufigste Zustellungen]** und die jeweiligen Zusammenfassungen enthalten die fünf Sendungen mit der höchsten Anzahl an zugestellten Nachrichten.
+* Die Tabelle **[!UICONTROL 5 häufigste Zustellungen]** und die komplementären Zusammenfassungen enthalten die fünf Sendungen mit der höchsten Anzahl an zugestellten Nachrichten.
 
 ![](assets/delivery_reports_1.png)
 

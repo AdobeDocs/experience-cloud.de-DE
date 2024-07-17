@@ -23,7 +23,7 @@ Der Bericht zu **Push-Benachrichtigungen** liefert Details zur Marketing-Perform
 
 Für jede Tabelle werden Zusammenfassungen und Grafiken erstellt. Die Darstellung dieser Details können Sie in deren Einstellungen ändern.
 
-Die erste Tabelle **Push notification Engagement Summary** (Zusammenfassung der Interaktionen mit Push-Benachrichtigungen) ist in drei Kategorien unterteilt: nach Tag, nach Mobile App und nach Versand. Sie enthält alle verfügbaren Daten zu den Reaktionen der Empfänger auf den Versand.
+Die erste Tabelle **Zusammenfassung der Interaktionen mit Push-Benachrichtigungen** ist in drei Kategorien unterteilt: nach Tag, nach Mobile App und nach Versand. Sie enthält alle verfügbaren Daten zu den Reaktionen der Empfänger auf den Versand.
 
 * **[!UICONTROL Verarbeitet/gesendet]**: Gesamtzahl der gesendeten Push-Benachrichtigungen
 * **[!UICONTROL Zugestellt]**: Anzahl der erfolgreich gesendeten Push-Benachrichtigungen im Verhältnis zur Gesamtzahl der gesendeten Push-Benachrichtigungen
@@ -34,7 +34,7 @@ Die erste Tabelle **Push notification Engagement Summary** (Zusammenfassung der 
 
 ![](assets/dynamic_report_push_2.png)
 
-Die zweite Tabelle **Push notification Clicks &amp; opens** (Klicks &amp; Öffnungen in Push-Benachrichtigungen) ist in drei Kategorien unterteilt: nach Tag, nach Mobile App und nach Versand. Sie enthält alle verfügbaren Daten zum Verhalten der Empfänger bei jedem Versand.
+Die zweite Tabelle **Klicks &amp; Öffnungen in Push-Benachrichtigungen** ist in drei Kategorien unterteilt: nach Tag, nach Mobile App und nach Versand. Sie enthält alle verfügbaren Daten zum Verhalten der Empfänger bei jedem Versand.
 
 * **[!UICONTROL Impressions]**: Gesamtzahl der Push-Benachrichtigungen, die von Empfängern aufgerufen wurden
 * **[!UICONTROL Einzel-Impressions]**: Anzahl der Impressions eines Empfängers

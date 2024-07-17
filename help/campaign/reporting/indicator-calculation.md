@@ -4,7 +4,8 @@ description: Hier erhalten Sie Informationen über die Ergebnisse Ihrer Berichte
 level: Intermediate
 audience: end-user
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: 031d5b692d9b9e4420b14ba1ab892fbafed57ec0
+exl-id: 06fb21a5-ae98-4c14-97f0-7f851d60ae7d
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 97%
@@ -19,7 +20,7 @@ ht-degree: 97%
 
 In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Indikatoren, die in Berichten verwendet werden, sowie ihre Berechnungsformeln.
 
-## E-Mail-Versand {#email-delivery}
+## E-Mail-Versand             {#email-delivery}
 
 <table> 
  <thead> 
@@ -27,7 +28,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Indikato
    <th> <strong>Titel</strong> <br/> </th> 
    <th> <strong>Feldname</strong> <br/> </th> 
    <th> <strong>Formel zur Indikatorberechnung</strong> <br/> </th> 
-   <th> <strong>Kommentare</strong><br/> </th> 
+   <th> <strong>Erklärung</strong><br/> </th> 
   </tr> 
  </thead> 
  <tbody> 
@@ -56,7 +57,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Indikato
    <td> </td> 
   </tr> 
   <tr> 
-   <td> Bounce + Fehlerrate<br/> </td> 
+   <td> Bounce- + Fehlerrate<br/> </td> 
    <td> @rateBounces<br/> </td> 
    <td> @bounces/@sent<br/> </td> 
    <td> </td> 
@@ -68,7 +69,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Indikato
    <td> </td> 
   </tr> 
   <tr> 
-   <td> Klickrate<br/> </td> 
+   <td> Durchklickrate<br/> </td> 
    <td> @clickthrough<br/> </td> 
    <td> @uniqueclicks/@delivered<br/> </td> 
    <td> Der Denominator für die Berechnung der Rate basiert nur auf der Anzahl der zugestellten Nachrichten.<br/> </td> 
@@ -152,7 +153,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Indikato
    <td> Der Denominator für die Berechnung der Rate basiert auf der Anzahl der gesendeten Nachrichten (Zugestellt + Bounces).<br/> </td> 
   </tr>
   <tr> 
-   <td> Abgelehnt<br/> </td> 
+   <td> Zurückgewiesen<br/> </td> 
    <td> @rejected<br/> </td> 
    <td> count(@failureReason=20, @failureType=2)<br/> </td> 
    <td> </td> 
@@ -182,7 +183,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Indikato
    <td> Der Denominator für die Berechnung der Rate basiert auf der Anzahl der gesendeten Nachrichten (Zugestellt + Bounces).<br/> </td> 
   </tr> 
   <tr> 
-   <td> Einmalige Klicks<br/> </td> 
+   <td> Einzelklicks<br/> </td> 
    <td> @uniqueclicks<br/> </td> 
    <td> Einzelklicks werden anhand von ThetaSketch-Konzepten berechnet. </a>.<br/> </td> 
    <td> </td> 
@@ -200,7 +201,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Indikato
    <td> </td> 
   </tr> 
   <tr> 
-   <td> Abmelden<br/> </td> 
+   <td> Abgemeldet<br/> </td> 
    <td> @unsubscribes<br/> </td> 
    <td> count(@trackingUrlType=3)<br/> </td> 
    <td> </td> 

@@ -25,7 +25,7 @@ Der Zugriff auf Adobe Campaign Standard-APIs lässt sich mit den folgenden Schri
 
 1. **Überprüfen Sie, ob Sie ein digitales Zertifikat haben**, oder erstellen Sie bei Bedarf eines. Die mit dem Zertifikat bereitgestellten öffentlichen und privaten Schlüssel werden in den folgenden Schritten benötigt.
 1. **Erstellen Sie eine neue Integration mit Adobe Campaign Service** in [Adobe Developer](https://developer.adobe.com/) und konfigurieren Sie diese. Dann werden Ihre Zugangsdaten generiert (API-Schlüssel, Client-Geheimnis …).
-1. **Erstellen einer OAuth-Server-zu-Server-Instanz** Berechtigung durch Befolgen dieser [Implementierungsschritte](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/)
+1. **Erstellen Sie eine OAuth Server-to-Server**-Berechtigung, indem Sie die folgenden [Implementierungsschritte](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/) befolgen.
 
    >[!IMPORTANT]
    >

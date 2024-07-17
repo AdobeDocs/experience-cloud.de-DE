@@ -8,7 +8,8 @@ role: Data Engineer
 level: Experienced
 mini-toc-levels: 1
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: 4ddde59006a72f34090a0ed4a765447c69c5f029
+exl-id: 45acebb1-9325-4e26-8fe9-cc73f745d801
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '1165'
 ht-degree: 1%
@@ -27,7 +28,7 @@ Mit der Migration werden Ihren vorhandenen oder vorab erstellten technischen Kon
 
 ### Mandanten-ID
 
-Nach der Migration wird für alle zukünftigen Integrationen empfohlen, Ihre **Mandanten-ID für Campaign v8** in REST-URLs ersetzen, indem Sie die vorherige Mandanten-ID des Campaign Standards ersetzen.
+Nach der Migration wird für alle zukünftigen Integrationen empfohlen, Ihre **Campaign v8-Mandanten-ID** in REST-URLs zu verwenden und Ihre vorherige Mandanten-ID des Campaign Standards zu ersetzen.
 
 ### Schlüsselverwendung
 
@@ -44,16 +45,16 @@ Derzeit sind die unten aufgeführten REST-APIs zur Verwendung verfügbar:
 
 >[!AVAILABILITY]
 >
->Zunächst wird die **Transaktionsnachrichten** Die REST-API ist nicht verfügbar.
+>Derzeit ist die REST-API für **Transaktionsnachrichten** nicht verfügbar.
 >
 >Die unten aufgeführten REST-APIs sind veraltet und stehen nicht zur Verwendung zur Verfügung:
 >* Marketing-Verlauf
 >* Organisationseinheiten
 >* Datenschutzverwaltung
 
-## Filtern
+## Filter
 
-* Um Ihre Filter in REST-API-Payloads zu verwenden, müssen Sie sie in Campaign v8 bearbeiten und einen Namen angeben, der in Ihren Payloads verwendet werden soll. Greifen Sie dazu über die **[!UICONTROL Parameter]** und geben Sie den gewünschten Namen im **[!UICONTROL Filtername in REST API]** -Feld.
+* Um Ihre Filter in REST-API-Payloads zu verwenden, müssen Sie sie in Campaign v8 bearbeiten und einen Namen angeben, der in Ihren Payloads verwendet werden soll. Greifen Sie dazu über die Registerkarte **[!UICONTROL Parameter]** auf die zusätzlichen Parameter des Filters zu und geben Sie den gewünschten Namen im Feld **[!UICONTROL Filtername in REST API]** ein.
 
   ![](assets/api-filtering.png)
 
@@ -113,13 +114,13 @@ Im folgenden Abschnitt finden Sie die Unterschiede zwischen den Fehlercodes und 
 | Verwenden nicht vorhandener Rohdaten in URI | 404 - RST-360011 Es ist ein Fehler aufgetreten - wenden Sie sich an Ihren Administrator. Dokument mit dem Pfad &quot;Service&quot;kann nicht über den Schlüssel &quot;adobe_nl:0&quot;gefunden werden (Dokument mit Schema &quot;service&quot;und Name &quot;adobe_nl&quot;) | 404 - Dokument mit dem Pfad &quot;Dienst&quot;aus dem Schlüssel &quot;adobe_nl&quot;nicht finden (Dokument mit Schema &quot;service&quot;und Name &quot;adobe_nl&quot;) |
 | Verwenden nicht vorhandener Rohdaten im Anfrageinhalt | 404 - RST-360011 Es ist ein Fehler aufgetreten - wenden Sie sich an Ihren Administrator. Dokument mit dem Pfad &quot;Dienst&quot;kann nicht über den Schlüssel &quot;adobe_nl&quot;gefunden werden (Dokument mit Schema &quot;service&quot;und Name &quot;adobe_nl&quot;) | 404 - Dokument mit dem Pfad &quot;Dienst&quot;aus dem Schlüssel &quot;adobe_nl&quot;nicht finden (Dokument mit Schema &quot;service&quot;und Name &quot;adobe_nl&quot;) |
 | – | 500 - RST-360011 Es ist ein Fehler aufgetreten - wenden Sie sich an Ihren Administrator. | 500 - Ein Fehler ist aufgetreten. Wenden Sie sich an Ihren Administrator. |
-| Profil/Dienst mit ungültigem Enum-Wert (oder beliebigem Enum-Wert) einfügen | 500 - RST-360011 Es ist ein Fehler aufgetreten - wenden Sie sich an Ihren Administrator. Der Wert &#39;invalid&#39; ist für die &#39;nms&#39; nicht gültig.:recipient:gender-Auflistung des Felds &#39;@gender&#39; | 500 - Ein Fehler ist aufgetreten. Wenden Sie sich an Ihren Administrator. |
+| Profil/Dienst mit ungültigem Enum-Wert (oder beliebigem Enum-Wert) einfügen | 500 - RST-360011 Es ist ein Fehler aufgetreten - wenden Sie sich an Ihren Administrator. Der Wert &#39;invalid&#39; ist nicht gültig für die Auflistung &#39;nms:recipient:gender&#39; des Felds &#39;@gender&#39;. | 500 - Ein Fehler ist aufgetreten. Wenden Sie sich an Ihren Administrator. |
 
 ## Profil - Zeitzone
 
-Mit Campaign Standard wird die Zeitzone als Teil der JSON-Antwort von **profileAndServices/profile** REST-API-Aufrufe.
+Mit Campaign Standard wird die Zeitzone als Teil der JSON-Antwort von **profileAndServices/profile** REST-API-Aufrufen angezeigt.
 
-In Campaign v8 wird die Zeitzone nur Benutzern als Teil von **profileAndServicesExt/profile** REST-API-Aufrufe. Sie ist nicht Teil von **profileAndServices/profile** REST-API-Aufrufe, da sie in einem erweiterten Schema hinzugefügt werden.
+Bei Campaign v8 wird die Zeitzone dem Benutzer nur im Rahmen von **profileAndServicesExt/profile** REST-API-Aufrufen angezeigt. Sie ist nicht Teil der REST-API-Aufrufe **profileAndServices/profile** , da sie in einem erweiterten Schema hinzugefügt werden.
 
 ## Workflows - Auslösung von Externem Signal
 

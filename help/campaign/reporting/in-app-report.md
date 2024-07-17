@@ -23,7 +23,7 @@ Für jede Tabelle werden Zusammenfassungen und Grafiken erstellt. Die Darstellun
 
 ![](assets/inapp_report.png)
 
-Die erste Tabelle **In-App Engagement Summary** (Zusammenfassung der In-App-Interaktionen) ist in drei Kategorien unterteilt: nach Tag, nach Mobile App und nach Versand. Sie enthält alle verfügbaren Daten zu den Reaktionen der Empfänger auf den Versand.
+Die erste Tabelle **Zusammenfassung der In-App-Interaktionen** ist in drei Kategorien unterteilt: nach Tag, nach Mobile App und nach Versand. Sie enthält alle verfügbaren Daten zu den Reaktionen der Empfänger auf den Versand.
 
 * **[!UICONTROL Verarbeitet/gesendet]**: Die Gesamtzahl der gesendeten In-App-Nachrichten
 * **[!UICONTROL Zugestellt]**: Anzahl der erfolgreich gesendeten In-App-Nachrichten in Bezug auf die Gesamtzahl der gesendeten Nachrichten

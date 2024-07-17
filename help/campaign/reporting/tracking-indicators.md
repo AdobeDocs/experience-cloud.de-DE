@@ -4,14 +4,15 @@ description: Im vordefinierten Bericht über die Trackingindikatoren erfahren Si
 audience: end-user
 level: Intermediate
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+exl-id: cdb41d18-7d92-4128-a29b-70e17b6a3358
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 94%
 
 ---
 
-# Trackingindikatoren{#tracking-indicators}
+# Tracking-Indikatoren{#tracking-indicators}
 
 Der Bericht **[!UICONTROL Trackingindikatoren]** enthält die wichtigsten Indikatoren zum Tracking des Verhaltens nach dem Empfang einer E-Mail-Nachricht.
 
@@ -21,7 +22,7 @@ Der Bericht **[!UICONTROL Trackingindikatoren]** enthält die wichtigsten Indika
 
 ![](assets/delivery_reports_2.png)
 
-Die Tabelle **[!UICONTROL Trackingindikatoren]** und das Diagramm **Top 5 Deliveries** enthalten die verfügbaren Daten für das Tracken von E-Mails, z. B.:
+Die Tabelle **[!UICONTROL Trackingindikatoren]** und das Diagramm **Top 5 Sendungen** enthalten die verfügbaren Daten für das Tracken von E-Mails, z. B.:
 
 * **[!UICONTROL Zugestellt]**: Die Anzahl der erfolgreich gesendeten Nachrichten. Fehler (Bounces) werden abgezogen, doch Beschwerden (als Spam gekennzeichnete Nachrichten) und Abwesenheitsnotizen (beispielsweise &quot;Nicht im Büro&quot;) bleiben eingeschlossen.
 * **Öffnungen**: Die Anzahl der Öffnungen einer Nachricht in einem Versand.

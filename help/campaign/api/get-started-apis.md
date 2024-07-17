@@ -1,13 +1,14 @@
 ---
 title: Erste Schritte mit Campaign REST-APIs
-description: Erstellen Sie Integrationen und bauen Sie Ihr eigenes Ökosystem auf, indem Sie Campaign mit einer Reihe von Technologien verbinden.
+description: Erstellen Sie Integrationen und bauen Sie Ihr eigenes Ökosystem auf, indem Sie Campaign mit einer Reihe von Technologien verknüpfen.
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: c6968252-a012-4029-bbb8-66f4f693e99b
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 48%
@@ -22,7 +23,7 @@ ht-degree: 48%
 >
 >Bevor Sie API-Aufrufe ausführen, überprüfen Sie bitte die Volumenbeschränkungen in Ihrer Lizenzvereinbarung. Weitere Informationen hierzu finden Sie auf [dieser Seite](https://helpx.adobe.com/de/legal/product-descriptions/campaign-standard.html#ITInfrastructureResourcesbyActiveProfilesTiers).
 
-Campaign-REST-APIs sollen Ihnen Folgendes ermöglichen: **Integrationen erstellen** für Adobe Campaign und **Erstellen Ihres eigenen Ökosystems** , indem Sie Adobe Campaign mit dem von Ihnen verwendeten Technologiebereich verbinden.
+Mit Campaign-REST-APIs können Sie **Integrationen erstellen** für Adobe Campaign und **Ihr eigenes Ökosystem erstellen**, indem Sie Adobe Campaign mit den von Ihnen verwendeten Technologien verbinden.
 
 Mit den Adobe Campaign REST-APIs erhalten Sie Zugriff auf folgende Funktionen:
 

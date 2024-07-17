@@ -4,7 +4,8 @@ description: Hier erhalten Sie Informationen zur Benutzeroberfläche von dynamis
 level: Beginner
 audience: end-user
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+exl-id: 9b5a8b5f-2258-4861-b5c2-feefef67ccb3
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 97%
@@ -26,12 +27,12 @@ Im Tab **Projekt** haben Sie folgende Möglichkeiten:
 
 Im Tab **Bearbeiten** haben Sie folgende Möglichkeiten:
 
-* **Rückgängig**: Bricht den zuletzt im Dashboard ausgeführten Vorgang ab.
+* **Rückgängig**: Bricht die zuletzt im Dashboard ausgeführte Aktion ab.
 * **Alle löschen**: Löscht alle Bedienfelder in Ihrem Dashboard.
 
 Im Tab **Einfügen** können Sie Ihre Berichte anpassen, indem Sie Diagramme und Tabellen zu Ihrem Dashboard hinzufügen:
 
-* **Neues leeres Bedienfeld**: Fügt ein neues leeres Bedienfeld zu Ihrem Dashboard hinzu.
+* **Neues leeres Panel**: Fügt ein Neues leeres Panel zu Ihrem Dashboard hinzu.
 * **Neue Freiform**: Fügt eine neue Freiformtabelle zu Ihrem Dashboard hinzu.
 * **Neue Zeile**: Fügt ein neues Liniendiagramm zu Ihrem Dashboard hinzu.
 * **Neuer Balken**: Fügt ein neues Balkendiagramm zu Ihrem Dashboard hinzu.
@@ -42,7 +43,7 @@ Im Tab **Einfügen** können Sie Ihre Berichte anpassen, indem Sie Diagramme und
 * [Visualisierungen hinzufügen](adding-visualizations.md)
 * [Komponenten hinzufügen](adding-components.md)
 
-## Tabs {#tabs}
+## Tabs      {#tabs}
 
 In den linken Tabs können Sie nach Bedarf Berichte erstellen und Daten filtern.
 
@@ -50,8 +51,8 @@ In den linken Tabs können Sie nach Bedarf Berichte erstellen und Daten filtern.
 
 Über diese Tabs haben Sie Zugriff auf folgende Elemente:
 
-* **[!UICONTROL Bedienfelder]**: Fügen Sie Ihrem Bericht ein leeres Bedienfeld oder Freiformelement hinzu, um Ihre Daten zu filtern. Weiterführende Informationen finden Sie im Abschnitt zum Hinzufügen von Bedienfeldern.
-* **[!UICONTROL Visualisierungen]**: Ziehen Sie die gewünschten Visualisierungselemente in den Bereich, um Ihren Bericht grafisch aufzubereiten. Weiterführende Informationen finden Sie im Abschnitt zum Hinzufügen von Visualisierungen.
+* **[!UICONTROL Panels]**: Fügt Ihrem Bericht ein leeres Panel oder eine Freiform hinzu, um Ihre Daten zu filtern. Weiterführende Informationen finden Sie im Abschnitt zum Hinzufügen von Bedienfeldern.
+* **[!UICONTROL Visualisierungen]**: Legen Sie die gewünschten Visualisierungselemente ab, um Ihren Bericht grafisch aufzubereiten. Weiterführende Informationen finden Sie im Abschnitt zum Hinzufügen von Visualisierungen.
 * **[!UICONTROL Komponenten]**: Passen Sie Ihren Bericht mit unterschiedlichen Dimensionen, Metriken, Segmenten und Zeiträumen an.
 
 ## Symbolleiste {#toolbar}
@@ -84,7 +85,7 @@ Im Tab **Projekt** haben Sie folgende Möglichkeiten:
 
 Im Tab **Bearbeiten** haben Sie folgende Möglichkeiten:
 
-* **Rückgängig**: Bricht den zuletzt im Dashboard ausgeführten Vorgang ab.
+* **Rückgängig**: Bricht die zuletzt im Dashboard ausgeführte Aktion ab.
 * **Alle löschen**: Löscht alle Bedienfelder in Ihrem Dashboard.
 
 ### Einfügen-Tab {#insert-tab}
@@ -93,7 +94,7 @@ Im Tab **Bearbeiten** haben Sie folgende Möglichkeiten:
 
 Im Tab **Einfügen** können Sie Ihre Berichte anpassen, indem Sie Diagramme und Tabellen zu Ihrem Dashboard hinzufügen:
 
-* **Neues leeres Bedienfeld**: Fügt ein neues leeres Bedienfeld zu Ihrem Dashboard hinzu.
+* **Neues leeres Panel**: Fügt ein Neues leeres Panel zu Ihrem Dashboard hinzu.
 * **Neue Freiform**: Fügt eine neue Freiformtabelle zu Ihrem Dashboard hinzu.
 * **Neue Zeile**: Fügt ein neues Liniendiagramm zu Ihrem Dashboard hinzu.
 * **Neuer Balken**: Fügt ein neues Balkendiagramm zu Ihrem Dashboard hinzu.

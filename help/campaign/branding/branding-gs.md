@@ -1,12 +1,13 @@
 ---
-title: Marken
+title: Branding
 description: Entdecken Sie alle verfügbaren Tools zum Verwalten Ihrer Markenidentitäten
 audience: administration
 context-tags: branding,overview;branding,main
 role: Admin
 level: Experienced
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: 51abadc86b97097d13824651d8c50d4ddd014a51
+exl-id: f6438303-5ae8-47c6-8c34-8e586f4b6fe7
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 54%
@@ -25,7 +26,7 @@ Technische Administratoren können innerhalb von Adobe Campaign mehrere Marken e
 
 Sie können in Campaign neue Entitäten Ihrer Organisation hinzufügen oder einen neuen E-Mail-Typ erstellen, den Sie unter einer anderen Subdomain senden müssen. Gehen Sie dazu wie folgt vor:
 
-1. **Neue Subdomain konfigurieren**: Damit eine neue Subdomain von Adobe verwendet werden kann, müssen Sie sie zunächst konfigurieren. Sie können dies über das [Control Panel](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/subdomains-branding.html?lang=de) in Campaign durchführen oder sich an Ihren technischen Ansprechpartner bei Adobe wenden. Weitere Informationen zur Konfiguration von Subdomains [auf dieser Seite](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/campaign/ac-domain-name-setup).
+1. **Neue Subdomain konfigurieren**: Damit eine neue Subdomain von Adobe verwendet werden kann, müssen Sie sie zunächst konfigurieren. Sie können dies über das [Control Panel](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/subdomains-branding.html?lang=de) in Campaign durchführen oder sich an Ihren technischen Ansprechpartner bei Adobe wenden. Weitere Informationen zur Subdomain-Konfiguration [finden Sie auf dieser Seite](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/campaign/ac-domain-name-setup).
 
    >[!NOTE]
    >
@@ -34,4 +35,3 @@ Sie können in Campaign neue Entitäten Ihrer Organisation hinzufügen oder eine
 1. **Versandvorlage erstellen**: Sobald die neue Marke verfügbar ist, sollten Sie mindestens eine neue leere Versandvorlage erstellen, die auf diese neue Marke verweist. [Weitere Informationen](branding-assign.md).
 
 1. **Zustellbarkeitsrichtlinien prüfen**: Bevor Sie mit der Verwendung der neuen Domain beginnen, sollte die Strategie mit dem Adobe Zustellbarkeits-Team besprochen werden. Sie helfen bei der Definition der Best Practices, wenn eine neue Affinität erstellt werden soll, um beispielsweise die IPs zwischen Domänen zu unterteilen, und/oder wenn ein Hochlaufplan definiert werden soll.
-

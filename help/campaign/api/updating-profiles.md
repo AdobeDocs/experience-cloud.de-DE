@@ -4,7 +4,8 @@ description: Erfahren Sie, wie Sie mit APIs Profile aktualisieren können
 role: Data Engineer
 level: Experienced
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: fa3796ee-a00c-4d70-bf3d-e8d2099f1116
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 91%

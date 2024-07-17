@@ -1,12 +1,13 @@
 ---
-title: Marken
+title: Branding
 description: Entdecken Sie, wie Sie Ihre Marke zuweisen
 audience: administration
 context-tags: branding,overview;branding,main
 role: Admin
 level: Experienced
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: 51abadc86b97097d13824651d8c50d4ddd014a51
+exl-id: 8f6a5255-0245-497b-880f-d91ea82ee19e
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 20%
@@ -33,21 +34,21 @@ Um eine Versandvorlage zu erstellen, können Sie eine integrierte Vorlage dupliz
 
 Nach der Erstellung Ihrer Vorlage können Sie sie mit einer Marke verknüpfen. Gehen Sie dazu folgendermaßen vor:
 
-1. Navigieren Sie zu **[!UICONTROL Ressourcen]** `>` **[!UICONTROL Vorlagen]** `>` **[!UICONTROL Versandvorlagen]** im Adobe Campaign-Explorer angezeigt.
+1. Navigieren Sie im Adobe Campaign-Explorer zu **[!UICONTROL Ressourcen]** `>` **[!UICONTROL Vorlagen]** `>` **[!UICONTROL Versandvorlagen]** .
 
 1. Wählen Sie eine Versandvorlage aus oder duplizieren Sie eine vorhandene.
 
    ![](assets/branding_assign_V8_1.png)
 
-1. Zugriff auf **[!UICONTROL Eigenschaften]** der ausgewählten Versandvorlage.
+1. Rufen Sie die **[!UICONTROL Eigenschaften]** Ihrer ausgewählten Versandvorlage auf.
 
    ![](assets/branding_assign_V8_2.png)
 
-1. Aus dem **[!UICONTROL Allgemein]** Wählen Sie Ihre Marke aus dem **[!UICONTROL Branding]** angezeigt.
+1. Wählen Sie auf der Registerkarte **[!UICONTROL Allgemein]** Ihre Marke aus der Dropdownliste **[!UICONTROL Branding]** aus.
 
    ![](assets/branding_assign_V8_3.png)
 
-1. Wählen Sie nach der Konfiguration **OK**.
+1. Wählen Sie nach der Konfiguration **OK** aus.
 
 Jetzt können Sie diese Vorlage verwenden, um Ihre Sendungen durchzuführen.
 
@@ -57,7 +58,7 @@ Um eine Versandvorlage zu erstellen, können Sie eine integrierte Vorlage dupliz
 
 Nach der Erstellung Ihrer Vorlage können Sie sie mit einer Marke verknüpfen. Gehen Sie dazu folgendermaßen vor:
 
-1. Navigieren Sie zum **[!UICONTROL Vorlagen]** auf der Registerkarte **[!UICONTROL Sendungen]** und wählen Sie eine Versandvorlage aus.
+1. Gehen Sie zum Tab **[!UICONTROL Vorlagen]** , wählen Sie im linken Menü **[!UICONTROL Sendungen]** eine Versandvorlage aus.
 
    ![](assets/branding_assign_web_1.png)
 
@@ -65,7 +66,7 @@ Nach der Erstellung Ihrer Vorlage können Sie sie mit einer Marke verknüpfen. G
 
    ![](assets/branding_assign_web_2.png)
 
-1. Aus dem **[!UICONTROL Versand]** auf die Registerkarte **[!UICONTROL Branding]** und wählen Sie die Marke aus, die Sie mit der Vorlage verknüpfen möchten.
+1. Rufen Sie im Tab **[!UICONTROL Versand]** das Feld **[!UICONTROL Branding]** auf und wählen Sie die Marke aus, die Sie mit der Vorlage verknüpfen möchten.
 
    ![](assets/branding_assign_web_3.png)
 
@@ -83,31 +84,31 @@ Jetzt können Sie diese Vorlage verwenden, um Ihre Sendungen durchzuführen.
 
 Gehen Sie wie folgt vor, um einen neuen eigenständigen Versand zu erstellen.
 
-1. Um einen neuen Versand zu erstellen, navigieren Sie zum **[!UICONTROL Kampagnen]** Registerkarte.
+1. Gehen Sie zum Erstellen eines neuen Versands zum Tab **[!UICONTROL Kampagnen]** .
 
-1. Klicks **[!UICONTROL Sendungen]** und klicken Sie auf **[!UICONTROL Erstellen]** oberhalb der Versandliste.
+1. Klicken Sie auf **[!UICONTROL Sendungen]** und dann auf die Schaltfläche **[!UICONTROL Erstellen]** oberhalb der Liste der bestehenden Sendungen.
 
    ![](assets/branding_assign_V8_4.png)
 
 1. Wählen Sie eine Versandvorlage aus.
 
-1. Zugriff auf **[!UICONTROL Eigenschaften]** der ausgewählten Versandvorlage.
+1. Rufen Sie die **[!UICONTROL Eigenschaften]** Ihrer ausgewählten Versandvorlage auf.
 
    ![](assets/branding_assign_V8_5.png)
 
-1. Aus dem **[!UICONTROL Allgemein]** Wählen Sie Ihre Marke aus dem **[!UICONTROL Branding]** angezeigt.
+1. Wählen Sie auf der Registerkarte **[!UICONTROL Allgemein]** Ihre Marke aus der Dropdownliste **[!UICONTROL Branding]** aus.
 
    ![](assets/branding_assign_V8_6.png)
 
-1. Wählen Sie nach der Konfiguration **OK**.
+1. Wählen Sie nach der Konfiguration **OK** aus.
 
-1. Personalisieren Sie Ihre Sendungen weiter. Weiterführende Informationen zur Erstellung einer E-Mail finden Sie im Abschnitt [E-Mails erstellen und senden](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email) Abschnitt.
+1. Personalisieren Sie Ihre Sendungen weiter. Weiterführende Informationen zur Erstellung einer E-Mail finden Sie im Abschnitt [E-Mails entwerfen und senden](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email) .
 
 >[!TAB Adobe Campaign Web]
 
 Gehen Sie wie folgt vor, um einen neuen eigenständigen Versand zu erstellen.
 
-1. Navigieren Sie zum **[!UICONTROL Sendungen]** in der linken Leiste auf und klicken Sie auf das **[!UICONTROL Versand erstellen]** Schaltfläche.
+1. Navigieren Sie in der linken Leiste zum Menü **[!UICONTROL Sendungen]** und klicken Sie auf die Schaltfläche **[!UICONTROL Versand erstellen]** .
 
    ![](assets/branding_assign_web_4.png)
 
@@ -115,11 +116,11 @@ Gehen Sie wie folgt vor, um einen neuen eigenständigen Versand zu erstellen.
 
 1. Klicken Sie zur Bestätigung auf **[!UICONTROL Versand erstellen]**.
 
-1. Aus dem **[!UICONTROL Eigenschaften]** Seite, klicken **[!UICONTROL Einstellungen]**.
+1. Klicken Sie auf der Seite **[!UICONTROL Eigenschaften]** auf **[!UICONTROL Einstellungen]**.
 
    ![](assets/branding_assign_web_5.png)
 
-1. Aus dem **[!UICONTROL Versand]** auf die Registerkarte **[!UICONTROL Branding]** -Feld.
+1. Rufen Sie im Tab **[!UICONTROL Versand]** das Feld **[!UICONTROL Branding]** auf.
 
    ![](assets/branding_assign_web_6.png)
 
@@ -127,6 +128,6 @@ Gehen Sie wie folgt vor, um einen neuen eigenständigen Versand zu erstellen.
 
    ![](assets/branding_assign_web_7.png)
 
-1. Personalisieren Sie Ihre Sendungen weiter. Weiterführende Informationen zur Erstellung einer E-Mail finden Sie im Abschnitt [Erste E-Mail erstellen](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email) Abschnitt.
+1. Personalisieren Sie Ihre Sendungen weiter. Weiterführende Informationen zur Erstellung einer E-Mail finden Sie im Abschnitt [Erste E-Mail erstellen](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email) .
 
 >[!ENDTABS]

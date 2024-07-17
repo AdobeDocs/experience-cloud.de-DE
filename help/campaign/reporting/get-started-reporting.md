@@ -4,7 +4,8 @@ description: Analysieren Sie den Erfolg Ihrer Kampagnen in integrierten oder ben
 audience: end-user
 level: Beginner
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+exl-id: 6feac90f-f7c1-48b5-94ff-7fef92a2af83
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 72%
@@ -21,7 +22,7 @@ Das dynamische Reporting ermöglicht vollständig anpassbare und in Echtzeit akt
 
 Mit der **Drag &amp; Drop-Benutzeroberfläche** für die dynamische Berichterstellung können Sie von einer zentralen Stelle aus Daten untersuchen, bestimmen, wie Ihre E-Mail-Kampagnen bei Ihren wichtigsten Kundensegmenten angekommen sind, und deren Wirkung auf die Empfänger messen.
 
-**Dynamische Berichte verwalten** Dank verschiedener Funktionen: Aktualisieren Sie die Daten in Echtzeit, drucken Sie Ihre Berichte oder exportieren Sie sie als CSV-Dateien.
+**Verwalten dynamischer Berichte** dank verschiedener Funktionen: Aktualisieren Sie die Daten in Echtzeit, drucken Sie Ihre Berichte oder exportieren Sie sie als CSV-Dateien.
 
 Mehr dazu:
 
@@ -32,7 +33,7 @@ Mehr dazu:
 
 <img src="assets/do-not-localize/icon_build.svg" width="60px">
 
-Die Adobe Campaign-Webbenutzeroberfläche enthält eine Reihe von **Benutzerdefinierte dynamische Berichte** Damit können Sie mehrere Aspekte Ihrer Marketing-Kampagnen messen: Bounces, Sendungen, die am häufigsten als Spam oder Junk gekennzeichnet wurden, am häufigsten angezeigte Sendungen nach Empfängern, kanalbezogene Berichte, Versanddurchsatz und Tracking-Berichte..
+Die Adobe Campaign-Webbenutzeroberfläche enthält eine Reihe von **vorab verwendeten dynamischen Berichten**, mit denen Sie mehrere Aspekte Ihrer Marketing-Kampagnen messen können: Bounces, Sendungen, die am häufigsten als Spam oder Junk bezeichnet wurden, am häufigsten angezeigte Sendungen nach Empfängern, kanalbezogene Berichte, Versanddurchsatz und Tracking-Berichte..
 
 **Kombinieren Sie verschiedene Komponenten** (Dimensionen, Metriken und Segmente, Zeiträume), um eigene Berichte zu erstellen oder native Berichte zu personalisieren.
 
@@ -55,4 +56,3 @@ Mehr dazu:
 * [Panels hinzufügen](adding-panels.md)
 * [Visualisierungen hinzufügen](adding-visualizations.md)
 * [Komponenten hinzufügen](adding-components.md)
-

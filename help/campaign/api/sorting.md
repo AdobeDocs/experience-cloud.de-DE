@@ -1,5 +1,5 @@
 ---
-title: Sortierungs-Funktionen
+title: Sortieren
 description: Erfahren Sie mehr über die Verwendung von Sortiervorgängen.
 audience: developing
 content-type: reference
@@ -7,14 +7,15 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: 7db25b8d-a6f1-4151-bf37-c47e9991ae48
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 90%
 
 ---
 
-# Sortierungs-Funktionen
+# Sortieren
 
 Die Sortierung ist standardmäßig in aufsteigender Reihenfolge verfügbar. Um in absteigender Reihenfolge zu sortieren, hängen Sie **%20desc** an den Wert des Parameters **_order** an.
 

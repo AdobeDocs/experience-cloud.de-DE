@@ -4,7 +4,8 @@ description: Hier finden Sie häufig gestellte Fragen zu dynamischen Berichten.
 audience: end-user
 level: Intermediate
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+exl-id: a58fc8fd-e510-45ef-8fe9-c75ff4498113
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '1239'
 ht-degree: 97%

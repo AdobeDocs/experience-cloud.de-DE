@@ -1,19 +1,20 @@
 ---
 title: Verteilung nach Domain
-description: Im vordefinierten Bericht über die Verteilung nach Domain erhalten Sie Leistungsdaten Ihrer Sendungen aufgeschlüsselt nach der Domain Ihrer Kunden.
+description: Im vordefinierten Bericht über die Verteilung nach Domain erhalten Sie Performance-Daten Ihrer Sendungen aufgeschlüsselt nach der Domain Ihrer Kunden.
 level: Intermediate
 audience: end-user
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+exl-id: 9b6126b7-3f9c-4810-9288-33a3f0a034d8
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 90%
 
 ---
 
-# Verteilung nach Domain{#breakdown-by-domains}
+# Aufschlüsselung nach Domains{#breakdown-by-domains}
 
-Dieser Bericht enthält die Leistungsdaten für jede in einer Audience eines E-Mail-Versands vertretenen Domain. Wenn es sich um einen Kampagnen- oder Programmbericht handelt, sind die Leistungsdaten für mehrere Audiences verfügbar. Diese Daten ermöglichen insbesondere eine nach Domain durchgeführte Analyse in Bezug auf spezifische Ereignisse, Beispielsweise Link-Anzeige, URL auf Blockierungsliste usw.
+Dieser Bericht enthält die Performance-Daten für jede in einer Zielgruppe eines E-Mail-Versands vertretenen Domain. Wenn es sich um einen Kampagnen- oder Programmbericht handelt, sind die Performance-Daten für mehrere Zielgruppen verfügbar. Diese Daten ermöglichen insbesondere eine nach Domain durchgeführte Analyse in Bezug auf spezifische Ereignisse, Beispielsweise Link-Anzeige, URL auf Blockierungsliste usw.
 
 ![](assets/delivery_reports_6.png)
 

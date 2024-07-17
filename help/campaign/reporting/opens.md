@@ -4,7 +4,8 @@ description: Im Bericht zu Öffnungen erfahren Sie, welcher Versand gemäß vers
 audience: end-user
 level: Intermediate
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+exl-id: dcd794bb-05be-430f-868e-b63d242debc6
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 88%
@@ -24,4 +25,4 @@ In vier Tabellen und Grafiken wird die Darstellung der Gesamtzahl der Empfänger
 * Plattform
 * Domain
 
-Die Tabelle **[!UICONTROL 5 häufigste]** einschließlich der jeweiligen Diagramme enthalten die Sendungen mit der höchsten Anzahl an zugestellten Nachrichten.
+Die Tabelle **[!UICONTROL TOP 5]** einschließlich der jeweiligen Diagramme enthalten die Sendungen mit der höchsten Anzahl an zugestellten Nachrichten.

@@ -21,11 +21,11 @@ Darüber hinaus wird dieser Übergang viele Vorteile mit sich bringen:
 * Integration mit Adobe Experience Platform
 * Konsistente Benutzeroberfläche und Erlebnis
 
-Weitere Informationen zu den wichtigsten Funktionen und Konzeptunterschieden finden Sie unter [diese Seite](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration).
+Weitere Informationen zu den wichtigsten Funktionen und Konzeptunterschieden finden Sie auf [dieser Seite](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration).
 
 ## Neuerungen
 
-Hier erhalten Sie einen Überblick über alle Funktionen und Funktionen von [Campaign-Webbenutzeroberfläche](https://experienceleague.adobe.com/de/docs/campaign-web/v8/campaign-web-home) und [Campaign v8](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/campaign-home).
+Hier erhalten Sie einen Überblick über alle Funktionen und Leistungsmerkmale, die die Webbenutzeroberfläche von Campaign ](https://experienceleague.adobe.com/de/docs/campaign-web/v8/campaign-web-home) und die Campaign v8](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/campaign-home) bieten.[[
 
 Damit Sie den Übergang nahtlos durchführen können, haben wir wichtige Funktionen von Campaign Standard zu v8 hinzugefügt:
 
@@ -61,7 +61,7 @@ Sie können REST-APIs verwenden, um Integrationen für Adobe Campaign zu erstell
     </td>
     <td>
     <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/gs-workflows"><img src="assets/do-not-localize/menu-workflows.jpeg"></a>
-    <div><strong>Überarbeitete Arbeitsablauffläche</strong><br/></div><br/>
+    <div><strong>Überarbeitete Workflow-Arbeitsfläche</strong><br/></div><br/>
     </td>
     <td>
     <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/start-design/get-started-email-designer"><img src="assets/do-not-localize/menu-email.png"></a>
