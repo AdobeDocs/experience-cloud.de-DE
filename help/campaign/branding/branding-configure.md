@@ -7,10 +7,10 @@ role: Admin
 level: Experienced
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
 exl-id: 7afc802d-e90c-48c8-aa04-3ea543dfdfbc
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+source-git-commit: 62c2f2e7a6f5dd347749e963a655b717cd5c7310
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 63%
+source-wordcount: '377'
+ht-degree: 46%
 
 ---
 
@@ -56,10 +56,8 @@ Eine **[!UICONTROL Marke]** wird durch die folgenden Eigenschaften definiert:
 
   ![](assets/branding_3.png)
 
-<!--![](assets/branding_05.png)-->
+* Das Menü **[!UICONTROL URL-Konfigurationen tracken]** ermöglicht es Ihnen, das URL-Tracking zu verbessern, indem Sie zusätzliche Parameter für die Integration mit Webanalysetools wie Adobe Analytics und Google Analytics definieren.
 
-<!--
-* **[!UICONTROL Tracking URL configs]**, which defines the configuration of the URLs tracking for your brand.
+  Verwenden Sie das Menü **[!UICONTROL Zusätzliche URL-Parameter]** , um zusätzliche Parameter als Schlüssel-Wert-Paare zusammen mit ihren Anwendbarkeitsbedingungen zu erstellen. Jeder Parametername muss eindeutig und nicht leer sein und jeder Parameterwert darf nicht leer sein. Die Anwendbarkeitsbedingung kann leer sein, aber keiner dieser Werte kann JST-Tags enthalten.
 
-  The additional parameters that allow the links to be tracked on external systems such as Web Analytics tools like Adobe Analytics or Google Analytics are defined here.
--->
+  Diese Parameter werden auf getrackte URLs angewendet, die mit jedem Domänennamen übereinstimmen, der in der **[!UICONTROL Liste der Domänennamen]** angegeben ist und reguläre Ausdrücke enthalten kann.

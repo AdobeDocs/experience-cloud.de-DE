@@ -5,14 +5,18 @@ audience: end-user
 level: Intermediate
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
 exl-id: 36506f7d-aeeb-41cf-b971-6e42e1c7cdc8
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+source-git-commit: 62c2f2e7a6f5dd347749e963a655b717cd5c7310
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 95%
+source-wordcount: '238'
+ht-degree: 86%
 
 ---
 
 # Berichtszeitraum definieren{#defining-the-report-period}
+
+>[!NOTE]
+>
+>Die Datenberichte stehen für die letzten 13 Monate zur Verfügung. Weitere Informationen zu Datenaufbewahrungszeiträumen erhalten Sie von Adobe-Beratern oder Ihren technischen Administratoren.
 
 Bevor Sie einen Bericht erstellen oder öffnen, müssen Sie einen Zeitraum festlegen. Rechts oben neben dem Bericht können Sie auf den jeweiligen Zeitraum zugreifen.
 

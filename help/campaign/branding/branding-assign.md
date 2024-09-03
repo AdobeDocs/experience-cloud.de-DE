@@ -7,18 +7,14 @@ role: Admin
 level: Experienced
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
 exl-id: 8f6a5255-0245-497b-880f-d91ea82ee19e
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+source-git-commit: 62c2f2e7a6f5dd347749e963a655b717cd5c7310
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '471'
 ht-degree: 20%
 
 ---
 
 # Marke zuweisen {#branding-assign}
-
->[!IMPORTANT]
->
->Die Branding-Optionen sind derzeit auf E-Mail- und Push-Sendungen beschränkt.
 
 ## Marken mit einer Vorlage verknüpfen {#linking-a-brand-to-a-template}
 
@@ -54,7 +50,7 @@ Jetzt können Sie diese Vorlage verwenden, um Ihre Sendungen durchzuführen.
 
 >[!TAB Adobe Campaign Web]
 
-Um eine Versandvorlage zu erstellen, können Sie eine integrierte Vorlage duplizieren, einen existierenden Versand in eine Vorlage konvertieren oder eine neue Versandvorlage erstellen. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/delivery-template)
+Um eine Versandvorlage zu erstellen, können Sie eine integrierte Vorlage duplizieren, einen existierenden Versand in eine Vorlage konvertieren oder eine neue Versandvorlage erstellen. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/delivery-template)
 
 Nach der Erstellung Ihrer Vorlage können Sie sie mit einer Marke verknüpfen. Gehen Sie dazu folgendermaßen vor:
 
