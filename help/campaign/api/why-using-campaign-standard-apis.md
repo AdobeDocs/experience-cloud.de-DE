@@ -8,10 +8,10 @@ role: Data Engineer
 level: Experienced
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
 exl-id: ef045e5d-cd02-44a0-9a1e-d468483a38d9
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 6e4e214731b9772014d01dde89b3f80e4c4e93a6
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 80%
+source-wordcount: '469'
+ht-degree: 79%
 
 ---
 
@@ -25,7 +25,7 @@ Hier einige Beispiele:
 
 * Online-Registrierung potenzieller Kunden.
 * Bestehendes Kundenprofil und Verwaltung der Präferenzen bei der Marketing-Kommunikation.
-* Auslösung von ereignisbasierter Transaktionskommunikation – Bestellbestätigung, Buchungsverlauf, Kennwortzurücksetzung usw.
+  <!--* Event based transactional communication triggering – order confirmation, booking Itinerary, password reset, etc.-->
 * Auch E-Mail-Kommunikation bei Warenkorbabbruch.
 
 Auf Anmelde-Landingpages können Kunden bzw. potenzielle Kunden ihren Namen und ihre E-Mail-Adresse registrieren. Sobald der Campaign Standard die Profilinformationen und -einstellungen erfasst, kann er personalisierte Nachrichten versenden, die auf den Interessen der Person basieren.

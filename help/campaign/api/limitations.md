@@ -9,9 +9,9 @@ level: Experienced
 mini-toc-levels: 1
 badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
 exl-id: 45acebb1-9325-4e26-8fe9-cc73f745d801
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+source-git-commit: 6e4e214731b9772014d01dde89b3f80e4c4e93a6
 workflow-type: tm+mt
-source-wordcount: '1165'
+source-wordcount: '1063'
 ht-degree: 1%
 
 ---
@@ -128,10 +128,10 @@ Die Campaign Standard Workflow-GET-API gibt Parameternamen wie die Workflow-Inst
 
 Campaign v8 unterstützt keine Instanzvariablen im Werbe-Workflow, erwartet jedoch, dass Entwickler wissen, was diese sind. Daher müssen nach der Migration Parameterinformationen im Anfragetext der POST erstellt werden, ohne dass in der Antwort der GET API Parameterinformationen verfügbar sind.
 
-## Transaktionsnachrichten
+<!--## Transactional messages
 
-* Bei Campaign Standard gibt eine POST-Anfrage leere Felder für Elemente und Attribute im Anfragetext zurück. Bei Campaign v8 gibt die Antwort Werte zurück, die stattdessen mit denen im Anfragetext übereinstimmen.
+* With Campaign Standard, a POST request returns empty fields for elements and attributes in the request body. With Campaign v8, the response returns values that match the ones in the request body instead.
 
-* Beim Veröffentlichen einer Ereigniskonfiguration zeigt das Vorschaufenster der API die REST-URL neben der Syntax des Anfragetexts an.
+* When publishing an event configuration, the API preview panel displays the REST URL alongside the request body syntax.
 
-  Da Campaign v8 die Definition von Ereigniskonfigurationsfeldern nicht unterstützt (die Ereigniserstellung fügt nur einen Wert zur eventType-Auflistung hinzu), gibt es beim Hinzufügen eines Ereignistyps kein Vorschaufenster für die API. Sobald eine Ereignis-Transaktionsnachricht veröffentlicht wurde, wird die REST-URL in der Benutzeroberfläche der Transaktionsnachricht angezeigt.
+    Since Campaign v8 does not support event configuration fields definition (event creation is just adding a value to eventType enumeration), there is no API preview panel when adding an event type. The REST URL is displayed  in the transactional message user interface once an event transactional message is published.-->
