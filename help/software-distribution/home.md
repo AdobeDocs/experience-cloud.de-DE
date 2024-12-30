@@ -3,7 +3,7 @@ title: Softwareverteilung
 description: Erfahren Sie, wie Sie mit Softwareverteilung Ihre Adobe Experience Cloud-Software herunterladen können.
 exl-id: ac559a28-4444-4326-ba92-78afd10ed9ab
 source-git-commit: 6a2ba27cfeae875ab9184760b6d233ef759dd460
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 100%
 

@@ -3,7 +3,7 @@ title: Benutzeroberfläche für das Reporting
 description: Hier erhalten Sie Informationen zur Benutzeroberfläche von dynamischen Berichten und zur Navigation durch die verschiedenen Tabs und Menüs.
 level: Beginner
 audience: end-user
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: 9b5a8b5f-2258-4861-b5c2-feefef67ccb3
 source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt

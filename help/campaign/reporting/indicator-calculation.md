@@ -3,7 +3,7 @@ title: Indikatorberechnung
 description: Hier erhalten Sie Informationen über die Ergebnisse Ihrer Berichte mit einer Liste mit Metrik-Formeln.
 level: Intermediate
 audience: end-user
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: 06fb21a5-ae98-4c14-97f0-7f851d60ae7d
 source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
@@ -185,7 +185,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Indikato
   <tr> 
    <td> Einzelklicks<br/> </td> 
    <td> @uniqueclicks<br/> </td> 
-   <td> Einzelklicks werden anhand von ThetaSketch-Konzepten berechnet. </a>.<br/> </td> 
+   <td> Einzelklicks werden anhand von ThetaSketch-Konzepten berechnet. </a>,<br/> </td> 
    <td> </td> 
   </tr> 
   <tr> 

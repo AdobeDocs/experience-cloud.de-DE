@@ -2,7 +2,7 @@
 title: Erste Schritte mit dynamischen Berichten
 description: Mit dynamischen Berichten können Sie Variablen und Dimensionen in Ihre Freiformumgebung ziehen und die Wirkung Ihrer Kampagnen analysieren.
 level: Beginner
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 audience: end-user
 exl-id: d79f8a07-2322-4bc7-9d74-446db24a8d70
 source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
@@ -18,7 +18,7 @@ Die dynamische Berichterstellung ermöglicht vollständig anpassbare und in Echt
 
 ## Zugriff auf dynamische Berichte {#accessing-dynamic-reports}
 
-Auf Berichte kann in jeder Kampagne und jedem Versand zugegriffen werden, indem Sie auf **Berichte** klicken. Daraufhin wird ein Popup-Fenster angezeigt, in dem Sie darüber informiert werden, dass Sie auf einer neuen Browser-Registerkarte zur Seite **Dynamischer Bericht** weitergeleitet werden.
+Der Zugriff auf Berichte erfolgt in jeder Kampagne und jedem Versand durch Klicken auf **Berichte**. Ein Popup-Fenster wird angezeigt, das Sie darüber informiert, dass Sie auf **neuen Browser-Registerkarte** Seite „Dynamischer Bericht“ weitergeleitet werden.
 
 ![](assets/campaign_reports_access.png)
 

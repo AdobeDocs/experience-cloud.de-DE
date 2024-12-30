@@ -3,7 +3,7 @@ title: Erstellen eines Service mit APIs
 description: Erfahren Sie, wie Sie mit APIs einen Service erstellen können
 role: Data Engineer
 level: Experienced
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: 91bbce9e-a618-4be2-840b-c7d021271f4e
 source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt

@@ -8,7 +8,7 @@ hidefromtoc: true
 hide: true
 role: Data Engineer
 level: Experienced
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: 00d39438-a232-49f1-ae5e-1e98c73397e3
 source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
@@ -63,7 +63,7 @@ Sie müssen einen Zeichensatz hinzufügen, z. B. **utf-8**. Beachten Sie, dass d
 
 ### POST-Anfrage-Hauptteil
 
-Die Ereignisdaten sind im JSON-POST-Hauptteil enthalten. Die Ereignisstruktur hängt von der entsprechenden Definition ab. Die Schaltfläche &quot;API-Vorschau&quot;im Bildschirm &quot;Ressourcendefinition&quot;enthält ein Anforderungsbeispiel.
+Die Ereignisdaten sind im JSON-POST-Hauptteil enthalten. Die Ereignisstruktur hängt von der entsprechenden Definition ab. Die Schaltfläche für die API-Vorschau im Bildschirm zur Ressourcendefinition bietet ein Beispiel für eine Anfrage.
 
 Die folgenden optionalen Parameter können zum Ereignisinhalt hinzugefügt werden, um das Senden von mit dem Ereignis verknüpften Transaktionsnachrichten zu verwalten:
 
@@ -134,7 +134,7 @@ In der Antwort können Sie im Feld &quot;Status&quot; ermitteln, ob das Ereignis
 
 * **Ausstehend**: Das Ereignis steht aus – das Ereignis erhält diesen Status, wenn es gerade ausgelöst wurde.
 * **Verarbeitung läuft**: Das Ereignis muss noch versandt werden – es wird in eine Nachricht umgewandelt und die Nachricht wird gesendet.
-* **Angehalten**: Der Ereignisvorgang wurde angehalten. Er wird nicht mehr verarbeitet, sondern in einer Warteschlange in der Adobe Campaign-Datenbank aufbewahrt.
+* **Angehalten**: Der Ereignisvorgang wurde angehalten. Sie wird nicht mehr verarbeitet, sondern in einer Warteschlange in der Adobe Campaign-Datenbank aufbewahrt.
 * **Verarbeitet**: Das Ereignis wurde verarbeitet und die Nachricht wurde erfolgreich gesendet.
 * **Ignoriert**: Das Ereignis wurde vom Versand ignoriert, normalerweise dann, wenn eine Adresse unter Quarantäne steht.
 * **Versand fehlgeschlagen**: Bei der Verarbeitung des Ereignisses ist ein Versandfehler aufgetreten.

@@ -2,7 +2,7 @@
 title: Panels hinzufügen
 description: Dynamische Berichte ermöglichen es Ihnen, ein Bedienfeld hinzuzufügen, um Ihre Daten entsprechend dem ausgewählten Zeitraum zu filtern.
 audience: end-user
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 level: Intermediate
 exl-id: c87f6155-821d-422d-86e5-4f5533d62fda
 source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9

@@ -3,7 +3,7 @@ title: Trackingindikatoren
 description: Im vordefinierten Bericht über die Trackingindikatoren erfahren Sie über das Verhalten Ihrer Kunden beim Empfang von E-Mail-Nachrichten.
 audience: end-user
 level: Intermediate
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: cdb41d18-7d92-4128-a29b-70e17b6a3358
 source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt

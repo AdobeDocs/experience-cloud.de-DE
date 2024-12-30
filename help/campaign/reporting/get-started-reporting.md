@@ -3,7 +3,7 @@ title: Erste Schritte mit dynamischen Berichten
 description: Analysieren Sie den Erfolg Ihrer Kampagnen in integrierten oder benutzerdefinierten dynamischen Berichten.
 audience: end-user
 level: Beginner
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: 6feac90f-f7c1-48b5-94ff-7fef92a2af83
 source-git-commit: b65dbece574778eada43497456ff0eed850a3598
 workflow-type: tm+mt
@@ -25,7 +25,7 @@ Das dynamische Reporting ermöglicht vollständig anpassbare und in Echtzeit akt
 
 Mit der **Drag &amp; Drop-Benutzeroberfläche** für die dynamische Berichterstellung können Sie von einer zentralen Stelle aus Daten untersuchen, bestimmen, wie Ihre E-Mail-Kampagnen bei Ihren wichtigsten Kundensegmenten angekommen sind, und deren Wirkung auf die Empfänger messen.
 
-**Verwalten dynamischer Berichte** dank verschiedener Funktionen: Aktualisieren Sie die Daten in Echtzeit, drucken Sie Ihre Berichte oder exportieren Sie sie als CSV-Dateien.
+**Verwalten Sie Ihre dynamischen Berichte** dank verschiedener Funktionen: Aktualisieren Sie die Daten in Echtzeit, drucken Sie Ihre Berichte oder exportieren Sie sie als CSV-Dateien.
 
 Mehr dazu:
 
@@ -34,7 +34,7 @@ Mehr dazu:
 
 ## Berichte erstellen {#build-reports}
 
-Die Adobe Campaign-Webbenutzeroberfläche enthält eine Reihe von **vorab verwendeten dynamischen Berichten**, mit denen Sie mehrere Aspekte Ihrer Marketing-Kampagnen messen können: Bounces, Sendungen, die am häufigsten als Spam oder Junk bezeichnet wurden, am häufigsten angezeigte Sendungen nach Empfängern, kanalbezogene Berichte, Versanddurchsatz und Tracking-Berichte..
+Die Web-Benutzeroberfläche von Adobe Campaign umfasst eine Reihe **einsatzbereiter dynamischer Berichte** mit denen Sie mehrere Aspekte Ihrer Marketing-Kampagnen messen können: Bounces, Sendungen, die am häufigsten als Spam oder Junk gekennzeichnet wurden, am häufigsten angezeigte Sendungen nach Empfängerinnen und Empfängern, kanalbezogene Berichte, Versanddurchsatz und Tracking-Berichte…
 
 **Kombinieren Sie verschiedene Komponenten** (Dimensionen, Metriken und Segmente, Zeiträume), um eigene Berichte zu erstellen oder native Berichte zu personalisieren.
 

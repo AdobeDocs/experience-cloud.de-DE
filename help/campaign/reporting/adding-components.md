@@ -3,7 +3,7 @@ title: Komponenten hinzufügen
 description: Ziehen Sie Komponenten per Drag-and-Drop in Ihre Freiformtabelle, um Ihre Daten zu filtern und Ihren Bericht zu erstellen.
 audience: end-user
 level: Intermediate
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: 2b22f147-ed75-40ca-8859-8f4b23bca7c3
 source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
@@ -48,5 +48,5 @@ Sie können beliebig viele Komponenten verschieben und miteinander vergleichen.
 
 **Verwandte Themen:**
 
-* [Komponentenliste](list-of-components.md)
+* [Liste von Komponenten](list-of-components.md)
 * [Liste von Berichten](defining-the-report-period.md)

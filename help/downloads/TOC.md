@@ -9,6 +9,6 @@ ht-degree: 44%
 ---
 
 
-# Herunterladen von Dateien {#files}
+# Dateien herunterladen {#files}
 
 + [Ausgeblendete Download-Dateien](downloads.md)

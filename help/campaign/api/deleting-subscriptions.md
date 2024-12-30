@@ -3,7 +3,7 @@ title: Löschen von Abonnements
 description: Erfahren Sie, wie Sie Abonnements mit APIs löschen können
 role: Data Engineer
 level: Experienced
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: 76e2d102-c877-41a6-af87-2f407201a572
 source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt

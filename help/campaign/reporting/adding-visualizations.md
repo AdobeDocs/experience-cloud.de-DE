@@ -2,7 +2,7 @@
 title: Visualisierungen hinzufügen
 description: Dynamische Berichte bieten mehrere Möglichkeiten von Visualisierungen, mit denen eine grafische Darstellung zu Ihrem Bericht hinzugefügt werden kann.
 level: Intermediate
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 audience: end-user
 exl-id: 87b53a84-498e-430b-a3ed-22a3a9422dae
 source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9

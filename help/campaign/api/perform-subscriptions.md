@@ -3,7 +3,7 @@ title: Durchführen von Abonnements
 description: Erfahren Sie, wie Sie mit APIs Anmeldungen vornehmen können
 role: Data Engineer
 level: Experienced
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: 64f321a3-436a-4b7c-99d8-0c006203012e
 source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt

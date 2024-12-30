@@ -3,7 +3,7 @@ title: Versanddurchsatz
 description: Im vordefinierten Bericht über den Versanddurchsatz können Sie sich über die Wirkung Ihres Versands informieren.
 level: Intermediate
 audience: end-user
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: cf086a57-dd70-41bc-a039-4070cecc3a66
 source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt

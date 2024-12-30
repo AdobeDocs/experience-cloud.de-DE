@@ -3,7 +3,7 @@ title: Fehlerbehebung bei dynamischen Berichten
 description: Hier finden Sie häufig gestellte Fragen zu dynamischen Berichten.
 audience: end-user
 level: Intermediate
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: a58fc8fd-e510-45ef-8fe9-c75ff4498113
 source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
@@ -186,7 +186,7 @@ So beheben Sie das Problem:
 
 * Nach dem Importieren Ihres Zielgruppen-Mappings aus einer XML-Datei müssen Sie auch die Berichtsanreicherung importieren.
 
-* Anstelle des Imports Ihres Target-Mappings können Sie es direkt in der Adobe Campaign-Webbenutzeroberfläche erstellen, wodurch automatisch die Berichterstellung erstellt wird.
+* Anstatt Ihr Zielgruppen-Mapping zu importieren, können Sie es auch direkt in der Web-Benutzeroberfläche von Adobe Campaign erstellen. Dadurch wird die Berichtsanreicherung automatisch erstellt.
 
 ## Diskrepanz zwischen der Spaltentitelnummer und der Summe der Zeilen
 
@@ -194,7 +194,7 @@ In den folgenden Fällen wird eine Diskrepanz zwischen der Spaltentitelnummer un
 
 * **Eindeutige Metriken**: Durch die Verwendung eindeutiger Metriken kann sich die in der Kopfzeile angezeigte Gesamtanzahl ändern, da sie auf Empfängerkennungen und nicht auf einer einfachen Summe der Zeilenanzahl basiert. Daher kann ein einzelnes Profil mehrere Ereignisse über verschiedene Dimensionen hinweg auslösen, was zu mehreren Zeilen im Datensatz führt. In der Kopfzeile wird jedes Profil jedoch nur einmal gezählt.
 
-  Beispiel:
+  z. B.:
 
    * Wenn Profil A eine E-Mail an drei verschiedenen Tagen öffnet, wird A in der Aufschlüsselung nach Tag in drei Zeilen angezeigt. In der Kopfzeile wird A jedoch als 1 gezählt.
 
@@ -202,7 +202,7 @@ In den folgenden Fällen wird eine Diskrepanz zwischen der Spaltentitelnummer un
 
 * **Öffnungsmetriken**: Die Anzahl der Öffnungen wird durch die Aggregation der Summe der tatsächlichen Öffnungsereignisse und der Einzelklickereignisse (pro Empfängerkennung) ermittelt. Dabei werden Fälle ausgeschlossen, in denen kein Öffnungsereignis aufgetreten ist, da es ohne ein Öffnungsereignis nicht möglich ist, auf einen E-Mail-Link zu klicken.
 
-  Beispiel:
+  z. B.:
 
    * Wenn Profil A eine nachverfolgte E-Mail öffnet (mit URL U1), wird dies als Öffnungsereignis registriert, wobei die URL als Null aufgezeichnet wird. Beim späteren Klicken auf U1 wird ein Klickereignis generiert. Obwohl der Klick von A auf U1 auch als Öffnungsereignis gezählt wird, gibt es kein spezifisches Öffnungsereignis für U1. Daher wird A nur einmal in der Anzahl der Einzelöffnungen gezählt.
 

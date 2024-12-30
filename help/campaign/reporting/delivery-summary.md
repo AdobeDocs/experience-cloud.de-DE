@@ -3,7 +3,7 @@ title: Versandübersicht
 description: Im vordefinierten Bericht über die Versandzusammenfassung finden Sie Ihre Versandstatistiken, wie etwa die Anzahl der gesendeten Nachrichten, Bounces und Öffnungen.
 level: Intermediate
 audience: end-user
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: 6c5c013c-014f-4d0c-9967-32ac0fbab4af
 source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt

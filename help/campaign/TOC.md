@@ -14,12 +14,12 @@ ht-degree: 74%
 # Adobe Campaign v8 {#campaign}
 
 + [Startseite](campaign-standard-migration-home.md)
-+ Dynamische Berichterstellung {#reporting}
++ Dynamische {#reporting}
    + [Erste Schritte mit dynamischen Berichten](reporting/get-started-reporting.md)
    + Über Reporting {#about-reporting}
       + [Über dynamische Berichte](reporting/about-dynamic-reports.md)
       + [Benutzeroberfläche für das Reporting](reporting/reporting-interface.md)
-      + [Komponentenliste](reporting/list-of-components.md)
+      + [Liste von Komponenten](reporting/list-of-components.md)
       + [Indikatorberechnung](reporting/indicator-calculation.md)
       + [Fehlerbehebung](reporting/troubleshooting.md)
    + Liste von Berichten {#list-of-reports}
@@ -47,7 +47,7 @@ ht-degree: 74%
 + REST-APIs {#apis}
    + [Erste Schritte mit REST-APIs](api/get-started-apis.md)
    + [Recommendations und Einschränkungen](api/limitations.md)
-   + [Warum REST-APIs verwenden](api/why-using-campaign-standard-apis.md)
+   + [Verwendung von REST-APIs](api/why-using-campaign-standard-apis.md)
    + [Einrichten von API-Zugriff](api/setting-up-api-access.md)
    + Globale Konzepte {#global-concepts}
       + [Wichtige Informationen](api/must-read.md)
@@ -65,7 +65,7 @@ ht-degree: 74%
       + [Profile abrufen](api/retrieving-profiles.md)
       + [Aktualisieren von Profilen](api/updating-profiles.md)
       + [Profile erstellen](api/creating-profiles-api.md)
-   + Verwalten von Diensten und Abonnements {#managing-services-and-subscriptiopns}
+   + Verwalten von Services und {#managing-services-and-subscriptiopns}
       + [Erstellen eines Service](api/creating-a-service.md)
       + [Abrufen von Abonnements](api/retrieving-subscriptions.md)
       + [Abonnements ausführen](api/perform-subscriptions.md)

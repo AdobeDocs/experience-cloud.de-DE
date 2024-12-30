@@ -6,7 +6,7 @@ content-type: reference
 topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: efbbd0cd-9c56-4ad0-8bcb-efba4b63c28b
 source-git-commit: 18979fea28f4f3adce1139293203a59876831313
 workflow-type: tm+mt
@@ -24,8 +24,8 @@ Der Zugriff auf Adobe Campaign Standard-APIs lässt sich mit den folgenden Schri
 >Um Zertifikate in [Adobe Developer](https://developer.adobe.com/) zu verwalten, stellen Sie sicher, dass Sie Rechte als **System-Administrator** für die Organisation oder ein [Entwicklerkonto](https://helpx.adobe.com/de/enterprise/using/manage-developers.html) in der Admin Console haben.
 
 1. **Überprüfen Sie, ob Sie ein digitales Zertifikat haben**, oder erstellen Sie bei Bedarf eines. Die mit dem Zertifikat bereitgestellten öffentlichen und privaten Schlüssel werden in den folgenden Schritten benötigt.
-1. **Erstellen Sie eine neue Integration mit Adobe Campaign Service** in [Adobe Developer](https://developer.adobe.com/) und konfigurieren Sie diese. Dann werden Ihre Zugangsdaten generiert (API-Schlüssel, Client-Geheimnis …).
-1. **Erstellen Sie eine OAuth Server-to-Server**-Berechtigung, indem Sie die folgenden [Implementierungsschritte](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/) befolgen.
+1. **Erstellen Sie eine neue Integration mit Adobe Campaign Service** in [Adobe Developer](https://developer.adobe.com/) und konfigurieren Sie diese. Dann werden Ihre Anmeldedaten generiert (API-Schlüssel, Client-Geheimnis …).
+1. **Erstellen Sie eine OAuth-Server-zu-Server**-Berechtigung, indem Sie die [ Implementierungsschritte ausführen](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/)
 
    >[!IMPORTANT]
    >

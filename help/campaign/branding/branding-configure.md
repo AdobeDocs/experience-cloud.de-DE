@@ -5,7 +5,7 @@ audience: administration
 context-tags: branding,overview;branding,main
 role: Admin
 level: Experienced
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: 7afc802d-e90c-48c8-aa04-3ea543dfdfbc
 source-git-commit: 62c2f2e7a6f5dd347749e963a655b717cd5c7310
 workflow-type: tm+mt
@@ -14,13 +14,13 @@ ht-degree: 46%
 
 ---
 
-# Konfigurieren von Marken {#branding-configure}
+# Marken konfigurieren {#branding-configure}
 
 >[!IMPORTANT]
 >
 >Marken können nicht vom Endnutzer erstellt oder geändert werden. Diese Aktionen müssen von einem technischen Adobe-Campaign-Administrator vorgenommen werden. Bei Fragen wenden Sie sich an die Adobe-Kundenunterstützung.
 
-In Adobe Campaign V8 finden Sie Marken im Menü **[!UICONTROL Administration > Plattform > Branding]** .
+In Adobe Campaign v8 finden Sie Marken im Menü **[!UICONTROL Administration > Plattform > Branding]**.
 
 Eine **[!UICONTROL Marke]** wird durch die folgenden Eigenschaften definiert:
 
@@ -48,16 +48,16 @@ Eine **[!UICONTROL Marke]** wird durch die folgenden Eigenschaften definiert:
 
   ![](assets/branding_2.png)
 
-* **[!UICONTROL Markenkonfigurationen]** definiert die Server, die zum Tracking auch für den Zugriff auf Landingpages verwendet werden. Dieser Bereich weist folgende Felder auf:
+* **[!UICONTROL Markenkonfigurationen]** definiert die Server, die für das Tracking auch für den Zugriff auf Landingpages verwendet werden. Dieser Bereich weist folgende Felder auf:
 
-   * **[!UICONTROL Marken-Subdomain]** bezieht sich auf die spezifische Subdomain-URL für diese Marke, die von Adobe zur Delegierung angefordert wird.
+   * **[!UICONTROL Marken-Subdomain]** bezieht sich auf die für diese Marke spezifische designierte Subdomain-URL, die vom Adobe delegiert werden soll.
 
-  Beachten Sie, dass die Konfiguration für Tracking-, Mirror- und Anwendungsserver in separaten externen Konten gespeichert ist, die mit dem Routing verknüpft sind. Diese Einstellungen werden während der Bereitstellung angewendet und sollten nicht geändert werden. Um URLs anzuzeigen, greifen Sie von Ihrem externen Konto aus auf die Registerkarte **[!UICONTROL Branding-Präfixe]** zu.
+  Beachten Sie, dass die Konfiguration für Tracking-, Mirror- und Anwendungs-Server in separaten externen Konten gespeichert ist, die mit dem Routing verbunden sind. Diese Einstellungen werden während der Bereitstellung angewendet und sollten nicht geändert werden. Um URLs anzuzeigen, greifen Sie über Ihr externes Konto auf **[!UICONTROL Registerkarte]** Branding-Präfixe zu.
 
   ![](assets/branding_3.png)
 
-* Das Menü **[!UICONTROL URL-Konfigurationen tracken]** ermöglicht es Ihnen, das URL-Tracking zu verbessern, indem Sie zusätzliche Parameter für die Integration mit Webanalysetools wie Adobe Analytics und Google Analytics definieren.
+* **[!UICONTROL Menü „URL-]**&quot; können Sie das URL-Tracking verbessern, indem Sie zusätzliche Parameter für die Integration mit Web-Analyse-Tools wie Adobe Analytics und Google Analytics definieren.
 
-  Verwenden Sie das Menü **[!UICONTROL Zusätzliche URL-Parameter]** , um zusätzliche Parameter als Schlüssel-Wert-Paare zusammen mit ihren Anwendbarkeitsbedingungen zu erstellen. Jeder Parametername muss eindeutig und nicht leer sein und jeder Parameterwert darf nicht leer sein. Die Anwendbarkeitsbedingung kann leer sein, aber keiner dieser Werte kann JST-Tags enthalten.
+  Verwenden Sie das Menü **[!UICONTROL Zusätzliche URL]** Parameter, um zusätzliche Parameter als Schlüssel-Wert-Paare zusammen mit ihren Anwendungsbedingungen zu erstellen. Jeder Parametername muss eindeutig und nicht leer sein, und jeder Parameterwert darf nicht leer sein. Die Anwendungsbedingung kann leer sein, aber keiner dieser Werte kann JST-Tags enthalten.
 
-  Diese Parameter werden auf getrackte URLs angewendet, die mit jedem Domänennamen übereinstimmen, der in der **[!UICONTROL Liste der Domänennamen]** angegeben ist und reguläre Ausdrücke enthalten kann.
+  Diese Parameter werden auf getrackte URLs angewendet, die mit einem in der **[!UICONTROL Liste der Domain-Namen“ angegebenen Domain]** Namen übereinstimmen, der reguläre Ausdrücke enthalten kann.

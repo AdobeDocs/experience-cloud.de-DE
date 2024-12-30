@@ -3,7 +3,7 @@ title: In-App-Bericht
 description: Im vordefinierten Bericht über In-App-Nachrichten erfahren Sie über die Wirkung Ihrer In-App-Nachrichten.
 audience: end-user
 level: Intermediate
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
 workflow-type: tm+mt
 source-wordcount: '282'

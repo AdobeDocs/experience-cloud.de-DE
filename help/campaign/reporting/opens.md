@@ -3,7 +3,7 @@ title: Öffnungen
 description: Im Bericht zu Öffnungen erfahren Sie, welcher Versand gemäß verschiedener Kriterien am häufigsten angesehen wurde.
 audience: end-user
 level: Intermediate
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: dcd794bb-05be-430f-868e-b63d242debc6
 source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt

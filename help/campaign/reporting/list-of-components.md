@@ -1,9 +1,9 @@
 ---
-title: Komponentenliste
+title: Liste von Komponenten
 description: Hier finden Sie die Liste der in dynamischen Berichten enthaltenen Komponenten sowie ihre Definitionen.
 level: Beginner
 audience: end-user
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: 5c58db92-7878-4c70-b076-a393f1cda8b7
 source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
@@ -12,9 +12,9 @@ ht-degree: 94%
 
 ---
 
-# Komponentenliste {#list-of-components}
+# Liste von Komponenten {#list-of-components}
 
-Beachten Sie, dass die Zelle den Wert **Keine** anzeigt, wenn zwei Komponenten nicht kompatibel sind.
+Wenn zwei Komponenten nicht kompatibel sind, zeigt die Zelle den Wert &quot;**&quot;**.
 
 ## Dimensionen {#dimensions}
 
@@ -58,7 +58,7 @@ In der Tabelle unten finden Sie die Liste der Dimensionen, die in Berichten verw
   </tr> 
   <tr> 
    <td> Profil<br/> </td> 
-   <td> Fasst native und benutzerdefinierte Profilfelder zusammen, die während der Erweiterung der Profilressource erstellt wurden.<br/> </td> 
+   <td> Gruppiert vordefinierte und benutzerdefinierte Profilfelder neu, die während der Profilressourcenerweiterung erstellt wurden.<br/> </td> 
   </tr> 
   <tr> 
    <td> Empfänger-Domain<br/> </td> 
@@ -103,7 +103,7 @@ In der Tabelle unten finden Sie die Liste der Dimensionen, die in Berichten verw
 
 In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Metriken, die in Berichten verwendet werden, sowie ihre Definitionen.
 
-### Email-Metriken {#email-and-sms-metrics}
+### E-Mail-Metriken {#email-and-sms-metrics}
 
 <table> 
  <thead> 
@@ -214,7 +214,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Metriken
    <td> Anzahl der Empfänger, die den Versand geöffnet haben<br/> </td> 
   </tr> 
   <tr> 
-   <td> Eindeutige Abmeldung<br/> </td> 
+   <td> Eindeutig abgemeldet<br/> </td> 
    <td> Die Anzahl der Empfänger, die den Abmelde-Link angeklickt haben.<br/> </td> 
   </tr> 
   <tr> 

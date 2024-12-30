@@ -14,25 +14,25 @@ ht-degree: 12%
 
 # Profildimension erstellen{#creating-a-custom-profile-dimension}
 
-Berichte können auch basierend auf Profildaten erstellt und verwaltet werden, die während der Erweiterung des Empfängerschemas erstellt wurden.
+Berichte können auch basierend auf Profildaten, die während der Erweiterung des Empfängerschemas erstellt wurden, erstellt und verwaltet werden.
 
-* [Schritt 1: Erweiterung des Empfängerschemas](##extend-schema)
-* [Schritt 2: Verknüpfen Sie Ihr neues benutzerdefiniertes Feld](#link-custom)
-* [Schritt 3: Erstellen Sie einen dynamischen Bericht, um Empfänger mit der Profildimension zu filtern](#create-report)
+* [Schritt 1: Empfängerschema erweitern](##extend-schema)
+* [Schritt 2: Verknüpfen des neuen benutzerdefinierten Felds](#link-custom)
+* [Schritt 3: Dynamischen Bericht erstellen, um Empfänger mit der Profildimension zu filtern](#create-report)
 
-## Schritt 1: Erweiterung des Empfängerschemas {#extend-schema}
+## Schritt 1: Empfängerschema erweitern {#extend-schema}
 
-Gehen Sie wie folgt vor, um ein neues Profilfeld hinzuzufügen:
+Um ein neues Profilfeld hinzuzufügen, müssen Sie Ihr Schema erweitern, gehen Sie wie folgt vor:
 
-1. Navigieren Sie im Explorer zum Ordner **[!UICONTROL Administration]** > **[!UICONTROL Konfiguration]** > **[!UICONTROL Datenschemata]** .
+1. Navigieren Sie im **[!UICONTROL zum Ordner]** Administration **[!UICONTROL > Konfiguration]** > **[!UICONTROL Datenschemata]** .
 
    ![](assets/custom_field_1.png)
 
-1. Identifizieren Sie das benutzerdefinierte Empfängerschema und wählen Sie es aus. Wenn Sie das integrierte Schema nms:recipient noch nicht erweitert haben, lesen Sie [dieses Verfahren](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema).
+1. Identifizieren Sie das benutzerdefinierte Empfängerschema und wählen Sie es aus. Wenn Sie das integrierte Schema nms:recipient noch nicht erweitert haben, lesen Sie [dieses Verfahren](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema).
 
 1. Fügen Sie das benutzerdefinierte Feld zum Schema-Editor hinzu.
 
-   So fügen Sie beispielsweise ein benutzerdefiniertes Treuefeld in Ihr Empfängerschema ein:
+   So fügen Sie beispielsweise ein benutzerdefiniertes Feld Treue in Ihrem Empfängerschema hinzu:
 
    ```
    <attribute label="Loyalty" name="loyalty" type="string"/>
@@ -42,63 +42,63 @@ Gehen Sie wie folgt vor, um ein neues Profilfeld hinzuzufügen:
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
-1. Identifizieren Sie dann Ihr benutzerdefiniertes broadLogRcp-Schema und wählen Sie es aus. Wenn Sie das integrierte Versandlog-Schema noch nicht erweitert haben, lesen Sie [dieses Verfahren](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema).
+1. Identifizieren Sie dann Ihr benutzerdefiniertes broadLogRcp-Schema und wählen Sie es aus. Wenn Sie das integrierte Versandlog-Schema noch nicht erweitert haben, lesen Sie [dieses Verfahren](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema).
 
-1. Fügen Sie dasselbe benutzerdefinierte Feld wie das Empfängerschema zum Schema-Editor hinzu.
+1. Fügen Sie dem Schema-Editor dasselbe benutzerdefinierte Feld wie Ihr Empfängerschema hinzu.
 
    ![](assets/custom_field_3.png)
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
-1. Um die Änderungen an den Schemas anzuwenden, starten Sie den Datenbankaktualisierungs-Assistenten über **[!UICONTROL Tools]** > **[!UICONTROL Erweitert]** > **[!UICONTROL Datenbankstruktur aktualisieren]** und führen Sie die Option Datenbankstruktur aktualisieren aus. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/update-database-structure)
+1. Um die an den Schemata vorgenommenen Änderungen anzuwenden, starten Sie den Datenbankaktualisierungs-Assistenten über **[!UICONTROL Tools]** > **[!UICONTROL Erweitert]** > **[!UICONTROL Datenbankstruktur aktualisieren]** und führen Sie das Update der Datenbankstruktur aus. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/update-database-structure)
 
    ![](assets/custom_field_4.png)
 
 Ihr neues Profilfeld kann jetzt verwendet und von Empfängern ausgewählt werden.
 
-## Schritt 2: Verknüpfen Sie Ihr neues benutzerdefiniertes Feld {#link-custom}
+## Schritt 2: Verknüpfen des neuen benutzerdefinierten Felds {#link-custom}
 
 >[!NOTE]
 >
-> Sie können dem dynamischen Bericht nur bis zu 20 benutzerdefinierte Felder hinzufügen.
+> Sie können nur bis zu 20 benutzerdefinierte Felder zu dynamischen Berichten hinzufügen.
 
-Nachdem Sie Ihr Profilfeld erstellt haben, müssen wir es mit der entsprechenden Dimension für dynamische Berichte verknüpfen.
+Nachdem Ihr Profilfeld erstellt wurde, müssen wir es mit der entsprechenden Dimension für dynamische Berichte verknüpfen.
 
-Bevor Sie das Protokoll mit unserem Profilfeld erweitern, müssen Sie sicherstellen, dass das PII-Fenster akzeptiert wurde, um personenbezogene Daten an dynamische Berichte senden zu können. Weiterführende Informationen hierzu finden Sie auf [dieser Seite](pii-agreement.md).
+Bevor Sie das Protokoll mit unserem Profilfeld erweitern, stellen Sie sicher, dass das PII-Fenster akzeptiert wurde, um PII-Daten an einen dynamischen Bericht senden zu können. Weiterführende Informationen hierzu finden Sie auf [dieser Seite](pii-agreement.md).
 
-1. Navigieren Sie im Explorer zum Ordner **[!UICONTROL Administration]** > **[!UICONTROL Konfiguration]** > **[!UICONTROL Datenschemata]** > **[!UICONTROL Zusätzliches Berichtsfeld]** .
+1. Navigieren Sie im Explorer zum Ordner **[!UICONTROL Administration]** > **[!UICONTROL Konfiguration]** > **[!UICONTROL Datenschemata]** > **[!UICONTROL Zusätzliches]**).
 
    ![](assets/custom_field_5.png)
 
-1. Klicken Sie auf **[!UICONTROL Neu]** , um die entsprechende dynamische Berichtsdimension zu erstellen.
+1. Klicken Sie **[!UICONTROL Neu]**, um die entsprechende Dimension für dynamische Berichte zu erstellen.
 
-1. Wählen Sie **[!UICONTROL Ausdruck bearbeiten]** und durchsuchen Sie das Empfängerschema, um das zuvor erstellte Profilfeld zu finden.
+1. Wählen Sie **[!UICONTROL Ausdruck bearbeiten]** aus und durchsuchen Sie das Empfängerschema, um Ihr zuvor erstelltes Profilfeld zu finden.
 
    ![](assets/custom_field_6.png)
 
 1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
-1. Geben Sie Ihre Dimension **[!UICONTROL Beschriftung]** ein, die in dynamischen Berichten angezeigt wird, und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie Ihre Dimension (**[!UICONTROL ) ein]** die in dynamischen Berichten sichtbar ist, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/custom_field_7.png)
 
 Ihr Profilfeld ist jetzt als Profildimension in Ihren Berichten verfügbar. Um Ihre Profildimension zu löschen, können Sie sie auswählen und auf das Symbol **[!UICONTROL Löschen]** klicken.
 
-Nachdem das Empfängerschema mit diesem Profilfeld erweitert und Ihre benutzerdefinierte Dimension erstellt wurde, können Sie mit der Zielgruppenbestimmung von Empfängern in Sendungen beginnen.
+Nachdem das Empfängerschema nun um dieses Profilfeld erweitert und Ihre benutzerdefinierte Dimension erstellt wurde, können Sie in Sendungen beginnen, Empfänger anzusprechen.
 
-## Schritt 3: Erstellen Sie einen dynamischen Bericht, um Empfänger mit der Profildimension zu filtern {#create-report}
+## Schritt 3: Dynamischen Bericht erstellen, um Empfänger mit der Profildimension zu filtern {#create-report}
 
-Nach dem Versand Ihrer Nachricht können Sie die Berichte anhand Ihrer Profildimension aufschlüsseln.
+Nach dem Versand können Sie Berichte mithilfe Ihrer Profildimension aufschlüsseln.
 
 1. Wählen Sie im Tab **[!UICONTROL Berichte]** einen vordefinierten Bericht oder die Schaltfläche **[!UICONTROL Erstellen]**, um einen neuen Bericht zu erstellen.
 
    ![](assets/custom_field_8.png)
 
-1. Klicken Sie in der Kategorie **[!UICONTROL Dimensionen]** auf **[!UICONTROL Profil]** und ziehen Sie dann Ihre Profildimension in Ihre Freiformtabelle.
+1. Klicken Sie in der ]****[!UICONTROL  Dimensionen auf **[!UICONTROL Profil]** und ziehen Sie Ihre Profildimension per Drag-and-Drop in Ihre Freiformtabelle.
 
    ![](assets/custom_field_9.png)
 
-1. Ziehen Sie Metriken per Drag-and-Drop in den Arbeitsbereich, um Ihre Daten zu filtern.
+1. Ziehen Sie beliebige Metriken per Drag-and-Drop, um Ihre Daten zu filtern.
 
 1. Ziehen Sie bei Bedarf ein Visualisierungselement in den Arbeitsbereich.
 

@@ -3,7 +3,7 @@ title: Verteilung nach Domain
 description: Im vordefinierten Bericht über die Verteilung nach Domain erhalten Sie Performance-Daten Ihrer Sendungen aufgeschlüsselt nach der Domain Ihrer Kunden.
 level: Intermediate
 audience: end-user
-badge: label="BEGRENZTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: 9b6126b7-3f9c-4810-9288-33a3f0a034d8
 source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
@@ -33,4 +33,4 @@ Die zweite Tabelle **Trackingstatistiken** enthält die verfügbaren Daten bezü
 * **Klicken**: Die Anzahl der Klicks auf einen Inhalt in einem Versand.
 * **Abgemeldet**: Gesamtanzahl der Klicks auf den Abmelde-Link.
 * **Mirrorseite**: Die Anzahl der Klicks auf die Mirrorseite.
-* **Auf Blockierungsliste**: Die Anzahl der Empfänger, die eine E-Mail als Spam oder Junk gekennzeichnet haben.
+* **Auf Blockierungsliste**: Die Anzahl der Empfängerinnen und Empfänger, die eine E-Mail als Spam oder Junk gekennzeichnet haben.

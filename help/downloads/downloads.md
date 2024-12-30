@@ -2,7 +2,8 @@
 title: Ausgeblendete Download-Dateien
 description: Ausgeblendete Download-Dateien nur als Referenz
 hide: y
-source-git-commit: 28434780a9ce7e8332f88a21fbaae4f65cef34b7
+exl-id: f4b0aa11-ae9b-4074-902d-a5be412d07f7
+source-git-commit: dbdf1c4f8b676c73a7cc3a46af2838ebb9326457
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
@@ -11,7 +12,7 @@ ht-degree: 0%
 
 # Ausgeblendete Download-Dateien
 
-Die folgenden Download-Dateien sind für die Verknüpfung mit verfügbar. Diese Seite ist von der Suche ausgeblendet.
+Die folgenden Download-Dateien stehen für Verknüpfungen mit zur Verfügung. Diese Seite ist für die Suche ausgeblendet.
 
 [aa-implementation-playbook.xlsx](assets/aa-implementation-playbook.xlsx)
 
