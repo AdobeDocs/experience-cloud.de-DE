@@ -3,7 +3,7 @@ title: Adobe Campaign-Web-Benutzeroberfläche
 description: Erkunden der Adobe Campaign Web-Benutzeroberfläche
 badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: eecf4e13-820d-4454-9f11-f50be565bb79
-source-git-commit: 619453901147f83d691156a3b870d36b6caa1868
+source-git-commit: 57d64cb5436381e1dbad9add0d8fe117e6f11ecf
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 31%
@@ -79,3 +79,4 @@ Sie können REST-APIs verwenden, um Integrationen für Adobe Campaign zu erstell
     <td align="center"><a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/gs-personalization"><img src="assets/do-not-localize/learn-more-button.svg"></a></td>
     </tr>
 </table>
+
