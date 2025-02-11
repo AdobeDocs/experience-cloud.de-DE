@@ -4,20 +4,22 @@ description: Erfahren Sie, wie Sie Transaktionsnachrichten mit APIs verwalten.
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-hidefromtoc: true
-hide: true
 role: Data Engineer
 level: Experienced
 badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: 00d39438-a232-49f1-ae5e-1e98c73397e3
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 6f9c9dd7dcac96980bbf5f7228e021471269d187
 workflow-type: tm+mt
-source-wordcount: '661'
-ht-degree: 93%
+source-wordcount: '678'
+ht-degree: 88%
 
 ---
 
 # Verwalten von Transaktionsnachrichten {#managing-transactional-messages}
+
+>[!AVAILABILITY]
+>
+>Derzeit ist Transaktionsnachrichten mithilfe von REST-APIs nur für den E-Mail-Kanal und für Transaktionsereignisse verfügbar (Anreicherungsdaten sind nur über Payload verfügbar, ähnlich wie in Adobe Campaign V8).
 
 Nachdem Sie ein Transaktionsereignis erstellt und veröffentlicht haben, müssen Sie die Aktivierung dieses Ereignisses in Ihre Website integrieren.
 
@@ -140,4 +142,3 @@ In der Antwort können Sie im Feld &quot;Status&quot; ermitteln, ob das Ereignis
 * **Versand fehlgeschlagen**: Bei der Verarbeitung des Ereignisses ist ein Versandfehler aufgetreten.
 * **Routing fehlgeschlagen**: Die Routing-Phase ist fehlgeschlagen. Dies kann beispielsweise geschehen, wenn der angegebene Ereignistyp nicht gefunden werden kann.
 * **Zu alt**: Das Ereignis ist abgelaufen, bevor es verarbeitet werden konnte. Das kann verschiedene Gründe haben, z. B. wenn ein Senden mehrmals fehlschlägt (was dazu führt, dass das Ereignis nicht mehr aktuell ist) oder der Server Ereignisse nach einer Überlastung nicht mehr verarbeiten kann.
-* **Targeting fehlgeschlagen**: Campaign Standard konnte einen Link, der für das Nachrichten-Targeting verwendet wird, nicht anreichern.

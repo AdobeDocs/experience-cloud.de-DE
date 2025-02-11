@@ -9,9 +9,9 @@ level: Experienced
 mini-toc-levels: 1
 badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
 exl-id: 45acebb1-9325-4e26-8fe9-cc73f745d801
-source-git-commit: 6e4e214731b9772014d01dde89b3f80e4c4e93a6
+source-git-commit: 952706ffafc1e7cd6a759bfbbb9c9200191544d9
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1065'
 ht-degree: 1%
 
 ---
@@ -42,6 +42,7 @@ Vorerst sind die unten aufgeführten REST-APIs zur Verwendung verfügbar:
 * **Services und Abonnements**
 * **Benutzerdefinierte Ressourcen**
 * **Workflows**
+* **Transaktionsnachrichten**
 
 >[!AVAILABILITY]
 >
@@ -52,7 +53,7 @@ Vorerst sind die unten aufgeführten REST-APIs zur Verwendung verfügbar:
 >* Organisationseinheiten
 >* Datenschutzverwaltung
 
-## Filter
+## Filterung
 
 * Um Ihre Filter in den REST-API-Payloads zu verwenden, müssen Sie sie in Campaign v8 bearbeiten und einen Namen angeben, der in Ihren Payloads verwendet werden soll. Greifen Sie dazu über die Registerkarte **[!UICONTROL Parameter]** auf die zusätzlichen Parameter des Filters zu und geben Sie den gewünschten Namen im Feld **[!UICONTROL Filtername in REST-API]** an.
 
