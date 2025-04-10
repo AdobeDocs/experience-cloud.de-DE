@@ -6,12 +6,12 @@ content-type: reference
 topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
-badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 exl-id: 00d39438-a232-49f1-ae5e-1e98c73397e3
-source-git-commit: 6f9c9dd7dcac96980bbf5f7228e021471269d187
+source-git-commit: 110fcdcbefef53677cf213a39f45eb5d446807c2
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 88%
+source-wordcount: '752'
+ht-degree: 76%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 88%
 
 >[!AVAILABILITY]
 >
->Derzeit ist Transaktionsnachrichten mithilfe von REST-APIs nur für den E-Mail-Kanal und für Transaktionsereignisse verfügbar (Anreicherungsdaten sind nur über Payload verfügbar, ähnlich wie in Adobe Campaign V8).
+>Derzeit ist Transaktionsnachrichten mithilfe von REST-APIs für die E-Mail- und SMS-Kanäle verfügbar. Sie ist nur für Transaktionsereignisse verfügbar (Anreicherungsdaten sind nur über Payload verfügbar, ähnlich wie in Adobe Campaign V8).
 
 Nachdem Sie ein Transaktionsereignis erstellt und veröffentlicht haben, müssen Sie die Aktivierung dieses Ereignisses in Ihre Website integrieren.
 
@@ -44,8 +44,6 @@ POST https://mc.adobe.io/<ORGANIZATION>/campaign/<transactionalAPI>/<eventID>
 
   `POST https://mc.adobe.io/geometrixx/campaign/mcgeometrixx/<eventID>`
 
-  Beachten Sie, dass der API-Endpunkt für Transaktionsnachrichten auch während der API-Vorschau sichtbar ist.
-
 * **&lt;eventID>**: der Ereignistyp, den Sie senden möchten. Diese ID wird beim Erstellen der Ereigniskonfiguration generiert
 
 ### POST-Anfrage-Kopfzeile
@@ -65,7 +63,7 @@ Sie müssen einen Zeichensatz hinzufügen, z. B. **utf-8**. Beachten Sie, dass d
 
 ### POST-Anfrage-Hauptteil
 
-Die Ereignisdaten sind im JSON-POST-Hauptteil enthalten. Die Ereignisstruktur hängt von der entsprechenden Definition ab. Die Schaltfläche für die API-Vorschau im Bildschirm zur Ressourcendefinition bietet ein Beispiel für eine Anfrage.
+Die Ereignisdaten sind im JSON-POST-Hauptteil enthalten. Die Ereignisstruktur hängt von ihrer Definition ab.
 
 Die folgenden optionalen Parameter können zum Ereignisinhalt hinzugefügt werden, um das Senden von mit dem Ereignis verknüpften Transaktionsnachrichten zu verwalten:
 
@@ -75,6 +73,40 @@ Die folgenden optionalen Parameter können zum Ereignisinhalt hinzugefügt werde
 >[!NOTE]
 >
 >Die Werte der Parameter &quot;Ablauf&quot; und &quot;Geplant&quot; entsprechen dem ISO 8601-Format. ISO 8601 gibt die Verwendung des Großbuchstabens &quot;T&quot; zur Trennung von Datum und Uhrzeit an. Dies kann jedoch aus der Ein- oder Ausgabe entfernt werden, um die Lesbarkeit zu verbessern.
+
+### Parameter des Kommunikationskanals
+
+Je nach zu verwendendem Kanal sollte die Payload die folgenden Parameter enthalten:
+
+* E-Mail-Kanal: „Mobiltelefon“
+* SMS-Kanal: „email“
+
+Wenn die Payload nur „Mobiltelefon“ enthält, wird der SMS-Kommunikationskanal ausgelöst. Wenn die Payload nur „E-Mail“ enthält, wird der E-Mail-Kommunikationskanal ausgelöst.
+
+Das folgende Beispiel zeigt eine Payload, bei der eine SMS-Kommunikation ausgelöst wird:
+
+```
+curl --location 'https://mc.adobe.io/<ORGANIZATION>/campaign/mcAdobe/EVTcartAbandonment' \
+--header 'Authorization: Bearer <ACCESS_TOKEN>' \
+--header 'Cache-Control: no-cache' \
+--header 'X-Api-Key: <API_KEY>' \
+--header 'Content-Type: application/json;charset=utf-8' \
+--header 'Content-Length: 79' \
+--data '
+{
+  "mobilePhone":"+9999999999",
+  "scheduled":"2017-12-01 08:00:00.768Z",
+  "expiration":"2017-12-31 08:00:00.768Z",
+  "ctx":
+  {
+    "cartAmount": "$ 125",
+    "lastProduct": "Leather motorbike jacket",
+    "firstName": "Jack"
+  }
+}'
+```
+
+Wenn die Payload sowohl „E-Mail“ als auch „Mobiltelefon“ enthält, ist die standardmäßige Kommunikationsmethode E-Mail. Um eine SMS zu senden, wenn beide Felder vorhanden sind, müssen Sie sie explizit in der Payload mit dem Parameter „wishChannel“ angeben.
 
 ### Antwort auf die POST-Anfrage
 
@@ -97,7 +129,10 @@ POST-Anfrage zum Senden des Ereignisses.
 -H 'Content-Length:79'
 
 {
-  "email":"test@example.com",
+  "
+  
+  
+  ":"test@example.com",
   "scheduled":"2017-12-01 08:00:00.768Z",
   "expiration":"2017-12-31 08:00:00.768Z",
   "ctx":
