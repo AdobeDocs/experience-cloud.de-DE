@@ -42,4 +42,4 @@ Die APIs, die wir bereitstellen, basieren auf **Standardkonzepten** mit einer RE
 
 Alle Endpunkte werden in dieser Dokumentation ausführlich mit den allgemeinen Begriffen beschrieben, die Sie für die Bearbeitung der API kennen sollten, sowie mit der vollständigen API-Referenz, Code-Beispielen und Schnellstartanleitungen. Alle Beispiele arbeiten mit Postman; Sie können aber auch Ihren bevorzugten REST-Client nutzen.
 
-Wenn etwas fehlt oder fehlerhaft erscheint, fragen Sie bitte die [Community](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/ct-p/adobe-campaign-standard-community).
+Wenn etwas fehlt oder fehlerhaft erscheint, fragen Sie bitte die [Community](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/ct-p/adobe-campaign-standard-community?profile.language=de).
