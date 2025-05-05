@@ -94,7 +94,7 @@ Nach dem Versand können Sie Berichte mithilfe Ihrer Profildimension aufschlüss
 
    ![](assets/custom_field_8.png)
 
-1. Klicken Sie in der ]****[!UICONTROL  Dimensionen auf **[!UICONTROL Profil]** und ziehen Sie Ihre Profildimension per Drag-and-Drop in Ihre Freiformtabelle.
+1. Klicken Sie in der **&#x200B;**&#x200B;Dimensionen auf **[!UICONTROL Profil]** und ziehen Sie Ihre Profildimension per Drag-and-Drop in Ihre Freiformtabelle.
 
    ![](assets/custom_field_9.png)
 
