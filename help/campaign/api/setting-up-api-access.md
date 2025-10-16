@@ -4,11 +4,11 @@ description: Erfahren Sie, wie Sie Zugriff auf Campaign Standard-APIs einrichten
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 exl-id: efbbd0cd-9c56-4ad0-8bcb-efba4b63c28b
-source-git-commit: 18979fea28f4f3adce1139293203a59876831313
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 95%
@@ -25,7 +25,7 @@ Der Zugriff auf Adobe Campaign Standard-APIs lässt sich mit den folgenden Schri
 
 1. **Überprüfen Sie, ob Sie ein digitales Zertifikat haben**, oder erstellen Sie bei Bedarf eines. Die mit dem Zertifikat bereitgestellten öffentlichen und privaten Schlüssel werden in den folgenden Schritten benötigt.
 1. **Erstellen Sie eine neue Integration mit Adobe Campaign Service** in [Adobe Developer](https://developer.adobe.com/) und konfigurieren Sie diese. Dann werden Ihre Anmeldedaten generiert (API-Schlüssel, Client-Geheimnis …).
-1. **Erstellen Sie eine OAuth-Server-zu-Server**-Berechtigung, indem Sie die [&#x200B; Implementierungsschritte ausführen](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/)
+1. **Erstellen Sie eine OAuth-Server-zu-Server**-Berechtigung, indem Sie die [ Implementierungsschritte ausführen](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/)
 
    >[!IMPORTANT]
    >

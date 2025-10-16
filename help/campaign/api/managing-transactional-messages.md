@@ -4,11 +4,11 @@ description: Erfahren Sie, wie Sie Transaktionsnachrichten mit APIs verwalten.
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-role: Data Engineer
+role: Developer
 level: Experienced
 badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 exl-id: 00d39438-a232-49f1-ae5e-1e98c73397e3
-source-git-commit: 110fcdcbefef53677cf213a39f45eb5d446807c2
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 76%

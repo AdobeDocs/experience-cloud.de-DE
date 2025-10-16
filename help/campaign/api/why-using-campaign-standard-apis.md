@@ -4,11 +4,11 @@ description: Erfahren Sie mehr über Campaign Standard-APIs und deren Verwendung
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 exl-id: ef045e5d-cd02-44a0-9a1e-d468483a38d9
-source-git-commit: 6e4e214731b9772014d01dde89b3f80e4c4e93a6
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 79%
@@ -28,7 +28,7 @@ Hier einige Beispiele:
   <!--* Event based transactional communication triggering – order confirmation, booking Itinerary, password reset, etc.-->
 * Auch E-Mail-Kommunikation bei Warenkorbabbruch.
 
-Auf Anmelde-Landingpages können Kunden bzw. potenzielle Kunden ihren Namen und ihre E-Mail-Adresse registrieren. Sobald der Campaign Standard die Profilinformationen und -voreinstellungen erfasst hat, kann er je nach den Interessen der Person personalisierte Nachrichten senden.
+Auf Anmelde-Landingpages können Kunden bzw. potenzielle Kunden ihren Namen und ihre E-Mail-Adresse registrieren. Sobald Campaign Standard die Profilinformationen und -voreinstellungen erfasst hat, kann es je nach den Interessen der Person personalisierte Nachrichten senden.
 
 Diese werden mit folgenden Elementen erstellt:
 

@@ -4,11 +4,11 @@ description: Erfahren Sie, wie Sie Paginierungsvorgänge durchführen können.
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 exl-id: d6ebce3c-1e84-4b3b-a68d-90df4680af64
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 94%

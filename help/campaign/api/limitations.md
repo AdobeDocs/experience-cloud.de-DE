@@ -1,34 +1,34 @@
 ---
-title: Recommendations und Einschränkungen
-description: Recommendations und Einschränkungen bei der Migration auf Campaign v8 REST-APIs.
+title: Empfehlungen und Einschränkungen
+description: Empfehlungen und Einschränkungen bei der Migration auf Campaign v8 REST-APIs.
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-role: Data Engineer
+role: Developer
 level: Experienced
 mini-toc-levels: 1
-badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 exl-id: 45acebb1-9325-4e26-8fe9-cc73f745d801
-source-git-commit: 952706ffafc1e7cd6a759bfbbb9c9200191544d9
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1061'
 ht-degree: 1%
 
 ---
 
-# Recommendations und Einschränkungen {#limitations}
+# Empfehlungen und Einschränkungen {#limitations}
 
 ## Berechtigungen und Sicherheit {#permissions}
 
 ### Zuordnung von Produktprofilen
 
-Im Campaign Standard wurde Ihnen erhöhte Administratorrolle Zugriff auf APIs gewährt, unabhängig von Ihrem zugewiesenen Produktprofil. Campaign v8 führt einen anderen Satz von Produktprofilen ein, für die eine Zuordnung vom Campaign Standard zu Campaign v8-Produktprofilen erforderlich ist.
+In Campaign Standard wurde Ihnen erhöhte Administratorrolle Zugriff auf APIs gewährt, unabhängig von Ihrem zugewiesenen Produktprofil. Campaign v8 führt einen anderen Satz von Produktprofilen ein, für die eine Zuordnung von Campaign Standard zu Campaign v8-Produktprofilen erforderlich ist.
 
 Bei der Migration werden zwei Produktprofile zu Ihren vorhandenen oder vorab erstellten technischen Konten hinzugefügt: Administrator und Message Center (für den Zugriff auf Transaktions-APIs). Überprüfen Sie die Produktprofilzuordnung und weisen Sie das erforderliche Produktprofil zu, wenn Sie nicht möchten, dass das Admin-Produktprofil Ihrem technischen Konto zugeordnet wird.
 
 ### Mandanten-ID
 
-Nach der Migration sollten Sie bei zukünftigen Integrationen Ihre **Campaign v8-Mandanten-ID** in REST-URLs verwenden und Ihre vorherige Campaign Standard-Mandanten-ID ersetzen.
+Nach der Migration wird für alle zukünftigen Integrationen empfohlen, Ihre **Campaign v8-Mandanten-ID** in REST-URLs zu verwenden und Ihre vorherige Campaign Standard-Mandanten-ID zu ersetzen.
 
 ### Verwendung von Schlüsseln
 
@@ -72,7 +72,7 @@ Einige Felder aus der Datenbank werden während der Migration gelöscht. Bei Ver
 
 ## POST mit verknüpften Ressourcen
 
-Bei Verwendung des folgenden Anfragetext-Formats, wobei „VehicleOwner“ den Link zu „nms:recipient“ darstellt:
+Bei Verwendung des folgenden Anfragetext-Formats, wobei „vehierOwner“ den Link zu „nms“ :recipient:
 
 ```
 {
@@ -91,16 +91,16 @@ Wenn in Campaign v8 dieselbe Anfragekörperstruktur verwendet wird und das „Fa
 
 ## PATCH-Vorgänge
 
-* Campaign v8 unterstützt das PATCH mit einem leeren Anfrageinhalt nicht: Der Status „Kein Inhalt“ wird 204 zurückgegeben.
-* Campaign Standard unterstützt zwar das PATCH von Elementen/Attributen innerhalb eines Schemas, aber beachten Sie, dass PATCH-Vorgänge am Speicherort in Campaign v8 nicht unterstützt werden. Der Versuch, eine PATCH am Speicherort abzulegen, führt zu einem internen 500-Server-Fehler mit einer Fehlermeldung, die angibt, dass die Eigenschaft „zipCode“ für die Ressource „profile“ nicht gültig ist.
+* Campaign v8 unterstützt PATCH nicht mit einem leeren Anfrageinhalt: Der Status „Kein Inhalt“ wird 204 zurückgegeben.
+* Campaign Standard unterstützt PATCH zwar für Elemente/Attribute innerhalb eines Schemas, doch beachten Sie, dass PATCH-Vorgänge vor Ort in Campaign v8 nicht unterstützt werden. Der Versuch, einen PATCH-Speicherort zu konfigurieren, führt zu einem internen 500-Server-Fehler mit einer Fehlermeldung, die angibt, dass die Eigenschaft „zipCode“ für die Ressource „profile“ nicht gültig ist.
 
 ## REST-Antworten
 
-Im folgenden Abschnitt sind geringfügige Unterschiede zwischen REST-Antworten von Campaign Standard und v8 aufgeführt.
+Im folgenden Abschnitt sind geringfügige Unterschiede zwischen Campaign Standard- und v8-REST-Antworten aufgeführt.
 
 * Bei einzelnen GET-Einträgen enthält die Antwort die href in der Antwort.
 * Bei der Abfrage mit dem -Attribut liefert Campaign v8 Anzahl und Paginierung in der Antwort.
-* Nach POST werden Werte von verknüpften Ressourcen in der Antwort zurückgegeben.
+* Nach POST-Vorgängen werden Werte aus verknüpften Ressourcen in der Antwort zurückgegeben.
 
 ## Fehlercodes und Meldungen
 
@@ -119,7 +119,7 @@ Im folgenden Abschnitt werden die Unterschiede zwischen Fehler-Codes und Fehlerm
 
 ## Profil - Zeitzone
 
-Bei Campaign Standard wird die Zeitzone als Teil der JSON-Antwort der REST-API **Aufrufe von „profileAndServices**/profile“ angezeigt.
+Bei Campaign Standard wird die Zeitzone als Teil der JSON-Antwort von **profileAndServices/profile** REST-API-Aufrufen angezeigt.
 
 In Campaign v8 wird die Zeitzone Benutzenden nur als Teil der REST-API **Aufrufe von „profileAndServicesExt/profile** angezeigt. Sie ist nicht Teil der **profileAndServices/profile** REST-API-Aufrufe, da sie in einem erweiterten Schema hinzugefügt wird.
 
@@ -127,7 +127,7 @@ In Campaign v8 wird die Zeitzone Benutzenden nur als Teil der REST-API **Aufrufe
 
 Die Campaign Standard Workflow GET-API gibt Parameternamen wie die Workflow-Instanzvariablen und deren Datentypen (boolesch, Zeichenfolge usw.) zurück. Dies wird verwendet, um beim Auslösen des Signals über einen POST-API-Aufruf einen entsprechend formatierten JSON-Anfragetext zu erstellen.
 
-Campaign v8 unterstützt keine Advertising Workflow-Instanzvariablen, erwartet jedoch, dass die Entwickler wissen, was diese sind. Daher müssen nach der Migration Parameterinformationen im POST-Anfragetext ohne Parameterinformationen in der GET-API-Antwort erstellt werden.
+Campaign v8 unterstützt keine Advertising Workflow-Instanzvariablen, erwartet jedoch, dass die Entwickler wissen, was diese sind. Daher müssen Parameterinformationen im POST-Anfrageinhalt nach der Migration erstellt werden, ohne dass Parameterinformationen in der GET-API-Antwort verfügbar sind.
 
 <!--## Transactional messages
 
