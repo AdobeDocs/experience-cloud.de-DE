@@ -3,10 +3,10 @@ user-guide-title: Adobe-Zustellbarkeits-Service-Management
 user-guide-description: Adobe-Zustellbarkeits-Service
 breadcrumb-title: Adobe-Zustellbarkeits-Service
 hide: true
-source-git-commit: e52b82bd3f81fb68831ccbd1038e0187d1672595
+source-git-commit: cfdca7ed165ac603341373eaeea7397dc76d8630
 workflow-type: tm+mt
-source-wordcount: '17'
-ht-degree: 100%
+source-wordcount: '20'
+ht-degree: 85%
 
 ---
 
@@ -14,3 +14,4 @@ ht-degree: 100%
 
 * [Startseite](home.md)
 * [Globale Unterdrückungsliste](global-suppression-list.md)
+* [Ausgeblendeter Testartikel](hidden-test.md)
