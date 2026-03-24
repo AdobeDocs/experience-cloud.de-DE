@@ -15,7 +15,7 @@ Mit der Feature Group Management API können Sie in Experience Rollouts Funktion
 
 **Basispfad:** `/m/api/v1/mgmt/group`
 
-Für alle Anfragen sind die in den [Allgemeine Anforderungen“ beschriebenen ](feature-management-apis-overview.md#common-requirements) erforderlich.
+Für alle Anfragen sind die in den [Allgemeine Anforderungen“ beschriebenen &#x200B;](feature-management-apis-overview.md#common-requirements) erforderlich.
 
 ## Alle Funktionsgruppen abrufen {#get-all-groups}
 
