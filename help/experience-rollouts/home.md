@@ -1,28 +1,40 @@
 ---
 title: Adobe Experience Rollouts
 description: Erfahren Sie, wie Sie mit Adobe Experience Rollouts Funktionen sicher und schrittweise mit kontrollierten Rollouts, Feature Flags und zielgerichteter Zielgruppenverwaltung bereitstellen können.
-source-git-commit: 1c8fd9b42d08f657b4e6b16efae86faa04d15565
+exl-id: c400d75d-d928-4cf6-a094-1a2f443389f0
+source-git-commit: 65effd7e3b12404359e3693820bbf9e5080bea03
 workflow-type: tm+mt
-source-wordcount: '244'
-ht-degree: 0%
+source-wordcount: '346'
+ht-degree: 1%
 
 ---
 
-
 # Adobe Experience Rollouts {#experience-rollouts-home}
 
-Adobe Experience Rollouts ist eine Plattform zur Funktionsverwaltung und kontrollierten Veröffentlichung, mit der Produktteams neue Funktionen sicher, schrittweise und mit geringeren Risiken bereitstellen können.
+Mit den Rollouts bei Adobe Experience Platform können Produkt-Teams neue Funktionen schrittweise und sicher bereitstellen - ohne erneute Bereitstellungen oder Ausfallzeiten. Sie definieren, wer was sieht, wann und in welchem Tempo. Wenn etwas schief geht, schalten Sie die Funktion sofort aus. Wenn alles gut geht, erweitern Sie die Audience nach Ihrem Zeitplan.
 
-Anstatt eine neue Funktion für alle gleichzeitig zu aktivieren, ermöglicht Experience Rollouts Produktteams:
+## Mögliche Optionen
 
-* **Funktionen schrittweise veröffentlichen** - Beginnen Sie mit einem kleinen Prozentsatz von Benutzern und erhöhen Sie dann im Laufe der Zeit. Wenn sich etwas nicht wie erwartet verhält, kann die Funktion schnell ausgeschaltet werden, ohne dass Ausfallzeiten auftreten oder die Software neu installiert werden muss.
+**Kontrollieren Sie, wer neue Funktionen sieht.** Targeting von Versionen auf bestimmte Benutzer, Organisationen, Regionen oder benutzerdefinierte Attribute. Beginnen Sie mit einer kleinen Gruppe, validieren Sie das Erlebnis, und erweitern Sie es dann - alles über die Konsole, ohne Code-Änderungen.
 
-* **Funktionen für bestimmte Zielgruppen** - Aktivieren Sie neue Funktionen für ausgewählte Gruppen (z. B. Beta-Programme, bestimmte Regionen oder bestimmte Pläne), damit Änderungen validiert und verfeinert werden können, bevor sie allgemein verfügbar sind.
+**Ausführen von A/B-Experimenten.** Unterschiedliche Varianten für verschiedene Segmente Ihrer Audience bereitstellen und messen, was eine bessere Leistung erzielt. Verwenden Sie die Ergebnisse, um fundierte Produktentscheidungen vor einer vollständigen Veröffentlichung zu treffen.
 
-* **Durchführen von Experimenten und A/B-Tests** - Probieren Sie verschiedene Versionen einer Funktion aus (z. B. alternative Layouts, Flüsse oder Empfehlungen) und messen Sie, welche Funktion besser funktioniert, indem Sie Daten verwenden, um Produktentscheidungen zu leiten.
+**Verringern des Versionsrisikos.** Unterteilen Sie große Änderungen in kleinere, kontrollierte Rollouts. Wenn ein Fehler oder ein Leistungsproblem auftritt, deaktivieren Sie nur die betroffene Funktion - der Rest Ihrer Anwendung bleibt stabil.
 
-* **Geringeres Risiko für kritische Versionen** - Unterteilen Sie große Änderungen in kleinere, kontrollierte Rollouts, damit Probleme leichter erkannt, verstanden und behoben werden können, bevor sie alle betreffen.
+**Koordinieren über Teams hinweg.** Team-übergreifende Funktionsgruppen ermöglichen es mehreren Teams, an einer einzigen koordinierten Version teilzunehmen, wobei jedes seine eigenen Funktions-Flags verwaltet und einen gemeinsamen Rollout-Zeitplan und eine gemeinsame Zielgruppe hat.
 
-* **Schnelles Reagieren auf Probleme** - Wenn ein Fehler oder ein Leistungsproblem auftritt, schalten Sie nur die betroffene Funktion aus, während der Rest der Anwendung stabil bleibt.
+## Onboarding der ersten Funktion
 
-In der Praxis helfen Erlebnis-Rollouts Endbenutzern, häufiger Verbesserungen mit weniger Unterbrechungen zu erleben: Neue Funktionen können früher eintreffen, sorgfältiger getestet und schnell auf der Grundlage von echtem Feedback angepasst werden.
+Das Erzielen eines Werts aus Erlebnis-Rollouts beginnt mit drei Schritten:
+
+1. **Team und Anwendung einrichten** - [Zugriff anfordern](guides/console/request-access.md) auf die Konsole, dann [Anwendung integrieren](guides/applications/onboard-your-application.md) damit Experience Rollouts weiß, welche Clients bedient werden sollen.
+
+2. **Feature Flag erstellen und veröffentlichen** - Befolgen Sie die [Create Your First Feature Flag](guides/feature-flags/create-your-first-feature-flag.md) Anleitung, um ein Flag zu definieren, Ihre anfängliche Audience festzulegen und sie in Ihrer Umgebung zu veröffentlichen.
+
+3. **Mit Ihrer Anwendung integrieren** - Verbinden Sie Ihre App mit der Experience Rollouts-API oder SDK, damit sie Feature Flags zur Laufzeit abrufen und anwenden kann. Beginnen Sie mit den [Integrationsschritten](guides/integrate/integration-steps.md) für Ihren Anwendungstyp.
+
+Sobald Ihre erste Markierung live ist, können Sie ihre Zielgruppe verfeinern, einen schrittweisen Rollout konfigurieren und sie über den [Versionsstatus](guides/feature-flags/release-states.md) vom gespeicherten zum vollständigen Rollout weiterleiten.
+
+## Benötigen Sie Hilfe?
+
+Wenn sich etwas nicht wie erwartet verhält, werden im [Handbuch zur Fehlerbehebung](guides/support/troubleshooting.md) die häufigsten Probleme behandelt. Für alles andere ([ den Support](guides/support/contact-support.md).
