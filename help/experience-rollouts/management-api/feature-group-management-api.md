@@ -1,10 +1,10 @@
 ---
 title: Feature Group Management-API
 description: API-Referenz für die Experience Rollouts-Funktionsgruppen-Management-API, einschließlich Endpunkten zum Abrufen, Erstellen, Aktualisieren, Löschen und Steuern von Rollout-Plänen für Funktionsgruppen.
-source-git-commit: 8a92b7a3e8c52da8bb2474f52c831e159420b878
+source-git-commit: db719ba7b9db91aea818d8ef216a28fcedc6aa65
 workflow-type: tm+mt
-source-wordcount: '614'
-ht-degree: 16%
+source-wordcount: '575'
+ht-degree: 17%
 
 ---
 
@@ -15,7 +15,7 @@ Mit der Feature Group Management API können Sie in Experience Rollouts Funktion
 
 **Basispfad:** `/m/api/v1/mgmt/group`
 
-Für alle Anfragen sind die in den [Allgemeine Anforderungen“ beschriebenen &#x200B;](feature-management-apis-overview.md#common-requirements) erforderlich.
+Für alle Anfragen sind die in den [Allgemeine Anforderungen“ beschriebenen ](feature-management-apis-overview.md#common-requirements) erforderlich.
 
 ## Alle Funktionsgruppen abrufen {#get-all-groups}
 
@@ -90,28 +90,6 @@ Der Anfragetext verwendet das [Objekt der Funktionsgruppe](#feature-group-object
 }
 ```
 
-**Beispiel - Automatisierter Rollout:**
-
-```json
-{
-  "params": { "rolloutType": "automated", "label": "my-automated-group", "tags": [] },
-  "status": "SAVED",
-  "type": "group",
-  "name": "my.automated.group",
-  "variations": [{ "variantPercentage": 100, "variantName": "Variant 1", "features": [] }],
-  "phaseRollOutPlan": {
-    "phaseRollOutBlocks": [
-      { "isPhaseBlock": true, "phaseRule": { "audience": [] }, "waitRule": null, "blockId": 1, "blockName": "", "isBlockActivated": false },
-      { "isPhaseBlock": false, "phaseRule": null, "waitRule": { "waitDuration": { "val": "2", "unit": "HOURS" } }, "blockId": 2, "blockName": "", "isBlockActivated": false },
-      { "isPhaseBlock": true, "phaseRule": { "audience": [] }, "waitRule": null, "blockId": 3, "blockName": "", "isBlockActivated": false }
-    ],
-    "rollOutPlanState": "DRAFT"
-  },
-  "clients": [],
-  "org": { "id": 95 }
-}
-```
-
 ### Antwort {#create-response}
 
 | Status | Beschreibung |
@@ -136,29 +114,6 @@ Aktualisiert eine vorhandene Funktionsgruppe. Übergeben Sie dieselbe Struktur w
 | `200` | Erfolgreich. Der Antworttext ist das aktualisierte Objekt der Funktionsgruppe . |
 | `400` | Ungültige Payload. |
 | `403` | Unzureichende Berechtigungen. |
-
-## Aussetzen, Fortsetzen oder Abbrechen eines Rollout-Plans {#pause-resume-abort}
-
-Steuert die Ausführung eines laufenden automatisierten Rollout-Plans für A/B-Tests.
-
-| Aktion | Endpunkt |
-|---|---|
-| **Fortsetzen** | `POST /m/api/v1/mgmt/phaserollout/resume` |
-| **Aussetzen** | `POST /m/api/v1/mgmt/phaserollout/pause` |
-| **abbrechen** | `POST /m/api/v1/mgmt/phaserollout/abort` |
-
-### Anfragetext {#control-request-body}
-
-```json
-{
-  "entityId": 10282,
-  "fgEntityType": "GROUP"
-}
-```
-
-### Antwort {#control-response}
-
-Gibt bei Erfolg `true` zurück.
 
 ## Funktionsgruppe löschen {#delete-group}
 
@@ -230,4 +185,3 @@ Jeder Block in `phaseRollOutBlocks` ist entweder ein **Phasenblock** (`isPhaseBl
 * [Übersicht über Feature Management-APIs](feature-management-apis-overview.md)
 * [Feature Flags Management-API](feature-flags-management-api.md)
 * [Verwaltungs-Patch-API](management-patch-api.md)
-* [Erstellen eines automatisierten Rollouts](../guides/automated-rollouts/create-automated-rollout.md)

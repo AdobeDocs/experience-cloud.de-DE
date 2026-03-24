@@ -1,9 +1,9 @@
 ---
 title: Übersicht über Feature Management-APIs
 description: Überblick über die Experience Rollouts-Management-APIs, mit denen Sie Feature Flags, Feature Groups und Releases programmgesteuert erstellen, lesen, aktualisieren und löschen können.
-source-git-commit: 6ecedbfc6c7de392f214f3f8f2e71aa18e1bacb9
+source-git-commit: db719ba7b9db91aea818d8ef216a28fcedc6aa65
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Mit Experience Rollouts-Management-APIs können Sie Feature Flags, Feature Group
 Die folgenden Management-APIs sind verfügbar:
 
 * [Feature Flags Management API](feature-flags-management-api.md) - Erstellen, Lesen, Aktualisieren und Löschen von Feature Flags für eine Anwendung.
-* [Feature Group Management API](feature-group-management-api.md) - Erstellen, lesen, aktualisieren, löschen und steuern Sie automatisierte Rollout-Pläne für Feature Groups.
+* [Feature Group Management API](feature-group-management-api.md) - Erstellen, Lesen, Aktualisieren und Löschen von Feature Groups.
 * [Versionsverwaltungs-APIs](release-management-apis.md) - Erstellen und bearbeiten Sie Team-übergreifende Funktionsgruppen und Versionen.
 
 ## Gemeinsame Anforderungen {#common-requirements}
@@ -45,6 +45,5 @@ Die folgenden Handbücher helfen beim Erstellen der richtigen API-Payloads:
 
 ## Siehe auch {#see-also}
 
-* [GET Feature API v3](../feature-api/get-feature-api-v3.md)
-* [GET Feature API v2](../feature-api/get-feature-api-v2.md)
+* **GET Feature API V3** und **GET Feature API V2** - im Abschnitt Funktions-API dieses Handbuchs finden Sie die vollständigen Verweise.
 * [Abonnieren des API-Programms](../guides/integrate/subscribe-to-api-application.md)

@@ -1,9 +1,9 @@
 ---
 title: Erstellen einer Team-übergreifenden Funktionsgruppe
 description: Erfahren Sie, wie Sie in Adobe Experience Rollouts eine Team-übergreifende Funktionsgruppe erstellen, um Feature Flags über Anwendungen hinweg zu koordinieren, die verschiedenen Teams gehören.
-source-git-commit: a1ed4582217001ffcf500cd7b634d9959adbe028
+source-git-commit: db719ba7b9db91aea818d8ef216a28fcedc6aa65
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '594'
 ht-degree: 2%
 
 ---
@@ -34,11 +34,11 @@ Starten Sie den Erstellungsprozess über den Abschnitt Versionen der Konsole:
 Geben Sie einen Titel, einen Schlüssel, eine Beschreibung und optional ein Tag an. Konfigurieren Sie die folgenden Optionen:
 
 * **Rollout in Prozent** - Legen Sie fest, wie viel von der Zielgruppe die Funktion erhält.
-* **Rollout-Typ** — Wählen Sie „Manuell“ oder „Automatisiert“. Weitere Informationen [&#x200B; automatisierten Rollouts finden &#x200B;](../automated-rollouts/automated-rollout-concept.md) unter „Automatisierte Rollouts“.
+* **Rollout-Typ** - Auf „Manuell“ einstellen. Der Prozentsatz wird im Laufe des Rollouts Schritt für Schritt verwaltet.
 
 >[!NOTE]
 >
->A/B-Tests werden für Team-übergreifende Funktionsgruppen nicht unterstützt. Verwenden Sie zum Ausführen von A/B[Tests eine Standardfunktionsgruppe &#x200B;](create-a-feature-group.md)Anwendungen müssen sich im selben Team befinden).
+>A/B-Tests werden für Team-übergreifende Funktionsgruppen nicht unterstützt. Verwenden Sie zum Ausführen von A/B[Tests eine Standardfunktionsgruppe ](create-a-feature-group.md)Anwendungen müssen sich im selben Team befinden).
 
 ## Schritt 3: Zielgruppe {#audience}
 
@@ -65,7 +65,7 @@ Auf der Registerkarte **Funktionen** wird ein Feld für jede enthaltene Anwendun
 
 ## Schritt 5: Zeitplan (optional) {#schedule}
 
-Sie können die Aktivierung der Team-übergreifenden Funktionsgruppe zu einem späteren Zeitpunkt planen. Weitere Informationen [&#x200B; Sie unter &#x200B;](schedule.md).
+Sie können die Aktivierung der Team-übergreifenden Funktionsgruppe zu einem späteren Zeitpunkt planen. Weitere Informationen [ Sie unter ](schedule.md).
 
 ## Verwalten von Status {#states}
 
@@ -91,4 +91,3 @@ Siehe [Versionen und teamübergreifende Funktionsgruppen](releases-and-cross-tea
 
 * [Versionen und teamübergreifende Funktionsgruppen](releases-and-cross-team-feature-groups.md)
 * [Erstellen einer Funktionsgruppe](create-a-feature-group.md)
-* [Erstellen eines automatisierten Rollouts](../automated-rollouts/create-automated-rollout.md)
