@@ -37,4 +37,4 @@ Sobald Ihre erste Markierung live ist, können Sie ihre Zielgruppe verfeinern, e
 
 ## Benötigen Sie Hilfe?
 
-Wenn sich etwas nicht wie erwartet verhält, werden im [Handbuch zur Fehlerbehebung](guides/support/troubleshooting.md) die häufigsten Probleme behandelt. Für alles andere ([ den Support](guides/support/contact-support.md).
+Wenn sich etwas nicht wie erwartet verhält, werden im [Handbuch zur Fehlerbehebung](guides/support/troubleshooting.md) die häufigsten Probleme behandelt. Für alles andere ([&#x200B; den Support](guides/support/contact-support.md).
