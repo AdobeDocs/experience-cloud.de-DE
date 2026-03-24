@@ -24,7 +24,7 @@ Wenden Sie sich an den Experience Rollouts-Support , um ein neues Team anzuforde
 | Feld | Beschreibung |
 |---|---|
 | **Team-Name** | Ein eindeutiger Name für Ihr Team. |
-| **Targeting-Modus** | Der Targeting-Modus, den Ihr Team verwenden wird[ (Zielgruppenbestimmung auf Benutzerebene oder Zielgruppenbestimmung auf Organisations- und ](../../getting-started/experience-rollouts-modes.md)). |
+| **Targeting-Modus** | Der Targeting-Modus, den Ihr Team verwenden wird[&#x200B; (Zielgruppenbestimmung auf Benutzerebene oder Zielgruppenbestimmung auf Organisations- und &#x200B;](../../getting-started/experience-rollouts-modes.md)). |
 | **Umgebung** | Die benötigten Umgebungen: Staging, Produktion oder beides. |
 | **Team-Administrator(en)** | E-Mail-Adresse(n) der Person(en), die als Team-Administrierende fungieren sollen. |
 

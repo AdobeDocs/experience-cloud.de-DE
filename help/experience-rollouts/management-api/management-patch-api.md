@@ -24,7 +24,7 @@ Aktualisiert ein oder mehrere Felder einer Feature Flag.
 
 ### Anfrage-Header {#ff-request-headers}
 
-Für alle Anfragen sind die in den [Allgemeine Anforderungen“ beschriebenen ](feature-management-apis-overview.md#common-requirements) erforderlich.
+Für alle Anfragen sind die in den [Allgemeine Anforderungen“ beschriebenen &#x200B;](feature-management-apis-overview.md#common-requirements) erforderlich.
 
 ### Pfadparameter {#ff-path-param}
 

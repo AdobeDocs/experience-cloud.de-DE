@@ -41,13 +41,13 @@ Wichtige Spezifikationen für die Java-SDK:
 * **Unterstütztes JDK:** JDK 8 und höher
 * **Nicht zwischenspeicherbare Clients:** Wird ab SDK-Version 0.8 unterstützt. Bei nicht zwischenspeicherbaren Clients führt `getFeature()` einen Live-API-Aufruf durch, anstatt aus dem Cache zu lesen. Die SDK fragt im Hintergrund weiter ab und wechselt zur Cache-basierten Bereitstellung, wenn der Client zwischenspeicherbar wird.
 
-Anweisungen zum Einrichten finden [ im Java](../sdk-releases/java/java-sdk-integration-guide.md)Handbuch zur SDK-Integration.
+Anweisungen zum Einrichten finden [&#x200B; im Java](../sdk-releases/java/java-sdk-integration-guide.md)Handbuch zur SDK-Integration.
 
 ### Node.js-SDK {#nodejs-sdk}
 
 Die Node.js-SDK wird über npm verteilt.
 
-Anweisungen zum Einrichten finden [ im Handbuch ](../sdk-releases/nodejs/nodejs-sdk-integration-guide.md)Node.js-SDK-Integration“.
+Anweisungen zum Einrichten finden [&#x200B; im Handbuch &#x200B;](../sdk-releases/nodejs/nodejs-sdk-integration-guide.md)Node.js-SDK-Integration“.
 
 ## Auswählen zwischen SDK und REST-API {#sdk-vs-api}
 

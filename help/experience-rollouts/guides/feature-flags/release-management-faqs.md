@@ -28,7 +28,7 @@ Versionen unterstützen die folgenden Zielgruppenregeln:
 * Prozentsatz (alle Benutzer)
 * Prozentsatz (nur authentifizierte Benutzer)
 
-Sie können mehrere Regeln mithilfe der AND/OR-Logik kombinieren, einschließlich verschachtelter Bedingungen. Eine [ Anleitung zur Konfiguration finden ](update-release-audience-rules.md) unter „Versions-Zielgruppenregeln aktualisieren .
+Sie können mehrere Regeln mithilfe der AND/OR-Logik kombinieren, einschließlich verschachtelter Bedingungen. Eine [&#x200B; Anleitung zur Konfiguration finden &#x200B;](update-release-audience-rules.md) unter „Versions-Zielgruppenregeln aktualisieren .
 
 ## Wie füge ich eine Anwendung zu einer Version hinzu? {#onboard-application}
 

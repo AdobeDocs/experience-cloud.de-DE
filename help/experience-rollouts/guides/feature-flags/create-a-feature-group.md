@@ -21,7 +21,7 @@ Bevor Sie eine Funktionsgruppe erstellen, führen Sie Folgendes aus:
 * Sie haben die Rolle **Entwickler** oder **Produktversionsinhaber** (siehe [Benutzerrollen](../teams/user-roles.md)
 * Sie haben die Feature Flags erstellt, die Sie der Gruppe hinzufügen möchten - siehe [Erstellen des ersten Feature Flags](create-your-first-feature-flag.md)
 
-Eine Einführung in Funktionsgruppen finden Sie unter &quot;[ zur Steuerung mehrerer Funktionen](../../concepts/feature-groups-to-control-multiple-features.md).
+Eine Einführung in Funktionsgruppen finden Sie unter &quot;[&#x200B; zur Steuerung mehrerer Funktionen](../../concepts/feature-groups-to-control-multiple-features.md).
 
 ## Schritt 1: Funktionsgruppe erstellen {#create}
 
@@ -63,7 +63,7 @@ Weisen Sie die Feature Flags zu, die von dieser Gruppe gesteuert werden:
 
 ## Schritt 5: Zeitplan (optional) {#schedule}
 
-Sie können festlegen, dass die Funktionsgruppe zu einem späteren Zeitpunkt aktiviert wird. Weitere Informationen [ Sie unter ](schedule.md).
+Sie können festlegen, dass die Funktionsgruppe zu einem späteren Zeitpunkt aktiviert wird. Weitere Informationen [&#x200B; Sie unter &#x200B;](schedule.md).
 
 ## Siehe auch {#see-also}
 

@@ -15,7 +15,7 @@ Mit der Feature Flags Management-API können Sie Feature Flags für Ihre Anwendu
 
 **Basispfad:** `/m/api/v1/mgmt/feature`
 
-Für alle Anfragen sind die in den [Allgemeine Anforderungen“ beschriebenen ](feature-management-apis-overview.md#common-requirements) erforderlich.
+Für alle Anfragen sind die in den [Allgemeine Anforderungen“ beschriebenen &#x200B;](feature-management-apis-overview.md#common-requirements) erforderlich.
 
 ## Alle Feature Flags abrufen {#get-all-features}
 

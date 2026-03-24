@@ -59,7 +59,7 @@ Wiederholen Sie den Vorgang, um weitere Phasenblöcke und Warteblöcke hinzuzuf�
 
 Wählen Sie nach Abschluss des Rollout-Plans aus, wie er aktiviert werden soll:
 
-* **Zeitplan** - Legen Sie ein Datum und eine Uhrzeit für den automatischen Start des Rollouts fest. Weitere Informationen [ Sie unter ](../feature-flags/schedule.md).
+* **Zeitplan** - Legen Sie ein Datum und eine Uhrzeit für den automatischen Start des Rollouts fest. Weitere Informationen [&#x200B; Sie unter &#x200B;](../feature-flags/schedule.md).
 * **Manuell veröffentlichen** - Schalten Sie das Feature Flag ein oder verschieben Sie die Feature Group in den Status **Veröffentlichen**, um sofort zu beginnen.
 
 Der Plan beginnt mit der Ausführung ab dem Block der ersten Phase. Sie können den aktiven Plan jederzeit überwachen und bearbeiten. Siehe [Überwachen und Bearbeiten eines Rollout-](monitor-edit-rollout-plan.md).

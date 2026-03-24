@@ -33,7 +33,7 @@ Der Release Manager wählt die Zielgruppe für die Veröffentlichung aus, z. B. 
 
 ## &#x200B;5. Erweitern und Verwalten des Rollouts {#expand}
 
-Nach der Live-Schaltung kann der Release-Manager die Zielgruppenregeln anpassen, um den Rollout schrittweise zu erweitern, Probleme zu überwachen und den Lebenszyklus mithilfe der Steuerelemente für den Versionsstatus zu verwalten. Weitere Informationen [ Sie unter ](release-states.md)Versionsstatus“.
+Nach der Live-Schaltung kann der Release-Manager die Zielgruppenregeln anpassen, um den Rollout schrittweise zu erweitern, Probleme zu überwachen und den Lebenszyklus mithilfe der Steuerelemente für den Versionsstatus zu verwalten. Weitere Informationen [&#x200B; Sie unter &#x200B;](release-states.md)Versionsstatus“.
 
 ## Wichtigste Punkte {#key-points}
 

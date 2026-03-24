@@ -13,7 +13,7 @@ ht-degree: 1%
 
 Teams sind die zentrale Organisationseinheit bei Erlebnis-Rollouts. Jedes Team besitzt eine oder mehrere Anwendungen und verwaltet alle Feature Flags, Feature Groups und Releases für diese Anwendungen.
 
-Um ein Team zu verwalten, benötigen Sie die Rolle **Admin**. Eine vollständige Beschreibung [ verfügbaren Rollen ](user-roles.md) Berechtigungen finden Sie unter „Benutzerrollen“.
+Um ein Team zu verwalten, benötigen Sie die Rolle **Admin**. Eine vollständige Beschreibung [&#x200B; verfügbaren Rollen &#x200B;](user-roles.md) Berechtigungen finden Sie unter „Benutzerrollen“.
 
 ## Teamverwaltungsaufgaben {#tasks}
 

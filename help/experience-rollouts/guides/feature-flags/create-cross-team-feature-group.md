@@ -34,11 +34,11 @@ Starten Sie den Erstellungsprozess über den Abschnitt Versionen der Konsole:
 Geben Sie einen Titel, einen Schlüssel, eine Beschreibung und optional ein Tag an. Konfigurieren Sie die folgenden Optionen:
 
 * **Rollout in Prozent** - Legen Sie fest, wie viel von der Zielgruppe die Funktion erhält.
-* **Rollout-Typ** — Wählen Sie „Manuell“ oder „Automatisiert“. Weitere Informationen [ automatisierten Rollouts finden ](../automated-rollouts/automated-rollout-concept.md) unter „Automatisierte Rollouts“.
+* **Rollout-Typ** — Wählen Sie „Manuell“ oder „Automatisiert“. Weitere Informationen [&#x200B; automatisierten Rollouts finden &#x200B;](../automated-rollouts/automated-rollout-concept.md) unter „Automatisierte Rollouts“.
 
 >[!NOTE]
 >
->A/B-Tests werden für Team-übergreifende Funktionsgruppen nicht unterstützt. Verwenden Sie zum Ausführen von A/B[Tests eine Standardfunktionsgruppe ](create-a-feature-group.md)Anwendungen müssen sich im selben Team befinden).
+>A/B-Tests werden für Team-übergreifende Funktionsgruppen nicht unterstützt. Verwenden Sie zum Ausführen von A/B[Tests eine Standardfunktionsgruppe &#x200B;](create-a-feature-group.md)Anwendungen müssen sich im selben Team befinden).
 
 ## Schritt 3: Zielgruppe {#audience}
 
@@ -65,7 +65,7 @@ Auf der Registerkarte **Funktionen** wird ein Feld für jede enthaltene Anwendun
 
 ## Schritt 5: Zeitplan (optional) {#schedule}
 
-Sie können die Aktivierung der Team-übergreifenden Funktionsgruppe zu einem späteren Zeitpunkt planen. Weitere Informationen [ Sie unter ](schedule.md).
+Sie können die Aktivierung der Team-übergreifenden Funktionsgruppe zu einem späteren Zeitpunkt planen. Weitere Informationen [&#x200B; Sie unter &#x200B;](schedule.md).
 
 ## Verwalten von Status {#states}
 

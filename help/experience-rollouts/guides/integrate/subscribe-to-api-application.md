@@ -17,7 +17,7 @@ Um die Experience Rollouts-API über Ihr Programm aufzurufen, müssen Sie sie ü
 
 Bevor Sie sich anmelden, bestätigen Sie Folgendes:
 
-* Das Onboarding Ihres Programms erfolgt über die Konsole „Experience Rollouts“ (siehe &quot;[ Ihres Programms](../applications/onboard-your-application.md)
+* Das Onboarding Ihres Programms erfolgt über die Konsole „Experience Rollouts“ (siehe &quot;[&#x200B; Ihres Programms](../applications/onboard-your-application.md)
 * Sie haben Zugriff auf die Adobe Developer Console für Ihr Unternehmen
 
 ## Abonnieren der Experience Rollouts-API {#subscribe}
