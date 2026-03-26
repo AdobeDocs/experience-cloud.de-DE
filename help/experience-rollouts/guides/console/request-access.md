@@ -39,7 +39,7 @@ Die Ihnen zugewiesene Rolle bestimmt, welche Aktionen Sie in der Konsole ausfüh
 
 ## Nach Gewährung des Zugriffs {#after-access}
 
-Nachdem Ihre Anfrage genehmigt wurde, melden Sie sich bei der Konsole Erlebnis-Rollouts an und stellen Sie sicher, dass Ihr Team und Ihre Programme sichtbar sind. Die [ Schritte finden Sie unter &quot;](log-in-to-the-console.md) bei der Konsole“.
+Nachdem Ihre Anfrage genehmigt wurde, melden Sie sich bei der Konsole Erlebnis-Rollouts an und stellen Sie sicher, dass Ihr Team und Ihre Programme sichtbar sind. Die [&#x200B; Schritte finden Sie unter &quot;](log-in-to-the-console.md) bei der Konsole“.
 
 ## Benötigen Sie Hilfe? {#need-help}
 

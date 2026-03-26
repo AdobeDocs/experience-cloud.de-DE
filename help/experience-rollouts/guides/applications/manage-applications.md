@@ -19,7 +19,7 @@ Nur Mitglieder mit der Rolle **Admin** können Programme hinzufügen oder änder
 
 ## Hinzufügen einer Anwendung {#add-application}
 
-Eine schrittweise Anleitung zum Hinzufügen einer Anwendung zu Ihrem Team [ Sie unter ](onboard-your-application.md) Ihrer Anwendung .
+Eine schrittweise Anleitung zum Hinzufügen einer Anwendung zu Ihrem Team [&#x200B; Sie unter &#x200B;](onboard-your-application.md) Ihrer Anwendung .
 
 ## Teameigentum {#team-ownership}
 

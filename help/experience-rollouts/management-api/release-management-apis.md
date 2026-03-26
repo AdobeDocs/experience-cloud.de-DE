@@ -15,7 +15,7 @@ Mit den Release-Management-APIs können Sie Versionen und Team-übergreifende Fu
 
 **Basispfad:** `/m/api/v2/mgmt/release`
 
-Bei allen Anfragen sind die unter „Allgemeine [&quot; beschriebenen ](feature-management-apis-overview.md#common-requirements) sowie die unten aufgeführten zusätzlichen Kopfzeilen erforderlich.
+Bei allen Anfragen sind die unter „Allgemeine [&quot; beschriebenen &#x200B;](feature-management-apis-overview.md#common-requirements) sowie die unten aufgeführten zusätzlichen Kopfzeilen erforderlich.
 
 ## Zusätzliche erforderliche Kopfzeile {#additional-header}
 

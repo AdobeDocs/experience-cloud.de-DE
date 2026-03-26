@@ -21,7 +21,7 @@ Erkundigen Sie sich bei Ihrem Produkt oder Engineering-Lead, ob für Ihr Projekt
 
 ## Zugriff anfordern {#request-access}
 
-Sobald Sie wissen, welchem Team Sie beitreten sollen, fordern Sie über das Zugriffsverwaltungssystem Ihres Unternehmens Zugriff an. Eine [ Anleitung finden ](request-access.md) unter „Zugriff anfordern“.
+Sobald Sie wissen, welchem Team Sie beitreten sollen, fordern Sie über das Zugriffsverwaltungssystem Ihres Unternehmens Zugriff an. Eine [&#x200B; Anleitung finden &#x200B;](request-access.md) unter „Zugriff anfordern“.
 
 Nachdem Ihre Anfrage genehmigt wurde, erhalten Sie die Berechtigungen, die mit der Rolle verknüpft sind, die Ihnen von Ihrem Team-Administrator gewährt wurde.
 
@@ -31,11 +31,11 @@ Nachdem der Zugriff gewährt wurde:
 
 1. Wechseln Sie zu [https://experience.adobe.com/](https://experience.adobe.com/) und melden Sie sich mit Ihren Unternehmensanmeldeinformationen an.
 2. Wählen Sie **Programmumschalter** Erlebnis-Rollouts“ aus.
-3. Wählen Sie die richtige Sandbox aus. Weitere [ finden Sie unter ](environments-overview.md) auswählen .
+3. Wählen Sie die richtige Sandbox aus. Weitere [&#x200B; finden Sie unter &#x200B;](environments-overview.md) auswählen .
 
 ## Erste Schritte nach der Anmeldung {#first-steps}
 
-Überprüfen Sie nach der Anmeldung, ob Ihre Anwendung in der Konsole aufgeführt ist. Programme werden von Team-Administratoren verwaltet. Wenn Ihr Programm nicht aufgeführt ist, wenden Sie sich an Ihren Team-Administrator, damit es hinzugefügt wird. Weitere Informationen finden [ unter ](../applications/manage-applications.md) von Programmen .
+Überprüfen Sie nach der Anmeldung, ob Ihre Anwendung in der Konsole aufgeführt ist. Programme werden von Team-Administratoren verwaltet. Wenn Ihr Programm nicht aufgeführt ist, wenden Sie sich an Ihren Team-Administrator, damit es hinzugefügt wird. Weitere Informationen finden [&#x200B; unter &#x200B;](../applications/manage-applications.md) von Programmen .
 
 ## Wichtige Terminologie {#terminology}
 

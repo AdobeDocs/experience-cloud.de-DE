@@ -18,7 +18,7 @@ Wenn Sie auf ein Problem mit Experience Rollouts stoßen, das Sie nicht mit der 
 Bevor Sie eine Support-Anfrage senden, versuchen Sie die folgenden Self-Service-Optionen:
 
 * **Diese Dokumentation durchsuchen** - Verwenden Sie die Suchfunktion, um Handbücher, Konzepterklärungen und Anleitungsinhalte zu finden.
-* **Verwenden der Features Workbench** - Diagnostizieren von Problemen bei der Feature Flag-Evaluierung für bestimmte Benutzer, ohne Code zu schreiben. Anweisungen finden [ unter ](troubleshooting.md).
+* **Verwenden der Features Workbench** - Diagnostizieren von Problemen bei der Feature Flag-Evaluierung für bestimmte Benutzer, ohne Code zu schreiben. Anweisungen finden [&#x200B; unter &#x200B;](troubleshooting.md).
 * **Feature Flag-Status überprüfen** - Bestätigen Sie, dass das Feature Flag veröffentlicht ist und die Zielgruppenregeln korrekt konfiguriert sind.
 
 ## Senden einer Support-Anfrage {#submit-request}

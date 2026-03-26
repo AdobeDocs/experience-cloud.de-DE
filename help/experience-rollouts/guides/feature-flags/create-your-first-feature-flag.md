@@ -50,7 +50,7 @@ Nachdem Sie Zielgruppenkriterien hinzugefügt haben, wählen **in der** Leiste d
 
 ## Schritt 4: Zeitplan (optional) {#schedule}
 
-Sie können festlegen, dass eine Feature Flag zu einem späteren Zeitpunkt aktiviert wird. Weitere Informationen [ Sie unter ](schedule.md).
+Sie können festlegen, dass eine Feature Flag zu einem späteren Zeitpunkt aktiviert wird. Weitere Informationen [&#x200B; Sie unter &#x200B;](schedule.md).
 
 ## FAQ: Ich kann kein Feature Flag als Entwickler hinzufügen {#faq}
 
