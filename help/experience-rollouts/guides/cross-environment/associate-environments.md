@@ -1,17 +1,17 @@
 ---
 title: Zuordnen von Umgebungen zu einer Anwendung
 description: Erfahren Sie, wie Sie Ihre Anwendungsinstanzen in Adobe Experience Rollouts umgebungsübergreifend verknüpfen, damit Sie Feature Flags von der Entwicklung bis zur Produktion konsistent verwalten können.
-source-git-commit: 5c99061a7f2aaaad98190166ea6fd79b7eb26dec
+exl-id: 53080db1-f257-4369-82ab-57c84395a40a
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '441'
 ht-degree: 1%
 
 ---
 
-
 # Zuordnen von Umgebungen zu einer Anwendung {#associate-environments}
 
-Die Verknüpfung Ihrer Anwendungsinstanzen über Umgebungen hinweg ermöglicht eine umgebungsübergreifende Sichtbarkeit und Import-Workflows. Sie müssen über die Rolle **Admin** verfügen, um dies zu konfigurieren. Siehe [Benutzerrollen](../teams/user-roles.md), wenn Sie Ihre Rolle überprüfen müssen.
+Die Verknüpfung Ihrer Anwendungsinstanzen über Umgebungen hinweg ermöglicht eine umgebungsübergreifende Sichtbarkeit und Import-Workflows. Sie müssen über die Rolle **Admin** verfügen, um dies zu konfigurieren. Wenden Sie sich an Ihren Team-Administrator, wenn Sie Ihre Rolle überprüfen oder aktualisieren müssen.
 
 Hintergrundinformationen, warum dies nützlich ist, finden Sie [Cross-Environment Concept](cross-environment-concept.md).
 

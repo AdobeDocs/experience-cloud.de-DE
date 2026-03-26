@@ -1,13 +1,13 @@
 ---
 title: A/B-Tests mit Feature Flags
 description: Erfahren Sie, wie Sie A/B-Tests mit Funktionsgruppen in Adobe Experience Rollouts ausführen, indem Sie mehrere Varianten für eine Reihe von Funktions-Flags konfigurieren.
-source-git-commit: d311efb995b20ffc17370d68d57dd84a8605896c
+exl-id: bb849049-229c-40ff-bbfe-7996f868bcc3
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '367'
 ht-degree: 1%
 
 ---
-
 
 # A/B-Tests mit Feature Flags {#a-b-testing}
 
@@ -17,7 +17,7 @@ A/B-Tests in Erlebnis-Rollouts werden mit **Funktionsgruppen** durchgeführt. Du
 
 * Sie haben Zugriff auf die Konsole — siehe [Bei Konsole anmelden](../console/log-in-to-the-console.md)
 * Sie gehören einem Team an und Ihr Programm wird integriert
-* Sie haben die Rolle **Entwickler** oder **Produktversionsinhaber** (siehe [Benutzerrollen](../teams/user-roles.md)
+* Sie haben die Rolle **Entwickler** oder **Produktversionsinhaber**.
 * Sie haben die zu testenden Feature Flags erstellt (siehe [Erstellen des ersten Feature Flags](create-your-first-feature-flag.md)
 
 ## Schritt 1: KE-Gruppe mit mehreren Varianten erstellen {#create}

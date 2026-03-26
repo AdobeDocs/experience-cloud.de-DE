@@ -1,13 +1,13 @@
 ---
 title: Fehlerbehebung
 description: Verwenden Sie die Experience Rollouts Workbench, um Probleme bei der Bewertung von Feature Flag für bestimmte Benutzer zu diagnostizieren, einschließlich der Überprüfung, welche Funktionen für eine bestimmte Benutzeridentität aktiviert, deaktiviert oder nicht zugeordnet sind.
-source-git-commit: d824d85c6701edc9be314713bb8e9624b183e2d2
+exl-id: d64e9573-8e18-46a1-a75a-5ae5bfc7c82d
+source-git-commit: 4a3133f014a9bb9d6ed26eb9d9f763db79ce63b3
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '650'
 ht-degree: 1%
 
 ---
-
 
 # Fehlerbehebung {#troubleshooting}
 
@@ -85,5 +85,3 @@ In der folgenden Tabelle werden häufige Probleme und deren Untersuchung mithilf
 
 * [Support erhalten](get-support.md)
 * [Support kontaktieren](contact-support.md)
-* [Aktualisieren der Regeln für Veröffentlichungszielgruppen](../feature-flags/update-release-audience-rules.md)
-* [Versionsstatus](../feature-flags/release-states.md)

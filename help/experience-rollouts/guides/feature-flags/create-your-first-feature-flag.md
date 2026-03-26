@@ -1,13 +1,13 @@
 ---
 title: Erstellen des ersten Feature Flags
 description: Erfahren Sie, wie Sie in Adobe Experience Rollouts ein Feature Flag erstellen, eine Zielgruppe festlegen und testen, bevor Sie sie für Benutzende bereitstellen.
-source-git-commit: ae420329b94b24fcd173734b414aecf1c5fc16ca
+exl-id: ae115120-8da9-465e-a556-c17591ea7054
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen des ersten Feature Flags {#create-feature-flag}
 
@@ -16,9 +16,8 @@ ht-degree: 0%
 Bevor Sie ein Feature Flag erstellen, führen Sie Folgendes aus:
 
 * Sie haben Zugriff auf die Konsole „Experience Rollouts“ — siehe [Bei Konsole anmelden](../console/log-in-to-the-console.md)
-* Sie gehören einem Team an - siehe [Verwalten von Teams](../teams/manage-teams.md)
 * Ihr Programm wurde integriert - siehe [Onboarding Ihres Programms](../applications/onboard-your-application.md)
-* Sie haben die Rolle **Entwickler** oder **Produktversionsinhaber** (siehe [Benutzerrollen](../teams/user-roles.md)
+* Sie haben die Rolle **Entwickler** oder **Produktversionsinhaber**.
 
 ## Schritt 1: Feature Flag erstellen {#create}
 
@@ -51,7 +50,7 @@ Nachdem Sie Zielgruppenkriterien hinzugefügt haben, wählen **in der** Leiste d
 
 ## Schritt 4: Zeitplan (optional) {#schedule}
 
-Sie können festlegen, dass eine Feature Flag zu einem späteren Zeitpunkt aktiviert wird. Weitere Informationen [&#x200B; Sie unter &#x200B;](schedule.md).
+Sie können festlegen, dass eine Feature Flag zu einem späteren Zeitpunkt aktiviert wird. Weitere Informationen [ Sie unter ](schedule.md).
 
 ## FAQ: Ich kann kein Feature Flag als Entwickler hinzufügen {#faq}
 
@@ -61,4 +60,3 @@ Die **Entwickler**-Rolle ist Sandbox. Entwickler können Funktionen privat teste
 
 * [Festlegen einer Funktion für das schrittweise Rollout](set-feature-gradual-rollout.md)
 * [Erstellen einer Funktionsgruppe](create-a-feature-group.md)
-* [Benutzerrollen](../teams/user-roles.md)

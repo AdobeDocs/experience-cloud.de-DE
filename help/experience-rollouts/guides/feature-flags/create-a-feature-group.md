@@ -1,13 +1,13 @@
 ---
 title: Erstellen einer Funktionsgruppe
 description: Erfahren Sie, wie Sie in Adobe Experience Rollouts eine Funktionsgruppe erstellen, um mehrere Funktions-Flags in allen Anwendungen Ihres Teams als Einheit zu verwalten.
-source-git-commit: 9bfe0e55e89c1d7fbd77cde63831a6a186820e24
+exl-id: 58148df1-84ee-4a78-a4b4-71f74cd8ce0a
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen einer Funktionsgruppe {#create-feature-group}
 
@@ -16,12 +16,11 @@ ht-degree: 0%
 Bevor Sie eine Funktionsgruppe erstellen, führen Sie Folgendes aus:
 
 * Sie haben Zugriff auf die Konsole „Experience Rollouts“ — siehe [Bei Konsole anmelden](../console/log-in-to-the-console.md)
-* Sie gehören einem Team an - siehe [Verwalten von Teams](../teams/manage-teams.md)
 * Ihr Programm wurde integriert - siehe [Onboarding Ihres Programms](../applications/onboard-your-application.md)
-* Sie haben die Rolle **Entwickler** oder **Produktversionsinhaber** (siehe [Benutzerrollen](../teams/user-roles.md)
+* Sie haben die Rolle **Entwickler** oder **Produktversionsinhaber**.
 * Sie haben die Feature Flags erstellt, die Sie der Gruppe hinzufügen möchten - siehe [Erstellen des ersten Feature Flags](create-your-first-feature-flag.md)
 
-Eine Einführung in Funktionsgruppen finden Sie unter &quot;[&#x200B; zur Steuerung mehrerer Funktionen](../../concepts/feature-groups-to-control-multiple-features.md).
+Eine Einführung in Funktionsgruppen finden Sie unter &quot;[ zur Steuerung mehrerer Funktionen](../../concepts/feature-groups-to-control-multiple-features.md).
 
 ## Schritt 1: Funktionsgruppe erstellen {#create}
 
@@ -63,7 +62,7 @@ Weisen Sie die Feature Flags zu, die von dieser Gruppe gesteuert werden:
 
 ## Schritt 5: Zeitplan (optional) {#schedule}
 
-Sie können festlegen, dass die Funktionsgruppe zu einem späteren Zeitpunkt aktiviert wird. Weitere Informationen [&#x200B; Sie unter &#x200B;](schedule.md).
+Sie können festlegen, dass die Funktionsgruppe zu einem späteren Zeitpunkt aktiviert wird. Weitere Informationen [ Sie unter ](schedule.md).
 
 ## Siehe auch {#see-also}
 

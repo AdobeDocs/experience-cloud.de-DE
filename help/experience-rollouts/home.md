@@ -2,9 +2,9 @@
 title: Adobe Experience Rollouts
 description: Erfahren Sie, wie Sie mit Adobe Experience Rollouts Funktionen sicher und schrittweise mit kontrollierten Rollouts, Feature Flags und zielgerichteter Zielgruppenverwaltung bereitstellen können.
 exl-id: c400d75d-d928-4cf6-a094-1a2f443389f0
-source-git-commit: 65effd7e3b12404359e3693820bbf9e5080bea03
+source-git-commit: 4a3133f014a9bb9d6ed26eb9d9f763db79ce63b3
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '343'
 ht-degree: 1%
 
 ---
@@ -33,8 +33,8 @@ Das Erzielen eines Werts aus Erlebnis-Rollouts beginnt mit drei Schritten:
 
 3. **Mit Ihrer Anwendung integrieren** - Verbinden Sie Ihre App mit der Experience Rollouts-API oder SDK, damit sie Feature Flags zur Laufzeit abrufen und anwenden kann. Beginnen Sie mit den [Integrationsschritten](guides/integrate/integration-steps.md) für Ihren Anwendungstyp.
 
-Sobald Ihre erste Markierung live ist, können Sie ihre Zielgruppe verfeinern, einen schrittweisen Rollout konfigurieren und sie über den [Versionsstatus](guides/feature-flags/release-states.md) vom gespeicherten zum vollständigen Rollout weiterleiten.
+Sobald Ihre erste Markierung live ist, können Sie ihre Zielgruppe verfeinern, einen schrittweisen Rollout konfigurieren und sie von „Gespeichert“ zum vollständigen Rollout hochstufen.
 
 ## Benötigen Sie Hilfe?
 
-Wenn sich etwas nicht wie erwartet verhält, werden im [Handbuch zur Fehlerbehebung](guides/support/troubleshooting.md) die häufigsten Probleme behandelt. Für alles andere ([&#x200B; den Support](guides/support/contact-support.md).
+Wenn sich etwas nicht wie erwartet verhält, werden im [Handbuch zur Fehlerbehebung](guides/support/troubleshooting.md) die häufigsten Probleme behandelt. Für alles andere ([ den Support](guides/support/contact-support.md).

@@ -1,17 +1,17 @@
 ---
 title: Onboarding Ihres Programms
 description: Erfahren Sie, wie Sie eine neue Anwendung in Adobe Experience Rollouts integrieren, damit Ihr Team Feature Flags erstellen und verwalten kann.
-source-git-commit: 9bfe0e55e89c1d7fbd77cde63831a6a186820e24
+exl-id: d88c27a5-f490-4504-9764-5e4ce98fdf20
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '219'
 ht-degree: 2%
 
 ---
 
-
 # Onboarding Ihres Programms {#onboard-your-application}
 
-Sie müssen über die Rolle **Admin** verfügen, um eine neue Anwendung hinzuzufügen. Siehe [Benutzerrollen](../teams/user-roles.md), wenn Sie Ihre Rolle überprüfen oder von Ihrem Team-Administrator anfordern müssen.
+Sie müssen über die Rolle **Admin** verfügen, um eine neue Anwendung hinzuzufügen. Wenden Sie sich an Ihren Team-Administrator, wenn Sie Ihre Rolle überprüfen oder aktualisieren müssen.
 
 ## Neue Anwendung hinzufügen {#add-application}
 
@@ -45,5 +45,4 @@ Sobald Ihre Anwendung integriert ist, kann Ihr Team mit der Erstellung von Featu
 ## Siehe auch {#see-also}
 
 * [Anwendungen verwalten](manage-applications.md)
-* [Benutzerrollen](../teams/user-roles.md)
 * [Melden Sie sich bei der Konsole an](../console/log-in-to-the-console.md)

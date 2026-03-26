@@ -1,13 +1,13 @@
 ---
 title: Support erhalten
 description: Erfahren Sie, wie Sie Hilfe zu Adobe Experience Rollouts erhalten, einschließlich Self-Service-Ressourcen, und wie Sie bei Bedarf eine Support-Anfrage senden können.
-source-git-commit: d824d85c6701edc9be314713bb8e9624b183e2d2
+exl-id: f4ba9c00-941b-4c33-b42f-087113d58b0d
+source-git-commit: 4a3133f014a9bb9d6ed26eb9d9f763db79ce63b3
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
-
 
 # Support erhalten {#get-support}
 
@@ -18,9 +18,8 @@ Wenn Sie auf ein Problem mit Experience Rollouts stoßen, das Sie nicht mit der 
 Bevor Sie eine Support-Anfrage senden, versuchen Sie die folgenden Self-Service-Optionen:
 
 * **Diese Dokumentation durchsuchen** - Verwenden Sie die Suchfunktion, um Handbücher, Konzepterklärungen und Anleitungsinhalte zu finden.
-* **Verwenden der Features Workbench** - Diagnostizieren von Problemen bei der Feature Flag-Evaluierung für bestimmte Benutzer, ohne Code zu schreiben. Anweisungen finden [&#x200B; unter &#x200B;](troubleshooting.md).
-* **Versionsstatus überprüfen** - Vergewissern Sie sich, dass die Funktion für Ihre Zielgruppe den richtigen Status aufweist. Siehe [Versionsstatus](../feature-flags/release-states.md).
-* **Zielgruppenregeln überprüfen** - Überprüfen Sie die Zielgruppenkriterien und die prozentuale Konfiguration für die Funktion. Siehe [Aktualisieren von Versions-Zielgruppenregeln](../feature-flags/update-release-audience-rules.md).
+* **Verwenden der Features Workbench** - Diagnostizieren von Problemen bei der Feature Flag-Evaluierung für bestimmte Benutzer, ohne Code zu schreiben. Anweisungen finden [ unter ](troubleshooting.md).
+* **Feature Flag-Status überprüfen** - Bestätigen Sie, dass das Feature Flag veröffentlicht ist und die Zielgruppenregeln korrekt konfiguriert sind.
 
 ## Senden einer Support-Anfrage {#submit-request}
 

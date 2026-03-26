@@ -1,13 +1,13 @@
 ---
 title: Versionsverwaltungs-APIs
 description: API-Referenz für die Experience Rollouts-APIs zur Versionsverwaltung, einschließlich Endpunkten zum Abrufen, Erstellen und Bearbeiten von Versionen und Team-übergreifenden Funktionsgruppen.
-source-git-commit: 8a92b7a3e8c52da8bb2474f52c831e159420b878
+exl-id: e8d1d025-0645-4cf2-921f-d94c9f71282d
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '490'
 ht-degree: 15%
 
 ---
-
 
 # Versionsverwaltungs-APIs {#release-management-apis}
 
@@ -15,7 +15,7 @@ Mit den Release-Management-APIs können Sie Versionen und Team-übergreifende Fu
 
 **Basispfad:** `/m/api/v2/mgmt/release`
 
-Bei allen Anfragen sind die unter „Allgemeine [&quot; beschriebenen &#x200B;](feature-management-apis-overview.md#common-requirements) sowie die unten aufgeführten zusätzlichen Kopfzeilen erforderlich.
+Bei allen Anfragen sind die unter „Allgemeine [&quot; beschriebenen ](feature-management-apis-overview.md#common-requirements) sowie die unten aufgeführten zusätzlichen Kopfzeilen erforderlich.
 
 ## Zusätzliche erforderliche Kopfzeile {#additional-header}
 
@@ -146,4 +146,3 @@ Aktualisiert eine vorhandene Version oder eine Team-übergreifende Funktionsgrup
 * [Übersicht über Feature Management-APIs](feature-management-apis-overview.md)
 * [Feature Flags Management-API](feature-flags-management-api.md)
 * [Feature Group Management-API](feature-group-management-api.md)
-* [Erstellen einer Team-übergreifenden Funktionsgruppe](../guides/feature-flags/create-cross-team-feature-group.md)
