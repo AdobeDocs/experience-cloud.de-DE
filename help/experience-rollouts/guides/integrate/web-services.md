@@ -1,13 +1,13 @@
 ---
 title: Web-Dienste
 description: Erfahren Sie, wie Sie Adobe Experience Rollouts mithilfe der Java- oder Node.js-SDK in einen Backend-Webservice integrieren.
-source-git-commit: b82520eebe0070b5f76e0f7daeb2bb79a4bccca0
+exl-id: 2e73fc30-93d4-46dc-8855-950dd1b15064
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 9%
+source-wordcount: '97'
+ht-degree: 12%
 
 ---
-
 
 # Web-Dienste {#web-services}
 
@@ -22,11 +22,7 @@ Backend-Services können mithilfe einer Server-seitigen SDK in Experience Rollou
 
 ## Other languages {#other-languages}
 
-Wenn Ihr Backend-Service eine Sprache verwendet, die oben nicht aufgeführt ist, können Sie direkt in die REST-API integrieren:
-
-* Funktions-API V3 - Die vollständige Referenz finden Sie im Abschnitt Funktions-API dieses Handbuchs
-
-Wenden Sie sich an den Experience Rollouts-Support , wenn Sie Anleitungen zur Integration mit einem nicht unterstützten Stack benötigen.
+Wenn Ihr Backend-Service eine Sprache verwendet, die oben nicht aufgeführt ist, wenden Sie sich an den Experience Rollouts-Support , um Anleitungen zur Integration mit Ihrem spezifischen Stack zu erhalten.
 
 ## Siehe auch {#see-also}
 

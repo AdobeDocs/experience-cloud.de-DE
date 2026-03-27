@@ -1,31 +1,25 @@
 ---
 title: Desktop-Programme
-description: Erfahren Sie, wie Sie Adobe Experience Rollouts mithilfe der Feature API V2 in ein Desktop-Programm integrieren.
-source-git-commit: b82520eebe0070b5f76e0f7daeb2bb79a4bccca0
+description: Erfahren Sie, wie Sie Adobe Experience Rollouts mithilfe von SDK in ein Desktop-Programm integrieren.
+exl-id: e26c8af8-893a-43f4-905c-7292cc887900
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 2%
+source-wordcount: '73'
+ht-degree: 5%
 
 ---
 
-
 # Desktop-Programme {#desktop-applications}
 
-Desktop-Programme lassen sich durch direkte REST-API-Aufrufe in Experience Rollouts integrieren. Verwenden Sie die **Feature API V2** für Desktop-Clients.
+Desktop-Programme lassen sich über die SDK mit Experience Rollouts integrieren. Wenden Sie sich an den Adobe-Support, um spezifische Integrationsanleitungen für Ihren Desktop-Stack zu erhalten.
 
-Siehe **GET Feature API V2** im Abschnitt Funktions-API dieses Handbuchs für die vollständige API-Referenz.
-
-## Integrationsanforderungen {#requirements}
-
-Desktop-Clients müssen:
-
-* **Berücksichtigen Sie den TTL** Wert, der in der API-Antwort zurückgegeben wird. Die TTL definiert, wie lange der Client Feature Flag-Daten zwischenspeichern soll, bevor er die API erneut aufruft. Implementieren Sie einen Testfall, der dieses Verhalten überprüft, um sicherzustellen, dass ältere Anwendungsversionen korrekt in den Ruhezustand übergehen, wenn keine Feature Flags bereitgestellt werden.
-* **Handhabung von HTTP-Fehlerszenarien**. Erstellen Sie einen Fallback-Funktionssatz, damit die Anwendung funktionsfähig bleibt, wenn die API vorübergehend nicht verfügbar ist.
-* **Führen Sie einen detaillierten Integrationstestplan durch** der sowohl die oben genannten TTL- als auch die Fehlerbehandlungsanforderungen abdeckt.
+>[!NOTE]
+>
+>Die Desktop-Dokumentation zu SDK wird derzeit vorbereitet und wird in Kürze verfügbar sein.
 
 ## Anwendungs-ID {#app-id}
 
-Desktop-Clients können beim Aufrufen der API anstelle **standardmäßigen Client-ID einen** Produkt-Code und eine Produktversion) als Anwendungs-ID verwenden.
+Desktop-Clients können einen **Produkt-Code und eine Produktversion** als Anwendungskennung verwenden.
 
 ## Siehe auch {#see-also}
 

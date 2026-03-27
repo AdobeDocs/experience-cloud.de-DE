@@ -1,13 +1,13 @@
 ---
 title: Integrationsschritte
-description: Befolgen Sie die Integrationsschritte für Ihren Anwendungstyp, um Adobe Experience Rollouts mit Ihrem Webservice, Web- oder Mobile App oder Desktop-Programm zu verbinden.
-source-git-commit: b82520eebe0070b5f76e0f7daeb2bb79a4bccca0
+description: Befolgen Sie die Integrationsschritte für Ihren Anwendungstyp, um Adobe Experience Rollouts mithilfe der verfügbaren SDKs mit Ihrem Webservice, Ihrer Web- oder Mobile App oder Ihrer Desktop-Anwendung zu verbinden.
+exl-id: d584bdf4-9031-40e7-a7f0-807c619bbba1
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 3%
+source-wordcount: '175'
+ht-degree: 4%
 
 ---
-
 
 # Integrationsschritte {#integration-steps}
 
@@ -27,23 +27,23 @@ Befolgen Sie [Node.js-SDK-Integrationshandbuch](../sdk-releases/nodejs/nodejs-sd
 
 **Andere Sprachen**
 
-Wenn Ihr Stack oben nicht aufgeführt ist, integrieren Sie ihn direkt in **Feature API V3** (siehe den Abschnitt zur Feature API dieses Handbuchs). Wenden Sie sich an den Support bei Experience Rollouts , wenn Sie Anleitung benötigen.
+Wenden Sie sich an den Experience Rollouts-Support , um Anleitungen zu Ihrem spezifischen Stack zu erhalten.
 
 ## Web und mobile Anwendungen {#web-mobile}
 
-Web- und mobile Anwendungen rufen die **Feature API V3** auf, um Feature Flags für den aktuellen Benutzer abzurufen und bedingte Logik in der Anwendung anzuwenden.
+Web- und Mobile Apps können über die Web-SDK bzw. die Mobile SDK integriert werden.
 
-Siehe **GET Feature API V3** im Abschnitt Funktions-API dieses Handbuchs für die vollständige API-Referenz.
+>[!NOTE]
+>
+>Die Dokumentation zu Web SDK und Mobile SDK wird derzeit vorbereitet und wird in Kürze verfügbar sein. Wenden Sie sich an Ihren Adobe-Support-Mitarbeiter, um frühzeitig Zugang zu erhalten.
 
 ## Desktop-Programme {#desktop}
 
-Desktop-Programme rufen die **Feature API V2** auf, um Feature Flags abzurufen.
+Über die SDK integrierte Desktop-Programme. Wenden Sie sich an den Adobe-Support, um spezifische Integrationsanleitungen für Ihren Desktop-Stack zu erhalten.
 
-Siehe **GET Feature API V2** im Abschnitt Funktions-API dieses Handbuchs für die vollständige API-Referenz.
-
->[!IMPORTANT]
+>[!NOTE]
 >
->Desktop-Clients müssen den TTL-Wert in der API-Antwort berücksichtigen und eine elegante Fehlerbehandlung für die Nichtverfügbarkeit der API implementieren. Siehe [Desktop-Programme](desktop-applications.md) für die Anforderungen.
+>Die Desktop-Dokumentation zu SDK wird derzeit vorbereitet und wird in Kürze verfügbar sein.
 
 ## Siehe auch {#see-also}
 

@@ -1,13 +1,13 @@
 ---
 title: SDKs
 description: Erfahren Sie mehr über die SDK-Architektur in Adobe Experience Rollouts und die verfügbaren SDKs für Java und Node.js.
-source-git-commit: b82520eebe0070b5f76e0f7daeb2bb79a4bccca0
+exl-id: 110a440d-b52a-4e1e-a94f-86f9741a223a
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '312'
 ht-degree: 2%
 
 ---
-
 
 # SDKs {#sdks}
 
@@ -41,22 +41,13 @@ Wichtige Spezifikationen für die Java-SDK:
 * **Unterstütztes JDK:** JDK 8 und höher
 * **Nicht zwischenspeicherbare Clients:** Wird ab SDK-Version 0.8 unterstützt. Bei nicht zwischenspeicherbaren Clients führt `getFeature()` einen Live-API-Aufruf durch, anstatt aus dem Cache zu lesen. Die SDK fragt im Hintergrund weiter ab und wechselt zur Cache-basierten Bereitstellung, wenn der Client zwischenspeicherbar wird.
 
-Anweisungen zum Einrichten finden [&#x200B; im Java](../sdk-releases/java/java-sdk-integration-guide.md)Handbuch zur SDK-Integration.
+Anweisungen zum Einrichten finden [ im Java](../sdk-releases/java/java-sdk-integration-guide.md)Handbuch zur SDK-Integration.
 
 ### Node.js-SDK {#nodejs-sdk}
 
 Die Node.js-SDK wird über npm verteilt.
 
-Anweisungen zum Einrichten finden [&#x200B; im Handbuch &#x200B;](../sdk-releases/nodejs/nodejs-sdk-integration-guide.md)Node.js-SDK-Integration“.
-
-## Auswählen zwischen SDK und REST-API {#sdk-vs-api}
-
-| Szenario | Empfehlung |
-|---|---|
-| Backend-Java- oder Node.js-Service | Verwenden des entsprechenden SDK für automatisches Caching und vereinfachte Integration |
-| Andere Backend-Sprache | Direktes Verwenden der Feature API V3 - siehe den Abschnitt zur Feature API dieses Handbuchs |
-| Web oder Mobile App | Direktes Verwenden der Feature API V3 - siehe den Abschnitt zur Feature API dieses Handbuchs |
-| Desktop-Programm | Direktes Verwenden der Feature API V2 - siehe den Abschnitt zur Feature API dieses Handbuchs |
+Anweisungen zum Einrichten finden [ im Handbuch ](../sdk-releases/nodejs/nodejs-sdk-integration-guide.md)Node.js-SDK-Integration“.
 
 ## Siehe auch {#see-also}
 

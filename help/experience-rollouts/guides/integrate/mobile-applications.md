@@ -1,19 +1,21 @@
 ---
 title: Apps
-description: Erfahren Sie, wie Sie Adobe Experience Rollouts mithilfe der Feature API V3 in eine Mobile App integrieren.
-source-git-commit: b82520eebe0070b5f76e0f7daeb2bb79a4bccca0
+description: Erfahren Sie, wie Sie Adobe Experience Rollouts mithilfe von Mobile SDK in eine Mobile App integrieren.
+exl-id: 27a43994-25e7-4a2c-b01c-ae98d089413d
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 6%
+source-wordcount: '68'
+ht-degree: 8%
 
 ---
 
-
 # Apps {#mobile-applications}
 
-Mobile Apps integrieren sich in Experience Rollouts, indem sie die **Feature API V3** aufrufen, um Feature Flags abzurufen und bedingte Logik in Ihrem Programm-Code anzuwenden.
+Mobile Apps können über die mobile SDK in Experience Rollouts integriert werden.
 
-Siehe **GET Feature API V3** im Abschnitt Funktions-API dieses Handbuchs für die vollständige API-Referenz, einschließlich Anfrageparameter, Antwortformat und Beispielaufrufen.
+>[!NOTE]
+>
+>Die Dokumentation zu Mobile SDK wird derzeit vorbereitet und wird in Kürze verfügbar sein. Wenden Sie sich an Ihren Adobe-Support-Mitarbeiter, um frühzeitig Zugang zu erhalten.
 
 ## Integrationsschritte {#integration-steps}
 

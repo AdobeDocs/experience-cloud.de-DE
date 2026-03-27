@@ -1,13 +1,13 @@
 ---
 title: Node.js-Integrationshandbuch für SDK
 description: Erfahren Sie, wie Sie die Node.js-SDK zu Experience Rollouts in Ihren Backend-Service integrieren, um Feature Flags abzurufen und zu bewerten.
-source-git-commit: 9bfe0e55e89c1d7fbd77cde63831a6a186820e24
+exl-id: 063829fe-6933-45ff-add4-285ca7391778
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '261'
 ht-degree: 2%
 
 ---
-
 
 # Node.js-Integrationshandbuch für SDK {#nodejs-sdk-integration-guide}
 
@@ -15,14 +15,14 @@ Die Node.js-SDK in Experience Rollouts ist eine Server-seitige Bibliothek für N
 
 >[!NOTE]
 >
->Die Node.js-SDK ist nur für die Server-seitige Verwendung konzipiert. Rufen Sie bei Client-seitigen Web-Anwendungen den REST-Endpunkt der Feature API V3 direkt auf.
+>Die Node.js-SDK ist nur für die Server-seitige Verwendung konzipiert. Verwenden Sie für Client-seitige Web-Anwendungen die Web-SDK. Die Web SDK-Dokumentation wird derzeit vorbereitet und wird in Kürze verfügbar sein.
 
 ## Voraussetzungen {#prerequisites}
 
 Stellen Sie vor der Integration von Node.js in SDK Folgendes sicher:
 
 * Eine Server-seitige Node.js-Anwendung
-* Ein **API-Schlüssel** und **Service-Token** die über Adobe Developer Console abgerufen wurden - siehe [API-Anwendung abonnieren](../../integrate/subscribe-to-api-application.md)
+* Ein **API-Schlüssel** und **Service-Token** die über Adobe Developer Console abgerufen wurden - wenden Sie sich an den Experience Rollouts-Support, um Ihre Client-ID auf die Zulassungsliste setzen
 * Ihre **Anwendungs-Client** IDs) wurden in der Konsole „Experience Rollouts“ registriert. Siehe [Onboarden Ihrer Anwendung](../../applications/onboard-your-application.md)
 
 ## Installieren des SDK {#install}
@@ -160,5 +160,4 @@ floodgateClient.createInstance(
 
 * [Versionshinweise zu Node.js SDK](nodejs-sdk-release-notes.md)
 * [SDKs](../../integrate/sdks.md)
-* [Abonnieren des API-Programms](../../integrate/subscribe-to-api-application.md)
 * [Integrationsschritte](../../integrate/integration-steps.md)

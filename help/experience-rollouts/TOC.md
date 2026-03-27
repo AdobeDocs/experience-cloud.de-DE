@@ -2,10 +2,10 @@
 audience: user
 user-guide-title: Adobe Experience Rollouts
 user-guide-description: Erfahren Sie, wie Sie mit Adobe Experience Rollouts Feature Flags, kontrollierte Rollouts und zielgerichtete Versionen in Ihren Programmen verwalten können.
-source-git-commit: c654ca1507abcefcff84cef9f99830042939805d
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 6%
+source-wordcount: '242'
+ht-degree: 8%
 
 ---
 
@@ -41,7 +41,6 @@ ht-degree: 6%
       + [Web-Dienste](guides/integrate/web-services.md)
       + [SDKs](guides/integrate/sdks.md)
       + [Integrationsschritte](guides/integrate/integration-steps.md)
-      + [Abonnieren der API-Anwendung in Adobe Developer Console](guides/integrate/subscribe-to-api-application.md)
    + Feature Flags {#feature-flags}
       + [Funktionen und Funktionsgruppen](guides/feature-flags/features-feature-groups-releases.md)
       + [Erstellen des ersten Feature Flags](guides/feature-flags/create-your-first-feature-flag.md)
@@ -76,14 +75,3 @@ ht-degree: 6%
          + [Node.js-Integrationshandbuch für SDK](guides/sdk-releases/nodejs/nodejs-sdk-integration-guide.md)
          + [Versionshinweise zu Node.js SDK](guides/sdk-releases/nodejs/nodejs-sdk-release-notes.md)
       + [SDK-Benchmarking](guides/sdk-releases/java-sdk-benchmarking.md)
-+ Feature API {#feature-api}
-   + [GET Feature API v3](feature-api/get-feature-api-v3.md)
-   + [GET Feature API v2](feature-api/get-feature-api-v2.md)
-+ Verwaltungs-API {#management-api}
-   + [Übersicht über Feature Management-APIs](management-api/feature-management-apis-overview.md)
-   + [Feature Flags Management-API](management-api/feature-flags-management-api.md)
-   + [Feature Group Management-API](management-api/feature-group-management-api.md)
-   + [Versionsverwaltungs-APIs](management-api/release-management-apis.md)
-   + [Client-ID für ein Programm abrufen](management-api/get-client-id.md)
-   + [Abrufen der gewünschten Zielgruppenkriterien](management-api/get-audience-criteria.md)
-   + [Verwaltungs-Patch-API](management-api/management-patch-api.md)

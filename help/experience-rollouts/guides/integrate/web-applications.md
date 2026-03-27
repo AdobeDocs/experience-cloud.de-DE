@@ -1,19 +1,21 @@
 ---
 title: Web-Anwendungen
-description: Erfahren Sie, wie Sie Adobe Experience Rollouts mithilfe der Feature API V3 in eine Web-Anwendung integrieren.
-source-git-commit: b82520eebe0070b5f76e0f7daeb2bb79a4bccca0
+description: Erfahren Sie, wie Sie Adobe Experience Rollouts mithilfe der Web-SDK in eine Web-Anwendung integrieren.
+exl-id: 9b5d744a-263d-4b10-8745-2891f111519f
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 6%
+source-wordcount: '68'
+ht-degree: 8%
 
 ---
 
-
 # Web-Anwendungen {#web-applications}
 
-Web-Anwendungen können mit Experience Rollouts integriert werden, indem die **Feature API V3** aufgerufen wird, um Feature Flags abzurufen und bedingte Logik im Anwendungs-Code hinter ihnen zu platzieren.
+Web-Anwendungen können über die Web-SDK mit Experience Rollouts integriert werden.
 
-Siehe **GET Feature API V3** im Abschnitt Funktions-API dieses Handbuchs für die vollständige API-Referenz, einschließlich Anfrageparameter, Antwortformat und Beispielaufrufen.
+>[!NOTE]
+>
+>Die Web SDK-Dokumentation wird derzeit vorbereitet und wird in Kürze verfügbar sein. Wenden Sie sich an Ihren Adobe-Support-Mitarbeiter, um frühzeitig Zugang zu erhalten.
 
 ## Integrationsschritte {#integration-steps}
 
