@@ -8,7 +8,7 @@ role: Developer
 level: Experienced
 badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 exl-id: 58ec0999-b28a-4198-8d57-729b074c6a6d
-source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
+source-git-commit: 6baa9bef7eae1ab8ffe9ecd426c6ba4580e8c9d7
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 96%
@@ -28,7 +28,7 @@ In der Antwort werden die Hauptmetadaten der Ressource zurückgegeben (alle ande
    * &quot;apiName&quot;: Name des Attributs, das in den APIs verwendet wird.
    * &quot;type&quot;: Dies ist die übergeordnete Typdefinition (Zeichenfolge, Zahl, Link, Sammlung, Aufzählung...).
    * &quot;dataPolicy&quot;: Der Wert des Felds muss den angegebenen Regeln entsprechen. Wenn die Regel &quot;dataPolicy&quot; beispielsweise auf &quot;email&quot; gesetzt ist, muss der Wert eine gültige E-Mail-Adresse sein. Während eines PATCH- oder POST-Vorgangs kann &quot;dataPolicy&quot; den Wert überprüfen oder den umzuwandelnden Wert ändern (z. B. smartCase).
-   * &quot;category&quot;: Gibt die Kategorie des Felds im Abfrageeditor an.
+   * &quot;category&quot;: Gibt die Kategorie des Felds im Abfrage-Editor an.
    * &quot;resType&quot;: Dies ist der technische Typ.
 
      Wenn &quot;type&quot; mit dem Wert &quot;link&quot; oder &quot;collection&quot; ausgefüllt wird, ist der resTarget-Wert der Name der Ressource, auf die der Link abzielt.
@@ -37,8 +37,10 @@ Wenn &quot;type&quot; mit dem Wert &quot;enumeration&quot; ausgefüllt wird, wir
 * Der Knoten **Filter** gibt die URL zum Abrufen der zugehörigen Filter zurück. Weiterführende Informationen zu Filtern finden Sie in [diesem Abschnitt](filtering.md).
 
 <!-- créer une section au même niveau sur les liens -->
-<!-- dans l'exemple: birthdate, email +  mettre 2 liens : un de type 1-1 , 1-N
-si on prend l'exemple de l'org unit, on aura un bon exemple lien -->
+<!-- 
+dans l'exemple: birthdate, email +  mettre 2 liens : un de type 1-1 , 1-N
+si on prend l'exemple de l'org unit, on aura un bon exemple lien 
+-->
 <!-- plus reparler du node Data -->
 
 <br/>

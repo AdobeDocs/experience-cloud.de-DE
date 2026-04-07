@@ -9,9 +9,9 @@ level: Experienced
 mini-toc-levels: 1
 badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 exl-id: 45acebb1-9325-4e26-8fe9-cc73f745d801
-source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
+source-git-commit: 6baa9bef7eae1ab8ffe9ecd426c6ba4580e8c9d7
 workflow-type: tm+mt
-source-wordcount: '1061'
+source-wordcount: '1066'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ In Campaign Standard wurde Ihnen erhöhte Administratorrolle Zugriff auf APIs ge
 
 Bei der Migration werden zwei Produktprofile zu Ihren vorhandenen oder vorab erstellten technischen Konten hinzugefügt: Administrator und Message Center (für den Zugriff auf Transaktions-APIs). Überprüfen Sie die Produktprofilzuordnung und weisen Sie das erforderliche Produktprofil zu, wenn Sie nicht möchten, dass das Admin-Produktprofil Ihrem technischen Konto zugeordnet wird.
 
-### Mandanten-ID
+### Mandantenkennung
 
 Nach der Migration wird für alle zukünftigen Integrationen empfohlen, Ihre **Campaign v8-Mandanten-ID** in REST-URLs zu verwenden und Ihre vorherige Campaign Standard-Mandanten-ID zu ersetzen.
 
@@ -129,10 +129,12 @@ Die Campaign Standard Workflow GET-API gibt Parameternamen wie die Workflow-Inst
 
 Campaign v8 unterstützt keine Advertising Workflow-Instanzvariablen, erwartet jedoch, dass die Entwickler wissen, was diese sind. Daher müssen Parameterinformationen im POST-Anfrageinhalt nach der Migration erstellt werden, ohne dass Parameterinformationen in der GET-API-Antwort verfügbar sind.
 
-<!--## Transactional messages
+<!--
+## Transactional messages
 
 * With Campaign Standard, a POST request returns empty fields for elements and attributes in the request body. With Campaign v8, the response returns values that match the ones in the request body instead.
 
 * When publishing an event configuration, the API preview panel displays the REST URL alongside the request body syntax.
 
-    Since Campaign v8 does not support event configuration fields definition (event creation is just adding a value to eventType enumeration), there is no API preview panel when adding an event type. The REST URL is displayed  in the transactional message user interface once an event transactional message is published.-->
+    Since Campaign v8 does not support event configuration fields definition (event creation is just adding a value to eventType enumeration), there is no API preview panel when adding an event type. The REST URL is displayed  in the transactional message user interface once an event transactional message is published.
+-->

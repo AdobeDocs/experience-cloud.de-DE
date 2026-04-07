@@ -3,10 +3,10 @@ title: Adobe Campaign-Web-Benutzeroberfläche
 description: 64-Bit-Tabellen
 badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 exl-id: ab5f01fd-4ad5-46e9-b132-011fe0f7bbd2
-source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
+source-git-commit: 6baa9bef7eae1ab8ffe9ecd426c6ba4580e8c9d7
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 18%
+source-wordcount: '175'
+ht-degree: 17%
 
 ---
 

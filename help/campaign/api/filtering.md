@@ -8,10 +8,10 @@ role: Developer
 level: Experienced
 badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 exl-id: cdb050b7-d327-42f7-b534-d32d988c8ffb
-source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
+source-git-commit: 6baa9bef7eae1ab8ffe9ecd426c6ba4580e8c9d7
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 97%
+source-wordcount: '452'
+ht-degree: 91%
 
 ---
 
@@ -133,7 +133,8 @@ Es ist möglich, mehrere Filter in einer einzigen Anfrage zu kombinieren:
   }
   ```
 
-* Beispielhafte GET-Anfrage zum Abrufen der &quot;Profil&quot;-Ressourcen, die in den Feldern &quot;E-Mail&quot; oder &quot;Nachname&quot; die Zeichenfolge &quot;Mustermann&quot; enthalten (der byText-Filter sucht sowohl in den Feldern &quot;E-Mail&quot; als auch &quot;Nachname&quot;).
+* Beispielhafte GET-Anfrage zum Abrufen der „Profil“-Ressourcen, die „Mustermann“ in enthalten
+die Felder „E-Mail“ oder „Nachname“ (der byText-Filter sucht sowohl in den Feldern „E-Mail“ als auch „Nachname„).
 
   ```
   -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile/byText?text=Doe \
@@ -243,7 +244,8 @@ Response to the request.
 
 <!-- exemple à vérifier de bout en bout-->
 
-<!--+category = query editor
+<!--
++category = query editor
 privacy ?
 displayFOrmat ?
 pour faire un POST sur une enum, il faut lui passer le @name décrit dans le noeud values, chaque @name a une correspondance en format = au format définit par le resType

@@ -1,24 +1,24 @@
 ---
 title: Release anfordern
 description: Erfahren Sie, wie Sie eine neue koordinierte Version in Adobe Experience Rollouts anfordern und welche Informationen bereitgestellt werden sollen.
-source-git-commit: d311efb995b20ffc17370d68d57dd84a8605896c
+exl-id: 8eee84b2-fbd5-4713-90ac-92fd7b74c163
+source-git-commit: f4c365e1a0e61ba3dec298dfa8ab0d9e74e1259a
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '255'
 ht-degree: 3%
 
 ---
-
 
 # Release anfordern {#request-a-release}
 
 ## Voraussetzungen {#prerequisites}
 
-* Sie haben die Rolle **Release-Manager** - siehe [Benutzerrollen](../teams/user-roles.md)
+* Sie haben die Rolle **Release-Manager** - siehe <!-- broken link[User roles](../teams/user-roles.md) -->
 * Ihr Programm wurde integriert - siehe [Onboarding Ihres Programms](../applications/onboard-your-application.md)
 
 >[!TIP]
 >
->Bevor Sie eine Version anfordern, überprüfen [Versionen und teamübergreifende Funktionsgruppen](releases-and-cross-team-feature-groups.md). Eine Team-übergreifende Funktionsgruppe kann Ihren Anforderungen mit weniger Aufwand gerecht werden - sie stellt sich selbst bereit und unterstützt eine umfassendere Zielgruppen-Zielgruppenbestimmung.
+>Bevor Sie eine Version anfordern, überprüfen Sie <!--[Releases and cross-team feature groups](releases-and-cross-team-feature-groups.md)-->. Eine Team-übergreifende Funktionsgruppe kann Ihren Anforderungen mit weniger Aufwand gerecht werden - sie stellt sich selbst bereit und unterstützt eine umfassendere Zielgruppen-Zielgruppenbestimmung.
 
 ## Senden einer Support-Anfrage {#submit}
 

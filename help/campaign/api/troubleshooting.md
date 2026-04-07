@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über häufige Probleme bei Campaign Standard-API
 role: Developer
 level: Experienced
 badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
-source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
+source-git-commit: 6baa9bef7eae1ab8ffe9ecd426c6ba4580e8c9d7
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 94%
+source-wordcount: '360'
+ht-degree: 97%
 
 ---
 
@@ -73,7 +73,7 @@ In der Antwort muss der Wert ORGANISATION_ID mit dem in Ihrer ersten GET-Anfrage
 }
 ```
 
-* **Bei einer Anfrage an Adobe.io erhalten Sie {„code“:500, „message“:„Oops. Da ist etwas schiefgelaufen. Überprüfen Sie Ihren URI und versuchen Sie es erneut.&quot;}**
+* **Wenn Sie eine Anfrage an Adobe.io richten, erhalten Sie Folgendes: {&quot;code&quot;:500, &quot;message&quot;:&quot;Oh. Da ist etwas schiefgelaufen. Überprüfen Sie Ihren URI und versuchen Sie es erneut.&quot;}**
 
 Adobe.io deklariert Ihren ungültigen URI: Der von Ihnen angefragte URI ist höchstwahrscheinlich ungültig. Wenn Sie in Adobe.io den Campaign-Dienst wählen, erhalten Sie eine Auswahl mit einer Liste möglicher Organisationskennungen. Sie müssen dafür sorgen, dass die von Ihnen gewählte Option mit der Eingabe in Ihrer URL übereinstimmt.
 
@@ -85,7 +85,8 @@ Entweder ist Ihr Token ungültig (unzulässiger IMS-Aufruf zum Generieren eines 
 
 Je nach Instanzkonfiguration muss das erstellte Profil einer **orgUnit** zugeordnet werden. Informationen zum Hinzufügen dieses Felds zu Ihrer Erstellung finden Sie in [diesem Abschnitt](creating-profiles-api.md).
 
-<!-- * (error duplicate key : quand tu crées un profile qui existe déjà , il faut faire un patch pour updater le profile plutôt qu'un POST)
+<!-- 
+* (error duplicate key : quand tu crées un profile qui existe déjà , il faut faire un patch pour updater le profile plutôt qu'un POST)
 
 With Curl
 List all profiles
