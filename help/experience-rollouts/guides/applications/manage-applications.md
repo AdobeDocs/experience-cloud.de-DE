@@ -19,7 +19,7 @@ Nur Mitglieder mit der Rolle **Admin** können Programme hinzufügen oder änder
 
 ## Hinzufügen einer Anwendung {#add-application}
 
-Eine schrittweise Anleitung zum Hinzufügen einer Anwendung finden [ unter ](onboard-your-application.md)Onboarden einer Anwendung“.
+Eine schrittweise Anleitung zum Hinzufügen einer Anwendung finden [&#x200B; unter &#x200B;](onboard-your-application.md)Onboarden einer Anwendung“.
 
 ## Siehe auch {#see-also}
 

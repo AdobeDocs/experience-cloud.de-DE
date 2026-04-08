@@ -106,7 +106,7 @@ dependencies {
 
 >[!IMPORTANT]
 >
->Für Produktionsanwendungen empfiehlt Adobe die Verwendung expliziter Versionsnummern anstelle von dynamischen Versionen. Weitere Informationen finden [ unter „Verwalten ](https://docs.gradle.org/current/userguide/dependency_management.html) Gradle-Abhängigkeiten“.
+>Für Produktionsanwendungen empfiehlt Adobe die Verwendung expliziter Versionsnummern anstelle von dynamischen Versionen. Weitere Informationen finden [&#x200B; unter „Verwalten &#x200B;](https://docs.gradle.org/current/userguide/dependency_management.html) Gradle-Abhängigkeiten“.
 
 ### Hinzufügen von Berechtigungen {#add-permissions}
 

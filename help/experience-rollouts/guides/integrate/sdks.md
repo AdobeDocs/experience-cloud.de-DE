@@ -28,7 +28,7 @@ Alle Experience Rollouts-SDKs verwenden dieselbe Kernarchitektur:
 
 Die Experience Rollout-Erweiterung für Android ist mit Adobe Experience Platform Mobile SDK integriert.
 
-Einrichtungsanweisungen finden Sie im Handbuch zur Integration ](../sdk-releases/android/android-extension-integration-guide.md) Android-Erweiterungen [.
+Einrichtungsanweisungen finden Sie im Handbuch zur Integration [&#128279;](../sdk-releases/android/android-extension-integration-guide.md) Android-Erweiterungen .
 
 >[!NOTE]
 >

@@ -43,4 +43,4 @@ Eine Feature Flag in Experience Rollouts folgt diesem typischen Lebenszyklus:
 
 1. Ein Entwickler erstellt ein Feature Flag und testet es isoliert, ohne es für andere Benutzer verfügbar zu machen.
 2. Ein Produkteigentümer verknüpft eine Zielgruppe mit der Markierung, wodurch die Funktion für eine definierte Gruppe externer Benutzer sichtbar wird.
-3. Das Flag wird optional einer [Funktionsgruppe“ hinzugefügt, ](feature-groups-to-control-multiple-features.md) es zusammen mit zugehörigen Flags verwaltet werden soll.
+3. Das Flag wird optional einer [Funktionsgruppe“ hinzugefügt, &#x200B;](feature-groups-to-control-multiple-features.md) es zusammen mit zugehörigen Flags verwaltet werden soll.
