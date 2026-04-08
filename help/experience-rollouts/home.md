@@ -2,9 +2,9 @@
 title: Adobe Experience Rollouts
 description: Erfahren Sie, wie Sie mit Adobe Experience Rollouts Funktionen sicher und schrittweise mit kontrollierten Rollouts, Feature Flags und zielgerichteter Zielgruppenverwaltung bereitstellen können.
 exl-id: c400d75d-d928-4cf6-a094-1a2f443389f0
-source-git-commit: 4a3133f014a9bb9d6ed26eb9d9f763db79ce63b3
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '325'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Mit den Rollouts bei Adobe Experience Platform können Produkt-Teams neue Funkti
 
 **Verringern des Versionsrisikos.** Unterteilen Sie große Änderungen in kleinere, kontrollierte Rollouts. Wenn ein Fehler oder ein Leistungsproblem auftritt, deaktivieren Sie nur die betroffene Funktion - der Rest Ihrer Anwendung bleibt stabil.
 
-**Koordinieren über Teams hinweg.** Team-übergreifende Funktionsgruppen ermöglichen es mehreren Teams, an einer einzigen koordinierten Version teilzunehmen, wobei jedes seine eigenen Funktions-Flags verwaltet und einen gemeinsamen Rollout-Zeitplan und eine gemeinsame Zielgruppe hat.
+**Koordinieren über Anwendungen hinweg.** Mit Funktionsgruppen können Sie mehrere Funktions-Flags zusammen verwalten, sodass eine gemeinsame Rollout-Zielgruppe über mehrere Anwendungen hinweg verwendet werden kann.
 
 ## Onboarding der ersten Funktion
 
@@ -37,4 +37,4 @@ Sobald Ihre erste Markierung live ist, können Sie ihre Zielgruppe verfeinern, e
 
 ## Benötigen Sie Hilfe?
 
-Wenn sich etwas nicht wie erwartet verhält, werden im [Handbuch zur Fehlerbehebung](guides/support/troubleshooting.md) die häufigsten Probleme behandelt. Für alles andere ([&#x200B; den Support](guides/support/contact-support.md).
+Wenn sich etwas nicht wie erwartet verhält, wenden Sie sich an den Adobe-Support.

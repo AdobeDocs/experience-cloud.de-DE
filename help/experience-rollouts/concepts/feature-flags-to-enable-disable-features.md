@@ -1,13 +1,13 @@
 ---
 title: Feature Flags zum Aktivieren und Deaktivieren von Features
 description: Erfahren Sie, wie Sie mit Funktions-Flags in Erlebnis-Rollouts die Funktionsverfügbarkeit steuern, Abhängigkeiten verwalten und das Bereitstellungsrisiko reduzieren können.
-source-git-commit: 1c8fd9b42d08f657b4e6b16efae86faa04d15565
+exl-id: 627775e8-9b17-4bc7-9565-07a438ae8ed7
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
-
 
 # Feature Flags zum Aktivieren und Deaktivieren von Features {#feature-flags}
 
@@ -43,5 +43,4 @@ Eine Feature Flag in Experience Rollouts folgt diesem typischen Lebenszyklus:
 
 1. Ein Entwickler erstellt ein Feature Flag und testet es isoliert, ohne es für andere Benutzer verfügbar zu machen.
 2. Ein Produkteigentümer verknüpft eine Zielgruppe mit der Markierung, wodurch die Funktion für eine definierte Gruppe externer Benutzer sichtbar wird.
-3. Das Flag wird optional einer [Funktionsgruppe“ hinzugefügt, &#x200B;](feature-groups-to-control-multiple-features.md) es zusammen mit zugehörigen Flags verwaltet werden soll.
-4. Die Markierung wird optional zu einer [Version) hinzugefügt](release-management.md) um eine teamübergreifende Koordinierung zu ermöglichen.
+3. Das Flag wird optional einer [Funktionsgruppe“ hinzugefügt, ](feature-groups-to-control-multiple-features.md) es zusammen mit zugehörigen Flags verwaltet werden soll.

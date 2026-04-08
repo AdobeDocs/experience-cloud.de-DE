@@ -2,9 +2,9 @@
 audience: user
 user-guide-title: Adobe Experience Rollouts
 user-guide-description: Erfahren Sie, wie Sie mit Adobe Experience Rollouts Feature Flags, kontrollierte Rollouts und zielgerichtete Versionen in Ihren Programmen verwalten können.
-source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '180'
 ht-degree: 8%
 
 ---
@@ -21,8 +21,6 @@ ht-degree: 8%
    + [Was ist ein Feature Flag?](concepts/what-is-a-feature-flag.md)
    + [Feature Flags zum Aktivieren und Deaktivieren von Features](concepts/feature-flags-to-enable-disable-features.md)
    + [Funktionsgruppen zur Steuerung mehrerer Funktionen](concepts/feature-groups-to-control-multiple-features.md)
-   + [Konzept der Versionsverwaltung](concepts/concept-of-release-management.md)
-   + [Versionsverwaltung in Experience Rollouts](concepts/release-management.md)
    + [Schrittweiser Rollout](concepts/gradual-rollout.md)
 + Handbücher {#guides}
    + Erste Schritte mit der Konsole {#console}
@@ -48,30 +46,14 @@ ht-degree: 8%
       + [Erstellen einer Funktionsgruppe](guides/feature-flags/create-a-feature-group.md)
       + [Festlegen einer Funktionsgruppe für das schrittweise Rollout](guides/feature-flags/set-feature-group-gradual-rollout.md)
       + [A/B-Tests mit Feature Flags](guides/feature-flags/a-b-testing.md)
-      + [Häufig gestellte Fragen zur Versionsverwaltung](guides/feature-flags/release-management-faqs.md)
       + [Analytics](guides/feature-flags/analytics.md)
-      + [Zeitplan](guides/feature-flags/schedule.md)
    + Zielgruppenkriterien {#audience}
       + [Zielgruppe in Feature Flags und Feature Groups](guides/audience/audience-in-feature-flags-and-feature-groups.md)
       + [Verwenden des Kontexts in Zielgruppenregeln](guides/audience/using-context-in-audience-rules.md)
       + [Komplexe Zielgruppenregeln](guides/audience/complex-rules.md)
-      + [Verwenden von Unternehmensgruppendaten in Zielgruppenregeln](guides/audience/using-enterprise-org-data.md)
       + [Hinzufügen von Prozentregeln in Zielgruppenkriterien](guides/audience/adding-percentage-rules.md)
-      + [Zielgruppenregel mit Client-IP-Kontextvariable](guides/audience/clientip-rule.md)
-   + Umgebungsübergreifende Workflows {#cross-environment}
-      + [Umweltübergreifendes Konzept](guides/cross-environment/cross-environment-concept.md)
-      + [Zuordnen von Umgebungen zu einer Anwendung](guides/cross-environment/associate-environments.md)
-      + [Anzeigen von Funktions-Flags in Umgebungen](guides/cross-environment/view-feature-flags-across-environments.md)
+   + Feature Flags importieren {#import}
       + [Feature Flags importieren](guides/cross-environment/import-feature-flags.md)
-   + Support {#support}
-      + [Fehlerbehebung](guides/support/troubleshooting.md)
-      + [Support erhalten](guides/support/get-support.md)
-      + [Support kontaktieren](guides/support/contact-support.md)
    + SDK-Versionen {#sdk-releases}
-      + Java-SDK {#java-sdk}
-         + [Java SDK-Integrationshandbuch](guides/sdk-releases/java/java-sdk-integration-guide.md)
-         + [Java SDK - Versionshinweise](guides/sdk-releases/java/java-sdk-release-notes.md)
-      + Node.js-SDK {#nodejs-sdk}
-         + [Node.js-Integrationshandbuch für SDK](guides/sdk-releases/nodejs/nodejs-sdk-integration-guide.md)
-         + [Versionshinweise zu Node.js SDK](guides/sdk-releases/nodejs/nodejs-sdk-release-notes.md)
-      + [SDK-Benchmarking](guides/sdk-releases/java-sdk-benchmarking.md)
+      + Android-Erweiterung {#android-extension}
+         + [Handbuch zur Integration von Android-Erweiterungen](guides/sdk-releases/android/android-extension-integration-guide.md)

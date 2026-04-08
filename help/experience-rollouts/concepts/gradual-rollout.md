@@ -1,13 +1,13 @@
 ---
 title: Schrittweiser Rollout
 description: Erfahren Sie, wie Sie durch schrittweise Rollouts in Erlebnis-Rollouts die Funktionsbereitstellung sicher, mit Echtzeit-Feedback und minimalem Risiko in die Produktion einstufen können.
-source-git-commit: 1c8fd9b42d08f657b4e6b16efae86faa04d15565
+exl-id: ede24236-de19-4008-893c-e67bd82e23e3
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 2%
 
 ---
-
 
 # Schrittweiser Rollout {#gradual-rollout}
 
@@ -21,7 +21,7 @@ Indem Sie Inhalte zuerst für eine kleine Zielgruppe freigeben, können Sie Feed
 **Backend-Lastverwaltung**
 Das gleichzeitige Öffnen einer Funktion für alle Benutzer kann zu plötzlichen Spitzen bei der Server-Auslastung führen. Ein schrittweiser Rollout verteilt den Anstieg des Traffics über die Zeit und ermöglicht so eine reibungslose Skalierung der Infrastruktur.
 
-**Echtzeit-Feedback**
+**Echtzeitfeedback**
 Jede Phase des Rollouts zeigt das Feedback echter Benutzer. Teams können vor der nächsten Phase auf dieses Feedback reagieren - das Erlebnis verfeinern, Sonderfälle beheben oder das Messaging anpassen.
 
 ## Funktionsweise {#how-it-works}
@@ -38,4 +38,3 @@ Bei jedem Schritt kann eine einzelne Aktion den Rollout anhalten oder die Funkti
 ## Siehe auch {#see-also}
 
 * [Feature Flags zum Aktivieren und Deaktivieren von Features](feature-flags-to-enable-disable-features.md)
-* [Versionsverwaltung](release-management.md)

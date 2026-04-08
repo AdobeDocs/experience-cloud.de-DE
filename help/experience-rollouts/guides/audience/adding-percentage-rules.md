@@ -1,13 +1,13 @@
 ---
 title: Hinzufügen von Prozentregeln in Zielgruppenkriterien
 description: Erfahren Sie, wie Sie in Adobe Experience Rollouts prozentualbasierte Regeln innerhalb von Zielgruppenkriterien hinzufügen, um verschiedene Rollout-Prozentsätze für verschiedene Zielgruppensegmente auszuwählen.
-source-git-commit: ae420329b94b24fcd173734b414aecf1c5fc16ca
+exl-id: 15a3c26f-31fc-4e73-aa0e-035dcbe7d770
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
-
 
 # Hinzufügen von Prozentregeln in Zielgruppenkriterien {#adding-percentage-rules}
 
@@ -20,7 +20,7 @@ Einige Rollout-Szenarien erfordern jedoch unterschiedliche Prozentsätze für ve
 * 100 % der Benutzer in Großbritannien und 50 % der Benutzer in den USA
 * Alle Benutzer einer importierten E-Mail-Liste plus 50 % der Benutzer aus einem bestimmten Land
 
-Verwenden Sie in diesen Fällen die **Prozentsatz**-Regel im Profilabschnitt der Registerkarte **Zielgruppe** in Kombination mit verschachtelter Logik.
+Verwenden Sie in diesen Fällen die **Percentage**-Regel im Kontextabschnitt der Registerkarte **Audience** in Kombination mit verschachtelter Logik.
 
 >[!TIP]
 >
@@ -28,10 +28,10 @@ Verwenden Sie in diesen Fällen die **Prozentsatz**-Regel im Profilabschnitt der
 
 ## Hinzufügen einer Prozentregel {#how-to-add}
 
-Die **Prozentsatz**-Option ist in der Regel im Abschnitt Profil der Registerkarte Zielgruppe verfügbar.
+Die **Prozentsatz**-Option ist in der Regel im Kontextabschnitt der Registerkarte Zielgruppe verfügbar.
 
 1. Navigieren Sie zur **Zielgruppe** Ihrer Feature Flag oder Feature Group.
-2. Fügen **unter &quot;**&quot; eine **Prozentsatz**-Regel hinzu und legen Sie den gewünschten Wert fest.
+2. Fügen **unter** Zielgruppe“ eine Regel **Kontextprozentsatz“** und legen Sie den gewünschten Wert fest.
 3. Fügen Sie alle weiteren erforderlichen Zielgruppenbedingungen hinzu (z. B. eine Länderregel).
 
 ## Kombinieren von Prozentregeln mit verschachtelter Logik {#nested-logic}

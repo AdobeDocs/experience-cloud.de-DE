@@ -2,10 +2,10 @@
 title: Web-Dienste
 description: Erfahren Sie, wie Sie Adobe Experience Rollouts mithilfe der Java- oder Node.js-SDK in einen Backend-Webservice integrieren.
 exl-id: 2e73fc30-93d4-46dc-8855-950dd1b15064
-source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 12%
+source-wordcount: '85'
+ht-degree: 10%
 
 ---
 
@@ -15,14 +15,13 @@ Backend-Services können mithilfe einer Server-seitigen SDK in Experience Rollou
 
 ## Verfügbare SDKs {#available-sdks}
 
-| Sprache | Integrationshandbuch | Versionshinweise |
-|---|---|---|
-| **Java** | [Handbuch zur Integration von Java SDK](../sdk-releases/java/java-sdk-integration-guide.md) | [Versionshinweise zu Java SDK](../sdk-releases/java/java-sdk-release-notes.md) |
-| **Node.js** | [Handbuch zur SDK-Integration von Node.js](../sdk-releases/nodejs/nodejs-sdk-integration-guide.md) | [Versionshinweise zu Node.js SDK](../sdk-releases/nodejs/nodejs-sdk-release-notes.md) |
+>[!NOTE]
+>
+>Die Server-seitige SDK-Dokumentation wird derzeit vorbereitet und wird in Kürze verfügbar sein. Wenden Sie sich an Ihren Adobe-Support-Mitarbeiter, um frühzeitig Zugang zu erhalten.
 
 ## Other languages {#other-languages}
 
-Wenn Ihr Backend-Service eine Sprache verwendet, die oben nicht aufgeführt ist, wenden Sie sich an den Experience Rollouts-Support , um Anleitungen zur Integration mit Ihrem spezifischen Stack zu erhalten.
+Wenden Sie sich an den Experience Rollouts-Support , um Anleitungen zur Integration mit Ihrem spezifischen Stack zu erhalten.
 
 ## Siehe auch {#see-also}
 

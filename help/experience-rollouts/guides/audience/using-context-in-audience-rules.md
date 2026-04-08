@@ -1,25 +1,23 @@
 ---
 title: Verwenden des Kontexts in Zielgruppenregeln
 description: Erfahren Sie, wie Sie Kontextvariablen in Zielgruppenregeln für Feature Flags und Feature Groups in Adobe Experience Rollouts verwenden.
-source-git-commit: 3f3f7145b3c58dc721cbeb850e9e8571e3255bb1
+exl-id: 0367f475-9209-4d53-86b4-a739a73a23a7
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
-
 # Verwenden des Kontexts in Zielgruppenregeln {#context-in-audience-rules}
 
-Kontextvariablen sind Werte, die von der Client-Anwendung zur Laufzeit bereitgestellt werden. Sie ermöglichen es Ihnen, Benutzende auf der Grundlage dynamischer Informationen auf Sitzungsebene anzusprechen, wie z. B. die aktive Sprache des Benutzers, der Gerätetyp oder der Anwendungsstatus - Kriterien, die nicht Teil des persistenten Profils des Benutzers sind.
+Kontextvariablen sind Werte, die von der Client-Anwendung zur Laufzeit bereitgestellt werden. Sie ermöglichen es Ihnen, Benutzende auf der Grundlage dynamischer Informationen auf Sitzungsebene anzusprechen, wie z. B. die aktive Sprache des Benutzers, der Gerätetyp oder der Anwendungsstatus.
 
-Kontextvariablen sind für Web-, Desktop- und Mobile-Clients relevant.
+Kontextvariablen sind für Web- und Mobile-Clients relevant.
 
 ## Funktionsweise von Kontextvariablen {#how-context-works}
 
 Ihre Anwendung übergibt Kontextvariablen an Erlebnis-Rollouts bei der Auswertung eines Feature Flags. Sie definieren in der Konsole Regeln, die diese Werte überprüfen, und die Plattform verwendet sie zum Zeitpunkt der Auswertung, um festzustellen, ob der Benutzer qualifiziert ist.
-
-Wenn Sie Bedingungen sowohl in den Abschnitten **Profil** als auch **Kontext** der Zielgruppenregeln definieren, werden alle Profilbedingungen mithilfe der Logik UND mit allen Kontextbedingungen kombiniert.
 
 ## Kontextvariablentypen {#variable-types}
 
@@ -52,12 +50,7 @@ So fügen Sie einer Zielgruppenregel eine Kontextvariable hinzu:
 
 Wenn die benötigte Kontextvariable nicht in der Liste angezeigt wird, können Sie im Abschnitt zur Verwaltung von Kontextvariablen der Konsole auf Self-Service-Weise eine neue Variable erstellen.
 
->[!NOTE]
->
->Wenn Kontextvariablen in Zielgruppenkriterien enthalten sind, gibt der **Zielgruppenrechner** keine geschätzte Anzahl zurück, da Kontextwerte zur Laufzeit bestimmt werden und nicht im Voraus vorhergesagt werden können.
-
 ## Siehe auch {#see-also}
 
 * [Zielgruppe in Feature Flags und Feature Groups](audience-in-feature-flags-and-feature-groups.md)
 * [Hinzufügen von Prozentregeln in Zielgruppenkriterien](adding-percentage-rules.md)
-* [Zielgruppenregel mit Client-IP-Kontextvariable](clientip-rule.md)

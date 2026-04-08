@@ -2,9 +2,9 @@
 title: Erstellen des ersten Feature Flags
 description: Erfahren Sie, wie Sie in Adobe Experience Rollouts ein Feature Flag erstellen, eine Zielgruppe festlegen und testen, bevor Sie sie für Benutzende bereitstellen.
 exl-id: ae115120-8da9-465e-a556-c17591ea7054
-source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '355'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Nachdem Sie Zielgruppenkriterien hinzugefügt haben, wählen **in der** Leiste d
 
 ## Schritt 4: Zeitplan (optional) {#schedule}
 
-Sie können festlegen, dass eine Feature Flag zu einem späteren Zeitpunkt aktiviert wird. Weitere Informationen [&#x200B; Sie unter &#x200B;](schedule.md).
+Sie können die Aktivierung einer Feature Flag zu einem späteren Zeitpunkt planen, indem Sie die Option **Zeitplan** in den Feature Flag-Einstellungen verwenden.
 
 ## FAQ: Ich kann kein Feature Flag als Entwickler hinzufügen {#faq}
 
