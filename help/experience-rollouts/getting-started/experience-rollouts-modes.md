@@ -1,13 +1,14 @@
 ---
 title: Erlebnis-Rollout-Modi
 description: Erfahren Sie mehr über die beiden Funktions-Targeting-Modi in Adobe Experience Rollouts - Zielgruppenbestimmung auf Benutzerebene und Zielgruppenbestimmung auf Organisationsebene - und wann jeder dieser Modi verwendet werden sollte.
-source-git-commit: bb4541dd7a77edadded2edbc9c71905cf70f2e24
+hide: true
+exl-id: 0fdfa429-d9bd-4990-8f96-cd9deb273aa0
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 3%
 
 ---
-
 
 # Erlebnis-Rollout-Modi {#modes}
 
@@ -81,3 +82,5 @@ Das Targeting auf Org- und Umgebungsebene ist nicht für die folgenden Szenarien
 
 * Wenn Ihre Frage *lautet: „Welche Benutzer sollten diese Funktion sehen?“* → Verwenden **Targeting auf Benutzerebene**
 * Wenn Ihre Frage lautet *„Welche Organisationen oder Umgebungen sollten diese Funktion nutzen?“* → Verwenden Sie **org- und Targeting auf Umgebungsebene**
+
+<!-- -->

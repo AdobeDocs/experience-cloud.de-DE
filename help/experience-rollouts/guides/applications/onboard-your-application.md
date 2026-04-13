@@ -1,8 +1,9 @@
 ---
 title: Onboarding Ihres Programms
 description: Erfahren Sie, wie Sie eine neue Anwendung in Adobe Experience Rollouts integrieren, damit Sie Feature Flags erstellen und verwalten können.
+hide: true
 exl-id: d88c27a5-f490-4504-9764-5e4ce98fdf20
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 3%
@@ -45,3 +46,5 @@ Sobald sich Ihre Anwendung in der Einarbeitungsphase befindet, können Sie mit d
 
 * [Anwendungen verwalten](manage-applications.md)
 * [Melden Sie sich bei der Konsole an](../console/log-in-to-the-console.md)
+
+<!-- -->

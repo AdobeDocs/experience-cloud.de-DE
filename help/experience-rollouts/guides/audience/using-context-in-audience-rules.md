@@ -1,8 +1,9 @@
 ---
 title: Verwenden des Kontexts in Zielgruppenregeln
 description: Erfahren Sie, wie Sie Kontextvariablen in Zielgruppenregeln für Feature Flags und Feature Groups in Adobe Experience Rollouts verwenden.
+hide: true
 exl-id: 0367f475-9209-4d53-86b4-a739a73a23a7
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -54,3 +55,5 @@ Wenn die benötigte Kontextvariable nicht in der Liste angezeigt wird, können S
 
 * [Zielgruppe in Feature Flags und Feature Groups](audience-in-feature-flags-and-feature-groups.md)
 * [Hinzufügen von Prozentregeln in Zielgruppenkriterien](adding-percentage-rules.md)
+
+<!-- -->

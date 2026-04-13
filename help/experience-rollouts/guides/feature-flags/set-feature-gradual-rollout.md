@@ -1,13 +1,14 @@
 ---
 title: Festlegen einer Funktion für das schrittweise Rollout
 description: Erfahren Sie, wie Sie in Adobe Experience Rollouts einen prozentualen schrittweisen Rollout für ein Feature Flag konfigurieren.
-source-git-commit: 9bfe0e55e89c1d7fbd77cde63831a6a186820e24
+hide: true
+exl-id: 1e03c533-398d-4a83-9f4a-c0419828b460
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
 
 ---
-
 
 # Festlegen einer Funktion für das schrittweise Rollout {#gradual-rollout-feature}
 
@@ -24,3 +25,5 @@ Sie können den Prozentsatz im Laufe der Zeit erhöhen oder verringern, um den R
 * [Schrittweiser Rollout](../../concepts/gradual-rollout.md)
 * [Festlegen einer Funktionsgruppe für das schrittweise Rollout](set-feature-group-gradual-rollout.md)
 * [Erstellen des ersten Feature Flags](create-your-first-feature-flag.md)
+
+<!-- -->

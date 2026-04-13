@@ -1,8 +1,9 @@
 ---
 title: Funktionsgruppen zur Steuerung mehrerer Funktionen
 description: Erfahren Sie, wie Sie mit Funktionsgruppen in Experience Rollouts verwandte Feature Flags programmübergreifend als eine Einheit bündeln und verwalten können.
+hide: true
 exl-id: dfeb7eff-34f1-4cb5-9c3e-a40d1eda3016
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -23,3 +24,5 @@ Nehmen wir zum Beispiel eine Funktion für die Zusammenarbeit, die Änderungen a
 
 Funktionsgruppen unterstützen programmübergreifendes Feature Management. Verwandte Flags über mehrere Anwendungen hinweg können gruppiert werden.
 
+
+<!-- -->

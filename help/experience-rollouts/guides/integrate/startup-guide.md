@@ -1,8 +1,9 @@
 ---
 title: Starthandbuch
 description: Führen Sie diese Schritte aus, um Ihre Anwendung in Adobe Experience Rollouts zu integrieren, von der Zugriffsanfrage bis zur Erstellung Ihres ersten Feature Flags.
+hide: true
 exl-id: 7aa09535-45fa-4ddf-9e3f-a23f8a8ee666
-source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 1%
@@ -15,7 +16,7 @@ Führen Sie diese Schritte aus, um Erlebnis-Rollouts in Ihr Programm zu integrie
 
 ## Schritt 1: Zugriff anfordern {#step-1-access}
 
-Fordern Sie Zugriff auf die Konsole „Experience Rollouts“ an und schließen Sie sich Ihrem Team an. Eine [&#x200B; Anleitung finden &#x200B;](../console/request-access.md) unter „Zugriff anfordern“.
+Fordern Sie Zugriff auf die Konsole „Experience Rollouts“ an und schließen Sie sich Ihrem Team an. Eine [ Anleitung finden ](../console/request-access.md) unter „Zugriff anfordern“.
 
 ## Schritt 2: Onboarding der Anwendung {#step-2-onboard}
 
@@ -52,3 +53,5 @@ Erstellen Sie nach Abschluss der Integration Ihr erstes Feature Flag in der Kons
 * [Integrieren von Erlebnis-Rollouts in Ihre App](integrating-in-your-app.md)
 * [Integrationsschritte](integration-steps.md)
 * [SDKs](sdks.md)
+
+<!-- -->

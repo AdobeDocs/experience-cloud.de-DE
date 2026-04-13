@@ -1,8 +1,9 @@
 ---
 title: Zielgruppe in Feature Flags und Feature Groups
 description: Erfahren Sie, wie Sie Zielgruppenkriterien für Feature Flags und Funktionsgruppen in Adobe Experience Rollouts mithilfe von Kontextvariablen definieren.
+hide: true
 exl-id: 4a8f7c3f-1ae5-4e65-a070-9fc33133eec0
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 2%
@@ -21,3 +22,5 @@ Informationen zu kontextbasiertem Targeting (z. B. Targeting nach der aktiven Sp
 * [Hinzufügen von Prozentregeln in Zielgruppenkriterien](adding-percentage-rules.md)
 * [Komplexe Zielgruppenregeln](complex-rules.md)
 * [Erstellen des ersten Feature Flags](../feature-flags/create-your-first-feature-flag.md)
+
+<!-- -->

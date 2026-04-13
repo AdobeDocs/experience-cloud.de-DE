@@ -1,8 +1,9 @@
 ---
 title: Schrittweiser Rollout
 description: Erfahren Sie, wie Sie durch schrittweise Rollouts in Erlebnis-Rollouts die Funktionsbereitstellung sicher, mit Echtzeit-Feedback und minimalem Risiko in die Produktion einstufen können.
+hide: true
 exl-id: ede24236-de19-4008-893c-e67bd82e23e3
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 2%
@@ -38,3 +39,5 @@ Bei jedem Schritt kann eine einzelne Aktion den Rollout anhalten oder die Funkti
 ## Siehe auch {#see-also}
 
 * [Feature Flags zum Aktivieren und Deaktivieren von Features](feature-flags-to-enable-disable-features.md)
+
+<!-- -->

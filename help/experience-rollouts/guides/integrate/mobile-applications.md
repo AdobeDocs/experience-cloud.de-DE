@@ -1,8 +1,9 @@
 ---
 title: Apps
 description: Erfahren Sie, wie Sie Adobe Experience Rollouts mithilfe von Mobile SDK in eine Mobile App integrieren.
+hide: true
 exl-id: 27a43994-25e7-4a2c-b01c-ae98d089413d
-source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 8%
@@ -25,3 +26,5 @@ Eine vollständige Anleitung zum Integrationsprozess finden Sie unter [Integrati
 
 * [Integrationsschritte](integration-steps.md)
 * [Starthandbuch](startup-guide.md)
+
+<!-- -->

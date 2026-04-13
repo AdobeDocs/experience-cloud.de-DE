@@ -3,7 +3,7 @@ audience: user
 user-guide-title: Adobe Experience Rollouts
 user-guide-description: Erfahren Sie, wie Sie mit Adobe Experience Rollouts Feature Flags, kontrollierte Rollouts und zielgerichtete Versionen in Ihren Programmen verwalten können.
 hide: true
-source-git-commit: 571439cb5f463567b11b6dd24a9cfbca400f9357
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 8%

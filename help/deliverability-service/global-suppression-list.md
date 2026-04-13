@@ -3,9 +3,9 @@ title: Globale Unterdrückungsliste
 description: Informationen zur globalen Unterdrückungsliste
 hide: true
 exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
-source-git-commit: 9d12eece2ca9f8f36951f8575bb0ac42bc10a728
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '630'
 ht-degree: 100%
 
 ---
@@ -87,7 +87,7 @@ Klicken Sie dazu auf den Button **[!UICONTROL E-Mail oder Domain hinzufügen]** 
 
 >[!NOTE]
 >
->Vergewissern Sie sich nach dem Hochladen, dass der Upload erfolgreich war, indem Sie seinen Status in der Benutzeroberfläche überprüfen. [Weitere Informationen dazu](#recent-uploads)
+>Vergewissern Sie sich nach dem Hochladen, dass der Upload erfolgreich war, indem Sie seinen Status in der Benutzeroberfläche überprüfen. [Weitere Informationen](#recent-uploads)
 
 ### Status der letzten Uploads überprüfen {#recent-uploads}
 

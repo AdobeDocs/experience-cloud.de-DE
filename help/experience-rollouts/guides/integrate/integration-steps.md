@@ -1,8 +1,9 @@
 ---
 title: Integrationsschritte
 description: Befolgen Sie die Integrationsschritte für Ihren Anwendungstyp, um Adobe Experience Rollouts mithilfe der verfügbaren SDKs mit Ihrem Webservice, Ihrer Web- oder Mobile App oder Ihrer Desktop-Anwendung zu verbinden.
+hide: true
 exl-id: d584bdf4-9031-40e7-a7f0-807c619bbba1
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 4%
@@ -43,3 +44,5 @@ Web- und Mobile Apps können über die Web-SDK bzw. die Mobile SDK integriert we
 * [SDKs](sdks.md)
 * [Web-Dienste](web-services.md)
 * [Desktop-Programme](desktop-applications.md)
+
+<!-- -->

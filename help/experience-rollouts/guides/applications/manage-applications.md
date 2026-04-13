@@ -1,8 +1,9 @@
 ---
 title: Anwendungen verwalten
 description: Erfahren Sie, wie Sie in Adobe Experience Rollouts Programme verwalten und neue Programme hinzufügen.
+hide: true
 exl-id: 6109fdd5-b5f5-41ca-8690-8aa78df50499
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 1%
@@ -19,9 +20,11 @@ Nur Mitglieder mit der Rolle **Admin** können Programme hinzufügen oder änder
 
 ## Hinzufügen einer Anwendung {#add-application}
 
-Eine schrittweise Anleitung zum Hinzufügen einer Anwendung finden [&#x200B; unter &#x200B;](onboard-your-application.md)Onboarden einer Anwendung“.
+Eine schrittweise Anleitung zum Hinzufügen einer Anwendung finden [ unter ](onboard-your-application.md)Onboarden einer Anwendung“.
 
 ## Siehe auch {#see-also}
 
 * [Onboarding Ihres Programms](onboard-your-application.md)
 * [Funktionsgruppen zur Steuerung mehrerer Funktionen](../../concepts/feature-groups-to-control-multiple-features.md)
+
+<!-- -->

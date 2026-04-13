@@ -1,8 +1,9 @@
 ---
 title: A/B-Tests mit Feature Flags
 description: Erfahren Sie, wie Sie A/B-Tests mit Funktionsgruppen in Adobe Experience Rollouts ausführen, indem Sie mehrere Varianten für eine Reihe von Funktions-Flags konfigurieren.
+hide: true
 exl-id: bb849049-229c-40ff-bbfe-7996f868bcc3
-source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 1%
@@ -53,3 +54,5 @@ Speichern Sie die Funktionsgruppeneinstellungen. Wenn Sie bereit sind, den Test 
 * [Erstellen einer Funktionsgruppe](create-a-feature-group.md)
 * [Festlegen einer Funktionsgruppe für das schrittweise Rollout](set-feature-group-gradual-rollout.md)
 * [Analytics](analytics.md)
+
+<!-- -->

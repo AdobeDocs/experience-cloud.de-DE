@@ -1,13 +1,14 @@
 ---
 title: Analytics
 description: Erfahren Sie, wie Sie das integrierte Analyse-Dashboard in Adobe Experience Rollouts aktivieren und verwenden, um die Leistung von Feature Flag-Kennzeichnungen zu verfolgen und die Auswirkungen des Rollouts zu messen.
-source-git-commit: d311efb995b20ffc17370d68d57dd84a8605896c
+hide: true
+exl-id: edddca99-f263-461b-a16f-b46ee7c15f6c
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 1%
 
 ---
-
 
 # Analytics {#analytics}
 
@@ -42,3 +43,5 @@ Wählen Sie für Funktionsgruppen und Versionen die Dropdown-Liste **Ergebnisse*
 * [Erstellen des ersten Feature Flags](create-your-first-feature-flag.md)
 * [A/B-Tests mit Feature Flags](a-b-testing.md)
 * [Erstellen einer Funktionsgruppe](create-a-feature-group.md)
+
+<!-- -->

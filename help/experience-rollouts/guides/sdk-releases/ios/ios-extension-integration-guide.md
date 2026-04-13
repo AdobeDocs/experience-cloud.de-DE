@@ -1,7 +1,8 @@
 ---
 title: Handbuch zur Integration der Experience Rollout-Erweiterung für iOS
 description: Erfahren Sie, wie Sie die Experience Rollout-Erweiterung mit Adobe Experience Platform Mobile SDK auf iOS integrieren.
-source-git-commit: a9f6746c2b470377d2fd58de18e984d1ec404a77
+hide: true
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '929'
 ht-degree: 8%
@@ -52,7 +53,7 @@ Stellen Sie sicher, dass diese Erweiterungen in Ihrer Datenerfassungs-Eigenschaf
    | Datensatz-ID | Die Adobe Experience Platform-Datensatz-ID für die Analytics-Ereignisdaten |
 
 1. Wählen Sie **Speichern** aus.
-1. Befolgen Sie den [Veröffentlichungsprozess](https://experienceleague.adobe.com/de/docs/experience-platform/tags/publish/overview), um Ihre Konfiguration zu aktualisieren.
+1. Befolgen Sie den [Veröffentlichungsprozess](https://experienceleague.adobe.com/en/docs/experience-platform/tags/publish/overview), um Ihre Konfiguration zu aktualisieren.
 
 ### Abrufen der Umgebungsdatei-ID {#environment-file-id}
 
@@ -104,7 +105,7 @@ pod install
 
 >[!IMPORTANT]
 >
->Für Produktionsanwendungen empfiehlt Adobe, an explizite Versionsnummern anzuheften, anstatt `~>` oder offene Bereiche zu verwenden. Weitere Informationen finden Sie [&#x200B; „CocoaPods](https://guides.cocoapods.org/using/the-podfile.html)Versionshandbuch“.
+>Für Produktionsanwendungen empfiehlt Adobe, an explizite Versionsnummern anzuheften, anstatt `~>` oder offene Bereiche zu verwenden. Weitere Informationen finden Sie [ „CocoaPods](https://guides.cocoapods.org/using/the-podfile.html)Versionshandbuch“.
 
 ### SDK initialisieren {#initialize-sdk}
 
@@ -445,3 +446,5 @@ NSString *version = [AEPMobileRollout extensionVersion];
 * [Integrationsschritte](../../integrate/integration-steps.md)
 * [SDKs](../../integrate/sdks.md)
 * [Handbuch zur Integration von Android-Erweiterungen](../android/android-extension-integration-guide.md)
+
+<!-- -->

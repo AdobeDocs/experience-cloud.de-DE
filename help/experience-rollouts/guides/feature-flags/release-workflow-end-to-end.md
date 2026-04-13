@@ -1,13 +1,14 @@
 ---
 title: End-to-End-Workflow für die Veröffentlichung
 description: Lernen Sie den kompletten Workflow zur Verwaltung einer koordinierten Version in Adobe Experience Rollouts kennen, von der Definition von Feature Flags bis hin zur Live-Schaltung.
-source-git-commit: d311efb995b20ffc17370d68d57dd84a8605896c
+hide: true
+exl-id: 086e3192-c22b-4de8-a15a-89edb09ac230
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 1%
 
 ---
-
 
 # End-to-End-Workflow für die Veröffentlichung {#release-workflow}
 
@@ -33,7 +34,7 @@ Der Release Manager wählt die Zielgruppe für die Veröffentlichung aus, z. B. 
 
 ## &#x200B;5. Erweitern und Verwalten des Rollouts {#expand}
 
-Nach der Live-Schaltung kann der Release-Manager die Zielgruppenregeln anpassen, um den Rollout schrittweise zu erweitern, Probleme zu überwachen und den Lebenszyklus mithilfe der Steuerelemente für den Versionsstatus zu verwalten. Weitere Informationen [&#x200B; Sie unter &#x200B;](release-states.md)Versionsstatus“.
+Nach der Live-Schaltung kann der Release-Manager die Zielgruppenregeln anpassen, um den Rollout schrittweise zu erweitern, Probleme zu überwachen und den Lebenszyklus mithilfe der Steuerelemente für den Versionsstatus zu verwalten. Weitere Informationen [ Sie unter ](release-states.md)Versionsstatus“.
 
 ## Wichtigste Punkte {#key-points}
 
@@ -46,3 +47,5 @@ Nach der Live-Schaltung kann der Release-Manager die Zielgruppenregeln anpassen,
 * [Release anfordern](request-a-release.md)
 * [Aktualisieren der Regeln für Veröffentlichungszielgruppen](update-release-audience-rules.md)
 * [Versionsstatus](release-states.md)
+
+<!-- -->
