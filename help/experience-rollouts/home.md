@@ -1,8 +1,9 @@
 ---
 title: Adobe Experience Rollouts
 description: Erfahren Sie, wie Sie mit Adobe Experience Rollouts Funktionen sicher und schrittweise mit kontrollierten Rollouts, Feature Flags und zielgerichteter Zielgruppenverwaltung bereitstellen können.
+hide: true
 exl-id: c400d75d-d928-4cf6-a094-1a2f443389f0
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 571439cb5f463567b11b6dd24a9cfbca400f9357
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 1%
@@ -38,3 +39,7 @@ Sobald Ihre erste Markierung live ist, können Sie ihre Zielgruppe verfeinern, e
 ## Benötigen Sie Hilfe?
 
 Wenn sich etwas nicht wie erwartet verhält, wenden Sie sich an den Adobe-Support.
+
+<!-- 
+Bob was here
+-->
