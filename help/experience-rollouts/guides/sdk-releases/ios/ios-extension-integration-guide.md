@@ -104,7 +104,7 @@ pod install
 
 >[!IMPORTANT]
 >
->Für Produktionsanwendungen empfiehlt Adobe, an explizite Versionsnummern anzuheften, anstatt `~>` oder offene Bereiche zu verwenden. Weitere Informationen finden Sie [ „CocoaPods](https://guides.cocoapods.org/using/the-podfile.html)Versionshandbuch“.
+>Für Produktionsanwendungen empfiehlt Adobe, an explizite Versionsnummern anzuheften, anstatt `~>` oder offene Bereiche zu verwenden. Weitere Informationen finden Sie [&#x200B; „CocoaPods](https://guides.cocoapods.org/using/the-podfile.html)Versionshandbuch“.
 
 ### SDK initialisieren {#initialize-sdk}
 
