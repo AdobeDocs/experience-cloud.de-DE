@@ -1,8 +1,9 @@
 ---
 title: Melden Sie sich bei der Konsole „Experience Rollouts“ an
 description: Erfahren Sie, wie Sie mit Adobe Experience Rollouts beginnen, indem Sie Ihr Team finden, Zugriff anfordern und sich bei der Konsole anmelden.
+hide: true
 exl-id: 4b109759-43b5-440a-89b4-78c0f0483cd0
-source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 2%
@@ -44,3 +45,5 @@ Nachdem der Zugriff gewährt wurde:
 | **Team** | Eine selbstverwaltete Gruppe, die im Besitz von Programmen ist und Feature Flags verwaltet. Teams haben eine flache Struktur mit verschiedenen Benutzerrollen und Berechtigungsebenen. |
 | **Anwendung** | Die Anwendung, die Sie mit Feature Flags steuern möchten. Jede Anwendung gehört einem Team. |
 | **Feature Flag/Feature Group** | Die in Experience Rollouts für Funktionstests und kontrollierte Rollouts erstellten Artefakte. |
+
+<!-- -->

@@ -1,13 +1,14 @@
 ---
 title: Gründe für Experience Rollouts
 description: Erfahren Sie mehr über die wichtigsten Anwendungsfälle für Adobe Experience Rollouts, von selektiven Funktionstests bis hin zu koordinierten Versionen mehrerer Anwendungen.
-source-git-commit: 1c8fd9b42d08f657b4e6b16efae86faa04d15565
+hide: true
+exl-id: c39c6b34-2024-4c38-b2f2-a9b58f5eff63
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 1%
 
 ---
-
 
 # Gründe für Experience Rollouts {#why-use}
 
@@ -33,5 +34,7 @@ Gleichzeitiges Aktivieren einer Funktion über mehrere Programme und Teams hinwe
 **Zurückgestellte Versionen**
 Stellen Sie Code vorab für die Produktion bereit und aktivieren Sie dann die Funktion zu einem bestimmten Zeitpunkt - z. B. zu Beginn eines Produkteinführungsereignisses - ohne Code-Änderung in letzter Minute.
 
-**Schalter töten**
+**Kill-Schalter**
 Wenn nach der Veröffentlichung ein Problem erkannt wird, schalten Sie die Funktion sofort aus, ohne dass ein Hotfix oder eine erneute Bereitstellung erforderlich ist.
+
+<!-- -->

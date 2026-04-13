@@ -1,8 +1,9 @@
 ---
 title: Release anfordern
 description: Erfahren Sie, wie Sie eine neue koordinierte Version in Adobe Experience Rollouts anfordern und welche Informationen bereitgestellt werden sollen.
+hide: true
 exl-id: 8eee84b2-fbd5-4713-90ac-92fd7b74c163
-source-git-commit: f4c365e1a0e61ba3dec298dfa8ab0d9e74e1259a
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 3%
@@ -46,3 +47,5 @@ Nachdem Sie die Bestätigung erhalten haben, dass die Version erstellt wurde, me
 * [End-to-End-Workflow für die Veröffentlichung](release-workflow-end-to-end.md)
 * [Aktualisieren der Regeln für Veröffentlichungszielgruppen](update-release-audience-rules.md)
 * [Versionsstatus](release-states.md)
+
+<!-- -->

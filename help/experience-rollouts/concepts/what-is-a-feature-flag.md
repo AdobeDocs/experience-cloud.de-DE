@@ -1,8 +1,9 @@
 ---
 title: Was ist ein Feature Flag?
 description: Erfahren Sie, was Feature Flags sind und wie Sie damit Anwendungsfunktionen zur Laufzeit aktivieren oder deaktivieren können, ohne dass eine erneute Bereitstellung erforderlich ist.
+hide: true
 exl-id: c4ed4ab5-0d73-4697-b05c-476d6e4010ce
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -20,3 +21,5 @@ Diese Trennung verringert das Risiko erheblich. Entwickler können kontinuierlic
 >[!NOTE]
 >
 >Bei Erlebnis-Rollouts ist eine Feature Flag die atomischste Einheit der Feature Control. Sie kann allein verwendet werden, um ein einzelnes Feature anzusprechen, oder in Kombination mit anderen Flags in einer [Feature Group](feature-groups-to-control-multiple-features.md).
+
+<!-- -->

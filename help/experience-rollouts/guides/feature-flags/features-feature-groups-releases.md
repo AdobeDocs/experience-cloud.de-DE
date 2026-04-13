@@ -1,13 +1,14 @@
 ---
 title: Funktionen und Funktionsgruppen
 description: Erfahren Sie mehr über die Unterschiede zwischen Funktions-Flags und Funktionsgruppen bei den Rollouts für Adobe Experience Cloud und wann sie jeweils verwendet werden sollten.
-source-git-commit: c654ca1507abcefcff84cef9f99830042939805d
+hide: true
+exl-id: 852aa777-6f8a-47c9-bf54-e645a5ee2f3e
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 5%
 
 ---
-
 
 # Funktionen und Funktionsgruppen {#features-feature-groups}
 
@@ -44,3 +45,5 @@ Eine Sammlung von Feature Flags, die zum selben Team gehören. Ermöglicht die V
 
 * [Erstellen des ersten Feature Flags](create-your-first-feature-flag.md)
 * [Erstellen einer Funktionsgruppe](create-a-feature-group.md)
+
+<!-- -->

@@ -1,13 +1,14 @@
 ---
 title: Versionsstatus
 description: Erfahren Sie mehr über die Lebenszyklusstatus einer Version in Adobe Experience Rollouts, einschließlich der Bedeutung der einzelnen Status und der zulässigen Transitionen.
-source-git-commit: ae420329b94b24fcd173734b414aecf1c5fc16ca
+hide: true
+exl-id: c1311353-9c36-43c5-8e75-3b3ee225da41
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 3%
 
 ---
-
 
 # Versionsstatus {#release-states}
 
@@ -46,3 +47,5 @@ Planen Sie die Veröffentlichung oder brechen Sie die Veröffentlichung innerhal
 * [Release anfordern](request-a-release.md)
 * [End-to-End-Workflow für die Veröffentlichung](release-workflow-end-to-end.md)
 * [Aktualisieren der Regeln für Veröffentlichungszielgruppen](update-release-audience-rules.md)
+
+<!-- -->

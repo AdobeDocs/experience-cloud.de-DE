@@ -1,8 +1,9 @@
 ---
 title: Erstellen einer Funktionsgruppe
 description: Erfahren Sie, wie Sie in Adobe Experience Rollouts eine Funktionsgruppe erstellen, um mehrere Funktions-Flags in allen Anwendungen Ihres Teams als Einheit zu verwalten.
+hide: true
 exl-id: 58148df1-84ee-4a78-a4b4-71f74cd8ce0a
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 0%
@@ -69,3 +70,5 @@ Sie können die Aktivierung der Funktionsgruppe zu einem späteren Zeitpunkt pla
 * [Festlegen einer Funktionsgruppe für das schrittweise Rollout](set-feature-group-gradual-rollout.md)
 * [A/B-Tests mit Feature Flags](a-b-testing.md)
 * [Funktionsgruppen zur Steuerung mehrerer Funktionen](../../concepts/feature-groups-to-control-multiple-features.md)
+
+<!-- -->

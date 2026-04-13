@@ -1,8 +1,9 @@
 ---
 title: SDKs
 description: Erfahren Sie mehr über die SDK-Architektur in Adobe Experience Rollouts und die verfügbare mobile SDK-Erweiterung für Android.
+hide: true
 exl-id: 110a440d-b52a-4e1e-a94f-86f9741a223a
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 3%
@@ -39,3 +40,5 @@ Einrichtungsanweisungen finden Sie im Handbuch zur Integration [&#128279;](../sd
 * [Handbuch zur Integration von Android-Erweiterungen](../sdk-releases/android/android-extension-integration-guide.md)
 * [Web-Dienste](web-services.md)
 * [Integrationsschritte](integration-steps.md)
+
+<!-- -->

@@ -1,8 +1,9 @@
 ---
 title: Integrieren von Erlebnis-Rollouts in Ihre App
 description: Erfahren Sie, wie Sie Adobe Experience Rollouts in Ihr Programm integrieren, unabhängig davon, ob es sich um einen Webservice, eine Web-Eigenschaft, eine Mobile App oder eine Desktop-Anwendung handelt.
+hide: true
 exl-id: e67a34d8-aaba-41d4-bc34-15b23782caa1
-source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -33,3 +34,5 @@ Wählen Sie das Handbuch aus, das Ihrem Anwendungstyp entspricht:
 | **Web-Anwendung** | Web SDK (in Kürze verfügbar) |
 | **Mobile App** | Mobile SDK (in Kürze verfügbar) |
 | **Desktop-Programm** | SDK (in Kürze verfügbar) |
+
+<!-- -->

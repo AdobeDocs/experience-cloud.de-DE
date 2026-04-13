@@ -1,13 +1,14 @@
 ---
 title: Aktualisieren der Regeln für Veröffentlichungszielgruppen
 description: Erfahren Sie, wie Sie Zielgruppenkriterien für eine Version in Adobe Experience Rollouts konfigurieren und aktualisieren, einschließlich unterstützter Regeltypen und wie Sie sie kombinieren.
-source-git-commit: bb4541dd7a77edadded2edbc9c71905cf70f2e24
+hide: true
+exl-id: 8d546cd7-af66-47c7-aab3-c667568e8582
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 3%
 
 ---
-
 
 # Aktualisieren der Regeln für Veröffentlichungszielgruppen {#update-release-audience-rules}
 
@@ -76,3 +77,5 @@ Verwenden Sie die Symbole **+/-**, um Bedingungen hinzuzufügen oder zu entferne
 * [Release anfordern](request-a-release.md)
 * [End-to-End-Workflow für die Veröffentlichung](release-workflow-end-to-end.md)
 * [Versionsstatus](release-states.md)
+
+<!-- -->

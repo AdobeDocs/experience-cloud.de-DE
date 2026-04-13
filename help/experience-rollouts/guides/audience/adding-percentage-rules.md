@@ -1,8 +1,9 @@
 ---
 title: Hinzufügen von Prozentregeln in Zielgruppenkriterien
 description: Erfahren Sie, wie Sie in Adobe Experience Rollouts prozentualbasierte Regeln innerhalb von Zielgruppenkriterien hinzufügen, um verschiedene Rollout-Prozentsätze für verschiedene Zielgruppensegmente auszuwählen.
+hide: true
 exl-id: 15a3c26f-31fc-4e73-aa0e-035dcbe7d770
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -63,3 +64,5 @@ Fügen Sie vier Regeln hinzu: Land = USA, Prozentsatz = 10 %, Land = UK, Prozent
 * [Zielgruppe in Feature Flags und Feature Groups](audience-in-feature-flags-and-feature-groups.md)
 * [Komplexe Zielgruppenregeln](complex-rules.md)
 * [Festlegen einer Funktion für das schrittweise Rollout](../feature-flags/set-feature-gradual-rollout.md)
+
+<!-- -->
