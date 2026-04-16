@@ -16,7 +16,7 @@ Führen Sie diese Schritte aus, um Flags in Ihr Programm zu integrieren.
 
 ## Schritt 1: Zugriff anfordern {#step-1-access}
 
-Fordern Sie Zugriff auf die Konsole Flags an und schließen Sie sich Ihrem Team an. Eine [ Anleitung finden ](../console/request-access.md) unter „Zugriff anfordern“.
+Fordern Sie Zugriff auf die Konsole Flags an und schließen Sie sich Ihrem Team an. Eine [&#x200B; Anleitung finden &#x200B;](../console/request-access.md) unter „Zugriff anfordern“.
 
 ## Schritt 2: Onboarding der Anwendung {#step-2-onboard}
 

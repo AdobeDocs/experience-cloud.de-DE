@@ -33,13 +33,13 @@ Die Flags-Erweiterung für Web ist in Adobe Experience Platform Web SDK integrie
 
 Die Flags-Erweiterung für Android lässt sich mit Adobe Experience Platform Mobile SDK integrieren.
 
-Einrichtungsanweisungen finden Sie im Handbuch zur Integration ](../sdk-releases/android/android-extension-integration-guide.md) Android-Erweiterungen [.
+Einrichtungsanweisungen finden Sie im Handbuch zur Integration [&#128279;](../sdk-releases/android/android-extension-integration-guide.md) Android-Erweiterungen .
 
 ### iOS-Erweiterung {#ios-extension}
 
 Die Flags-Erweiterung für iOS lässt sich mit Adobe Experience Platform Mobile SDK integrieren.
 
-Einrichtungsanweisungen finden Sie im Handbuch zur Integration ](../sdk-releases/ios/ios-extension-integration-guide.md) iOS-Erweiterungen [.
+Einrichtungsanweisungen finden Sie im Handbuch zur Integration [&#128279;](../sdk-releases/ios/ios-extension-integration-guide.md) iOS-Erweiterungen .
 
 ## Siehe auch {#see-also}
 
