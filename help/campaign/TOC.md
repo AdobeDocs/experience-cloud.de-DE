@@ -3,18 +3,19 @@ user-guide-title: Adobe Campaign v8
 user-guide-description: Adobe Campaign v8
 breadcrumb-title: Adobe Campaign v8
 solution: Experience Cloud
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 role: User
-source-git-commit: 0650d42102216c353c5843322d01af5af80d2e5c
+source-git-commit: 76932b21cfe714780ff520ace588cd9fcba5c6ae
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 74%
+source-wordcount: 162
+ht-degree: 81%
 
 ---
 
 # Adobe Campaign v8 {#campaign}
 
 + [Startseite](campaign-standard-migration-home.md)
-+ Dynamische {#reporting}
++ Dynamisches Reporting {#reporting}
    + [Erste Schritte mit dynamischen Berichten](reporting/get-started-reporting.md)
    + Über Reporting {#about-reporting}
       + [Über dynamische Berichte](reporting/about-dynamic-reports.md)
@@ -29,24 +30,24 @@ ht-degree: 74%
       + [Beschwerden](reporting/complaints.md)
       + [Versandübersicht](reporting/delivery-summary.md)
       + [Versanddurchsatz](reporting/delivery-throughput.md)
-      + [Fehler und Bounces](reporting/non-deliverables-and-bounces.md)
+      + [Unzustellbare Nachrichten und Bounces](reporting/non-deliverables-and-bounces.md)
       + [Öffnungen](reporting/opens.md)
-      + [Trackingindikatoren](reporting/tracking-indicators.md)
+      + [Tracking-Indikatoren](reporting/tracking-indicators.md)
       + [Abmeldungen](reporting/unsubscriptions.md)
       + [URLs und Clickstreams](reporting/urls-and-click-streams.md)
-   + Berichte anpassen {#customizing-reports}
+   + Anpassen von Berichten {#customizing-reports}
       + [Panels hinzufügen](reporting/adding-panels.md)
       + [Visualisierungen hinzufügen](reporting/adding-visualizations.md)
       + [Komponenten hinzufügen](reporting/adding-components.md)
       + [Benutzerdefinierte Profildimension erstellen](reporting/creating-a-custom-profile-dimension.md)
       + [Nutzungsvereinbarung zur dynamischen Berichterstattung](reporting/pii-agreement.md)
 + Branding {#branding}
-   + [Über Branding](branding/branding-gs.md)
+   + [Informationen zum Branding](branding/branding-gs.md)
    + [Konfigurieren einer Marke](branding/branding-configure.md)
-   + [Marke zuweisen](branding/branding-assign.md)
+   + [Zuweisen einer Marke](branding/branding-assign.md)
 + REST-APIs {#apis}
    + [Erste Schritte mit REST-APIs](api/get-started-apis.md)
-   + [Recommendations und Einschränkungen](api/limitations.md)
+   + [Empfehlungen und Einschränkungen](api/limitations.md)
    + [Verwendung von REST-APIs](api/why-using-campaign-standard-apis.md)
    + [Einrichten von API-Zugriff](api/setting-up-api-access.md)
    + Globale Konzepte {#global-concepts}
@@ -56,7 +57,7 @@ ht-degree: 74%
       + [Verben](api/verbs.md)
       + Zusätzliche Vorgänge {#additional-operations}
          + [Sortieren](api/sorting.md)
-         + [Filter](api/filtering.md)
+         + [Filterung](api/filtering.md)
          + [Zählung](api/counting.md)
          + [Paginierung](api/pagination.md)
       + [Benutzerdefinierte Ressourcen](api/custom-resources.md)
@@ -65,7 +66,7 @@ ht-degree: 74%
       + [Profile abrufen](api/retrieving-profiles.md)
       + [Aktualisieren von Profilen](api/updating-profiles.md)
       + [Profile erstellen](api/creating-profiles-api.md)
-   + Verwalten von Services und {#managing-services-and-subscriptiopns}
+   + Services und Abonnements verwalten {#managing-services-and-subscriptiopns}
       + [Erstellen eines Service](api/creating-a-service.md)
       + [Abrufen von Abonnements](api/retrieving-subscriptions.md)
       + [Abonnements ausführen](api/perform-subscriptions.md)
