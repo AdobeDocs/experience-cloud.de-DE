@@ -1,14 +1,23 @@
 ---
-title: Verteilung nach Domain
-description: Im vordefinierten Bericht über die Verteilung nach Domain erhalten Sie Performance-Daten Ihrer Sendungen aufgeschlüsselt nach der Domain Ihrer Kunden.
+title: Aufschlüsselung nach Domain
+description: Im vordefinierten Bericht über die Aufschlüsselung nach Domain erhalten Sie Performance-Daten Ihrer Sendungen aufgeschlüsselt nach der Domain Ihrer Kunden.
 level: Intermediate
 audience: end-user
-badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 exl-id: 9b6126b7-3f9c-4810-9288-33a3f0a034d8
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+TQID: https://experienceleague.adobe.com/qyXR0itlPRVLz51-QoZoD1bqqMOxmzdhNqUL6wHW89I
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 90%
+source-wordcount: 244
+ht-degree: 96%
 
 ---
 
@@ -33,4 +42,4 @@ Die zweite Tabelle **Trackingstatistiken** enthält die verfügbaren Daten bezü
 * **Klicken**: Die Anzahl der Klicks auf einen Inhalt in einem Versand.
 * **Abgemeldet**: Gesamtanzahl der Klicks auf den Abmelde-Link.
 * **Mirrorseite**: Die Anzahl der Klicks auf die Mirrorseite.
-* **Auf Blockierungsliste**: Die Anzahl der Empfängerinnen und Empfänger, die eine E-Mail als Spam oder Junk gekennzeichnet haben.
+* **Auf Blockierungsliste**: Die Anzahl der Empfangenden, die eine E-Mail als Spam oder Junk gekennzeichnet haben.

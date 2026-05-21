@@ -1,16 +1,20 @@
 ---
-title: Softwareverteilung
+title: Software-Verteilung
 description: Erfahren Sie, wie Sie mit Softwareverteilung Ihre Adobe Experience Cloud-Software herunterladen können.
 exl-id: ac559a28-4444-4326-ba92-78afd10ed9ab
-source-git-commit: 6a2ba27cfeae875ab9184760b6d233ef759dd460
+TQID: https://experienceleague.adobe.com/KaFci2oowPXO8w8SZORK-sn-LYZd1TM2Y3JFcISsQZM
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: 434
 ht-degree: 100%
 
 ---
 
-
-# Softwareverteilung
+# Software-Verteilung
 
 Erfahren Sie, wie Sie mit Softwareverteilung Ihre Adobe Experience Cloud-Software herunterladen können.
 
@@ -70,4 +74,4 @@ Im Juni 2020 hat [!UICONTROL Softwareverteilung] [!UICONTROL Package Share] für
 
 >[!NOTE]
 >
->[!UICONTROL Softwareverteilung] bietet nur Unterstützung für Downloads über einen Browser. Wenn Sie für neue Installationen AEM [!UICONTROL Package Manager] verwenden, wird empfohlen, das Package in einen lokalen Ordner herunterzuladen und von dort aus zu installieren.
+>[!UICONTROL Softwareverteilung] bietet nur Unterstützung für Downloads über einen Browser. Wenn Sie für neue Installationen den [!UICONTROL AEM-Paket-Manager] verwenden, wird empfohlen, das Package in einen lokalen Ordner herunterzuladen und von dort aus zu installieren.

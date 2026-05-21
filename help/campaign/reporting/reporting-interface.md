@@ -3,12 +3,21 @@ title: Benutzeroberfläche für das Reporting
 description: Hier erhalten Sie Informationen zur Benutzeroberfläche von dynamischen Berichten und zur Navigation durch die verschiedenen Tabs und Menüs.
 level: Beginner
 audience: end-user
-badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 exl-id: 9b5a8b5f-2258-4861-b5c2-feefef67ccb3
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+TQID: https://experienceleague.adobe.com/KgGIjUbkYS7DwLoATeZSFneGAe9jLELSw11kKfK28bY
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 97%
+source-wordcount: 432
+ht-degree: 98%
 
 ---
 
@@ -43,7 +52,7 @@ Im Tab **Einfügen** können Sie Ihre Berichte anpassen, indem Sie Diagramme und
 * [Visualisierungen hinzufügen](adding-visualizations.md)
 * [Komponenten hinzufügen](adding-components.md)
 
-## Tabs      {#tabs}
+## Registerkarten {#tabs}
 
 In den linken Tabs können Sie nach Bedarf Berichte erstellen und Daten filtern.
 

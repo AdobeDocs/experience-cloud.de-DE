@@ -2,14 +2,22 @@
 title: Erstellen und Verwalten von Experience Cloud Triggers
 description: Entdecken Sie die Benutzeroberfläche von Adobe Experience Cloud Triggers
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
-source-git-commit: 94ca96baaef706ace2ed131a5c2974371a5e0e57
+TQID: https://experienceleague.adobe.com/0EG1662w4P--X1uN3hH7JRBFrU0B5JU--LxP0T49tYY
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: 516
 ht-degree: 100%
 
 ---
 
-# Erstellen eines Experience Cloud-Triggers {#create-triggers}
+# Experience Cloud Trigger erstellen {#create-triggers}
 
 >[!AVAILABILITY]
 >
@@ -41,7 +49,7 @@ Erstellen Sie einen Trigger und konfigurieren Sie die Bedingungen für den Trigg
 
 1. Wählen Sie die für diesen Trigger verwendete Analytics-**[!UICONTROL Report Suite]** aus. Diese Einstellung identifiziert die zu verwendenden Berichtsdaten.
 
-   [Weitere Informationen zu Report Suites](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html?lang=de){target="_blank"}.
+   [Weitere Informationen zu Report Suite](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html?lang=de){target="_blank"}.
 
 1. Wählen Sie die Gültigkeitsdauer **[!UICONTROL Trigger nach ausbleibender Aktion für]** aus.
 

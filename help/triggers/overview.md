@@ -2,16 +2,26 @@
 title: Erstellen und Verwalten von Experience Cloud Triggers
 description: Entdecken Sie die Benutzeroberfläche von Adobe Experience Cloud Triggers
 exl-id: f49e3da5-acba-4b60-a875-94a6be979cc0
-source-git-commit: 322721a4a008aecc5355bd153d4d9678e1684f5e
+TQID: https://experienceleague.adobe.com/qY4I-1h-KYpVx3yNz2c5cQFB9bB3I7sSNQ6RtTIyEPY
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: 280
 ht-degree: 100%
 
 ---
 
 # Über Experience Cloud Triggers {#overview}
 
-Experience Cloud Triggers bietet eine umfassende Lösung zur Identifizierung, Definition und Überwachung kritischer Verbraucherverhaltensweisen. Mit diesen Triggern können Sie anwendungsübergreifende Kommunikationen generieren, um mit Besucherinnen und Besuchern erneut zu interagieren, was zu einem stärker personalisierten und ansprechenderen Benutzererlebnis führt.
+Experience Cloud Triggers bietet eine umfassende Lösung zur Identifizierung, Definition und Monitoring kritischer Verbraucherverhaltensweisen. Mit diesen Triggern können Sie anwendungsübergreifende Kommunikationen generieren, um mit Besucherinnen und Besuchern erneut zu interagieren, was zu einem stärker personalisierten und ansprechenderen Benutzererlebnis führt.
 
 Sie können Trigger für Entscheidungen und Personalisierung in Echtzeit verwenden, wie zum Beispiel:
 
@@ -21,7 +31,7 @@ Sie können Trigger für Entscheidungen und Personalisierung in Echtzeit verwend
 
 ## Triggers-Typen
 
-Im Allgemeinen kann ein Auslöser 15 bis 90 Minuten benötigen, um eine Marketing-Kampagne zu starten. Diese Verzögerung hängt von der Implementierung der Datenerfassung, der Auslastung der Pipeline, der benutzerdefinierten Konfiguration des definierten Triggers und dem Arbeitsablauf in Adobe Campaign ab.
+Im Allgemeinen kann ein Auslöser 15 bis 90 Minuten benötigen, um eine Marketing-Kampagne zu starten. Diese Verzögerung hängt von der Implementierung der Datenerfassung, der Auslastung der Pipeline, der benutzerdefinierten Konfiguration des definierten Triggers und dem Workflow in Adobe Campaign ab.
 
 * **Abbruch:** Sie können einen Auslöser für den Fall erstellen, dass ein Besucher ein Produkt anzeigt, es jedoch nicht zum Warenkorb hinzufügt.
 * **Aktion:** Sie können Sie Trigger erstellen, die beispielsweise nach der Newsletter-Anmeldung, E-Mail-Abonnements oder Kreditkartenanträgen (Bestätigungen) ausgelöst werden. Wenn Sie ein Händler sind, können Sie einen Trigger für einen Besucher erstellen, der sich für ein Treueprogramm anmeldet. Erstellen Sie in Medien und Unterhaltung Trigger für Besucher, die eine bestimmte Sendung ansehen. Sie können auch mit einer Umfrage reagieren.

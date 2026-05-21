@@ -2,12 +2,21 @@
 title: Panels hinzufügen
 description: Dynamische Berichte ermöglichen es Ihnen, ein Bedienfeld hinzuzufügen, um Ihre Daten entsprechend dem ausgewählten Zeitraum zu filtern.
 audience: end-user
-badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 level: Intermediate
 exl-id: c87f6155-821d-422d-86e5-4f5533d62fda
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+TQID: https://experienceleague.adobe.com/RBJpxEnLVTzn5eqJyEeFM3bhLuz4rkLhbnAL0xd8aBc
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: 386
 ht-degree: 97%
 
 ---
@@ -28,9 +37,9 @@ In diesen Panels können Sie nach Bedarf Ihre Berichte erstellen. Sie können be
 
    ![](assets/dynamic_report_panel.png)
 
-Dann können Sie eine Freiformtabelle in Ihr Panel einfügen, um mit der Datensuche zu beginnen.
+Dann können Sie eine Freiformtabelle in Ihr Bedienfeld einfügen, um mit der Datensuche zu beginnen.
 
-## Freiformtabelle hinzufügen            {#adding-a-freeform-table}
+## Freiformtabelle hinzufügen {#adding-a-freeform-table}
 
 Mit Freiformtabellen kann eine Tabelle erstellt werden, in der Daten unter Verwendung der unterschiedlichen Messwerte und Dimensionen im Bereich **Komponente** analysiert werden.
 
