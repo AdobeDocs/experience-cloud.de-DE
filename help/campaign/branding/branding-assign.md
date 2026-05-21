@@ -107,7 +107,7 @@ Gehen Sie wie folgt vor, um einen neuen eigenständigen Versand zu erstellen.
 
 1. Wählen Sie nach der Konfiguration **OK** aus.
 
-1. Personalisieren Sie Ihre Sendungen weiter. Weitere Informationen zum Erstellen einer E-Mail finden Sie im Abschnitt [Entwerfen und Senden von E-Mails](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email).
+1. Personalisieren Sie Ihre Sendungen weiter. Weitere Informationen zum Erstellen einer E-Mail finden Sie im Abschnitt [Entwerfen und Senden von E-Mails](https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/email/create-email).
 
 >[!TAB Adobe Campaign Web]
 
@@ -133,6 +133,6 @@ Gehen Sie wie folgt vor, um einen neuen eigenständigen Versand zu erstellen.
 
    ![](assets/branding_assign_web_7.png)
 
-1. Personalisieren Sie Ihre Sendungen weiter. Weitere Informationen zum Erstellen einer E-Mail finden Sie im Abschnitt [Erstellen Ihrer ersten E-Mail](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email).
+1. Personalisieren Sie Ihre Sendungen weiter. Weitere Informationen zum Erstellen einer E-Mail finden Sie im Abschnitt [Erstellen Ihrer ersten E-Mail](https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/email/create-email).
 
 >[!ENDTABS]
