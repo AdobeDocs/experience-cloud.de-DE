@@ -3,12 +3,17 @@ title: Fehlerbehebung bei dynamischen Berichten
 description: Hier finden Sie häufig gestellte Fragen zu dynamischen Berichten.
 audience: end-user
 level: Intermediate
-badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 exl-id: a58fc8fd-e510-45ef-8fe9-c75ff4498113
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+TQID: https://experienceleague.adobe.com/F93fgaxBe78h7najrzjiDIAJZeCwM3lbCLA-X79-R9I
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '1239'
-ht-degree: 97%
+source-wordcount: 1241
+ht-degree: 99%
 
 ---
 
@@ -101,7 +106,7 @@ Solche Ereignisse werden hinzugefügt, da **ein E-Mail-Klick auf eine E-Mail-Öf
 >
 >Da die eindeutige Anzahl auf einem HLL-basierten Sketch basiert, können zwischen den Zahlen kleine Unterschiede auftreten.
 
-## Wie werden die Zahlen für wiederkehrende Sendungen/den Versand von Transaktionsnachrichten berechnet?  {#counts-recurring-deliveries}
+## Wie werden die Zahlen für wiederkehrende Sendungen/den Versand von Transaktionsnachrichten berechnet? {#counts-recurring-deliveries}
 
 Bei wiederkehrenden Sendungen und dem Versand von Transaktionsnachrichten werden die Zahlen sowohl den über- als auch den untergeordneten Sendungen zugeordnet.
 Nehmen Sie zum Beispiel einen wiederkehrenden Versand mit der Bezeichnung **R1**, der täglich an Tag 1 (RC1), Tag 2 (RC2) und Tag 3 (RC3) ausgeführt wird.
@@ -186,7 +191,7 @@ So beheben Sie das Problem:
 
 * Nach dem Importieren Ihres Zielgruppen-Mappings aus einer XML-Datei müssen Sie auch die Berichtsanreicherung importieren.
 
-* Anstatt Ihr Zielgruppen-Mapping zu importieren, können Sie es auch direkt in der Web-Benutzeroberfläche von Adobe Campaign erstellen. Dadurch wird die Berichtsanreicherung automatisch erstellt.
+* Anstatt Ihr Zielgruppen-Mappings zu importieren, können Sie es auch direkt in der Benutzeroberfläche von Adobe Campaign Web erstellen, wodurch die Berichtsanreicherung automatisch erstellt wird.
 
 ## Diskrepanz zwischen der Spaltentitelnummer und der Summe der Zeilen
 
@@ -194,7 +199,7 @@ In den folgenden Fällen wird eine Diskrepanz zwischen der Spaltentitelnummer un
 
 * **Eindeutige Metriken**: Durch die Verwendung eindeutiger Metriken kann sich die in der Kopfzeile angezeigte Gesamtanzahl ändern, da sie auf Empfängerkennungen und nicht auf einer einfachen Summe der Zeilenanzahl basiert. Daher kann ein einzelnes Profil mehrere Ereignisse über verschiedene Dimensionen hinweg auslösen, was zu mehreren Zeilen im Datensatz führt. In der Kopfzeile wird jedes Profil jedoch nur einmal gezählt.
 
-  z. B.:
+  Beispiel:
 
    * Wenn Profil A eine E-Mail an drei verschiedenen Tagen öffnet, wird A in der Aufschlüsselung nach Tag in drei Zeilen angezeigt. In der Kopfzeile wird A jedoch als 1 gezählt.
 
@@ -202,7 +207,7 @@ In den folgenden Fällen wird eine Diskrepanz zwischen der Spaltentitelnummer un
 
 * **Öffnungsmetriken**: Die Anzahl der Öffnungen wird durch die Aggregation der Summe der tatsächlichen Öffnungsereignisse und der Einzelklickereignisse (pro Empfängerkennung) ermittelt. Dabei werden Fälle ausgeschlossen, in denen kein Öffnungsereignis aufgetreten ist, da es ohne ein Öffnungsereignis nicht möglich ist, auf einen E-Mail-Link zu klicken.
 
-  z. B.:
+  Beispiel:
 
    * Wenn Profil A eine nachverfolgte E-Mail öffnet (mit URL U1), wird dies als Öffnungsereignis registriert, wobei die URL als Null aufgezeichnet wird. Beim späteren Klicken auf U1 wird ein Klickereignis generiert. Obwohl der Klick von A auf U1 auch als Öffnungsereignis gezählt wird, gibt es kein spezifisches Öffnungsereignis für U1. Daher wird A nur einmal in der Anzahl der Einzelöffnungen gezählt.
 

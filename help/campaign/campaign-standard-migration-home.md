@@ -1,18 +1,23 @@
 ---
 title: Adobe Campaign-Web-Benutzeroberfläche
 description: Erkunden der Adobe Campaign Web-Benutzeroberfläche
-badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 exl-id: eecf4e13-820d-4454-9f11-f50be565bb79
-source-git-commit: 57d64cb5436381e1dbad9add0d8fe117e6f11ecf
+TQID: https://experienceleague.adobe.com/Ac8fvg1LbjA-BhC7ldFfSxFo-CYzKhjd1itqk6jltOM
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 31%
+source-wordcount: 391
+ht-degree: 48%
 
 ---
 
 # Wechsel von Campaign Standard zu Campaign v8 {#triggers-home}
 
-Als Benutzende von Campaign Standard, die zu Campaign v8 wechseln, können Sie jetzt von der neuen Version der Adobe Campaign Web-Benutzeroberfläche und der leistungsstarken v8-Konsole profitieren. Die Transition ist nahtlos und ermöglicht die Verwendung aller intuitiven Funktionen, die die Erstellung personalisierter kanalübergreifender Kampagnen vereinfachen. Die Web-Benutzeroberfläche von Campaign bietet außerdem eine verbundene Arbeitsfläche mit Adobe Experience Platform für ein einheitliches Erlebnis.
+Als Benutzende von Campaign Standard, die zu Campaign v8 wechseln, können Sie jetzt von der neuen Version der Adobe Campaign Web-Benutzeroberfläche und der leistungsstarken v8-Konsole profitieren. Die Transition ist nahtlos und ermöglicht die Verwendung aller intuitiven Funktionen, die die Erstellung personalisierter kanalübergreifender Kampagnen vereinfachen. Die Campaign Web-Benutzeroberfläche bietet eine mit Adobe Experience Platform verbundene Arbeitsfläche und dadurch ein einheitliches Erlebnis.
 
 Darüber hinaus bringt dieser Übergang viele Vorteile mit sich:
 
@@ -27,7 +32,7 @@ Weitere Informationen zu den wichtigsten Funktionen und Konzeptunterschieden fin
 
 Hier erhalten Sie einen Überblick über alle Funktionen und Möglichkeiten der [Campaign Web-Benutzeroberfläche](https://experienceleague.adobe.com/de/docs/campaign-web/v8/campaign-web-home) und [Campaign v8](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/campaign-home).
 
-Damit Sie nahtlos umsteigen können, haben wir wichtige Funktionen von Campaign Standard zu v8 hinzugefügt:
+Für einen nahtlosen Übergang haben wir wichtige Funktionen von Campaign Standard zu v8 hinzugefügt:
 
 >[!BEGINTABS]
 
@@ -39,11 +44,11 @@ Sie können auf das dynamische Reporting zugreifen, das vollständig anpassbare 
 
 >[!TAB Zentralisiertes Branding]
 
-Ihre technischen Admins können jetzt eine oder mehrere Marken definieren, um die Parameter, die die Identität einer Marke beeinflussen, zu zentralisieren.
+Ihre technischen Admins können nun eine oder mehrere Marken definieren, um die Parameter zu zentralisieren, die sich auf die Markenidentität auswirken.
 
 [![Bild](assets/do-not-localize/learn-more-button.svg)](branding/branding-gs.md)
 
->[!TAB REST-APIs]
+>[!TAB Rest-APIs]
 
 Sie können REST-APIs verwenden, um Integrationen für Adobe Campaign zu erstellen und Ihr eigenes Ökosystem aufzubauen, indem Sie Adobe Campaign mit dem von Ihnen verwendeten Technologiebereich verbinden.
 
@@ -64,19 +69,19 @@ Sie können REST-APIs verwenden, um Integrationen für Adobe Campaign zu erstell
     <div><strong>Neu gestaltete Workflow-Arbeitsfläche</strong><br/></div><br/>
     </td>
     <td>
-    <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/email/content/start-design/get-started-email-designer"><img src="assets/do-not-localize/menu-email.png"></a>
+    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/start-design/get-started-email-designer"><img src="assets/do-not-localize/menu-email.png"></a>
     <div><strong>Kennenlernen von E-Mail-Designer</strong><br/>
     </div></td>
     <td>
-    <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/dynamic-content/gs-personalization"><img src="assets/do-not-localize/menu-dynamic.png"></a>
+    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/gs-personalization"><img src="assets/do-not-localize/menu-dynamic.png"></a>
     <div><strong>Inhalte dynamisch gestalten</strong><br/></div>
     </td>
   </tr>
   <tr style="border: 0;">
     <td align="center"><a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/start/user-interface"><img src="assets/do-not-localize/learn-more-button.svg"></a></td>
     <td align="center"><a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/wf/gs-workflows"><img src="assets/do-not-localize/learn-more-button.svg"></a></td>
-    <td align="center"><a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/email/content/start-design/get-started-email-designer"><img src="assets/do-not-localize/learn-more-button.svg"></a></td>
-    <td align="center"><a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/dynamic-content/gs-personalization"><img src="assets/do-not-localize/learn-more-button.svg"></a></td>
+    <td align="center"><a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/start-design/get-started-email-designer"><img src="assets/do-not-localize/learn-more-button.svg"></a></td>
+    <td align="center"><a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/gs-personalization"><img src="assets/do-not-localize/learn-more-button.svg"></a></td>
     </tr>
 </table>
 

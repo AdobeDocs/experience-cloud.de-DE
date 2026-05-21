@@ -3,18 +3,23 @@ title: Liste von Komponenten
 description: Hier finden Sie die Liste der in dynamischen Berichten enthaltenen Komponenten sowie ihre Definitionen.
 level: Beginner
 audience: end-user
-badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierter Benutzer beschränkt"
+badge: label="EINGESCHRÄNKTE VERFÜGBARKEIT" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Auf Campaign Standard migrierte Benutzende beschränkt"
 exl-id: 5c58db92-7878-4c70-b076-a393f1cda8b7
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+TQID: https://experienceleague.adobe.com/AmKod4IH5ALU1TliTcePIZy-5Z3qyshXvi6n9UgqC2Y
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '770'
-ht-degree: 94%
+source-wordcount: 772
+ht-degree: 98%
 
 ---
 
 # Liste von Komponenten {#list-of-components}
 
-Wenn zwei Komponenten nicht kompatibel sind, zeigt die Zelle den Wert &quot;**&quot;**.
+Beachten Sie, dass die Zelle bei Inkompatibilität zweier Komponenten den Wert **Ohne** anzeigt.
 
 ## Dimensionen {#dimensions}
 
@@ -33,7 +38,7 @@ In der Tabelle unten finden Sie die Liste der Dimensionen, die in Berichten verw
    <td> Browser, in dem die Nachricht geöffnet oder angeklickt wurde<br/> </td> 
   </tr> 
   <tr> 
-   <td> Campaign<br/> </td> 
+   <td> Kampagne<br/> </td> 
    <td> Titel und Kennung Ihrer Kampagne<br/> </td> 
   </tr> 
   <tr> 
@@ -58,7 +63,7 @@ In der Tabelle unten finden Sie die Liste der Dimensionen, die in Berichten verw
   </tr> 
   <tr> 
    <td> Profil<br/> </td> 
-   <td> Gruppiert vordefinierte und benutzerdefinierte Profilfelder neu, die während der Profilressourcenerweiterung erstellt wurden.<br/> </td> 
+   <td> Gruppiert native und benutzerdefinierte Profilfelder neu, die während der Profilressourcenerweiterung erstellt wurden.<br/> </td> 
   </tr> 
   <tr> 
    <td> Empfänger-Domain<br/> </td> 
@@ -123,7 +128,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Metriken
   </tr> 
   <tr> 
    <td> Bounces + Fehler<br/> </td> 
-   <td> Gesamtzahl der kumulierten Fehler bei Versand und automatischer Bounce-Verarbeitung im Verhältnis zur Gesamtzahl der gesendeten Nachrichten.<br/> </td> 
+   <td> Gesamtzahl der über alle Sendungen hinweg kumulierten Fehler und der automatischen Bounce-Verarbeitung in Bezug auf die Gesamtzahl der gesendeten Nachrichten<br/> </td> 
   </tr> 
   <tr> 
    <td> Bounce- + Fehlerrate<br/> </td> 
@@ -139,7 +144,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Metriken
   </tr> 
   <tr> 
    <td> Zugestellt<br/> </td> 
-   <td> Zahl der erfolgreich gesendeten Nachrichten im Verhältnis zur Gesamtzahl der gesendeten Nachrichten.<br/> </td> 
+   <td> Anzahl der erfolgreich gesendeten Nachrichten in Bezug auf die Gesamtzahl der gesendeten Nachrichten<br/> </td> 
   </tr> 
   <tr> 
    <td> Zustellrate<br/> </td> 
@@ -198,7 +203,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Metriken
    <td> Prozentsatz der Nachrichten, die als abgelehnt gekennzeichnet wurden<br/> </td> 
   </tr> 
   <tr> 
-   <td> Softbounce<br/> </td> 
+   <td> Softbounces<br/> </td> 
    <td> Gesamtzahl der temporären Fehler, beispielsweise einer vollen Inbox<br/> </td> 
   </tr> 
   <tr> 
@@ -214,7 +219,7 @@ In den Tabellen unten finden Sie nach Versandtyp geordnet die Liste der Metriken
    <td> Anzahl der Empfänger, die den Versand geöffnet haben<br/> </td> 
   </tr> 
   <tr> 
-   <td> Eindeutig abgemeldet<br/> </td> 
+   <td> Einzelabmeldung<br/> </td> 
    <td> Die Anzahl der Empfänger, die den Abmelde-Link angeklickt haben.<br/> </td> 
   </tr> 
   <tr> 
