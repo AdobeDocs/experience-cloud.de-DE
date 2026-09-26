@@ -6,13 +6,12 @@ exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
 TQID: https://experienceleague.adobe.com/gCmvM2zwg-6CmT-O1HjM24niis-mJRnJEXt3LunUZaI
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
+    internal-label: CX Enterprise
+source-git-commit: 4d6fa2af9541ffd61bfe4b26a84e574ea6a634c8
 workflow-type: tm+mt
-source-wordcount: 630
+source-wordcount: '630'
 ht-degree: 100%
-
 ---
-
 # Globale Unterdrückungsliste {#global-suppression-list}
 
 Eine Unterdrückungsliste besteht aus E-Mail-Adressen, die Kundinnen und Kunden von ihren Sendungen ausschließen möchten, da das Senden an diese Kontakte ihren Ruf als Versender und ihre Versandraten beeinträchtigen könnte. Derzeit führt Adobe eine aktualisierte Liste bekannter schlechter E-Mail-Adressen, die sich nachweislich negativ auf die Interaktion und die Reputation des Versenders auswirken, und stellt sicher, dass E-Mails an diese Adressen nicht zugestellt werden. Diese Liste wird in einer globalen Unterdrückungsliste verwaltet, die für alle Adobe-Kunden gleich ist. Die Adressen und Domain-Namen in der globalen Unterdrückungsliste sind verborgen. In den Versandberichten wird nur die Anzahl der ausgeschlossen Empfänger angegeben.

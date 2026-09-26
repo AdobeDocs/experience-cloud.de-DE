@@ -6,13 +6,12 @@ exl-id: 31ea97e7-b0a0-4a92-bc69-a458fdbc1d7c
 TQID: https://experienceleague.adobe.com/cBUtLbfjHHnFO2SMjh0bVDJNZFJlnGolwSShLZ0hIew
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
+    internal-label: CX Enterprise
+source-git-commit: 4d6fa2af9541ffd61bfe4b26a84e574ea6a634c8
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: '173'
 ht-degree: 100%
-
 ---
-
 # Adobe-Zustellbarkeits-Services {#deliv-home}
 
 Fachleute für Zustellbarkeit und operative Teams müssen mehrere Aktivitäten durchführen, um Kundinnen und Kunden bei der Verbesserung ihrer E-Mail-Zustellbarkeit zu unterstützen. Nach der Analyse aller Zustellbarkeitsfunktionen wird festgestellt, dass die meisten Funktionen zwar direkt für Kundinnen und Kunden zugänglich gemacht werden können, einige Funktionen jedoch nur für das Zustellbarkeits-Team von Adobe verfügbar sein sollten. Um Kundinnen und Kunden schnellere und bessere Zustellbarkeits-Services anzubieten, haben wir beschlossen, eine benutzeroberflächenbasierte Zustellbarkeitsanwendung zu erstellen, die als zentrale Lösung für das Zustellbarkeits-Team dient. Mithilfe dieser Anwendung kann das Zustellbarkeits-Team seine Services für die Kundinnen und Kunden mehrerer Produkte in der Customer Journey-Management-Familie bereitstellen, d. h. Journey Optimizer, Campaign und Marketo.
